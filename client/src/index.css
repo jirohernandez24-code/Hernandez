@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply text-gray-900 antialiased;
+  }
+}
+
+@layer components {
+  .vital-card {
+    @apply bg-white rounded-xl shadow-sm border p-4 transition-all duration-300;
+  }
+  .vital-card.warning {
+    @apply border-yellow-400 bg-yellow-50;
+  }
+  .vital-card.critical {
+    @apply border-red-500 bg-red-50 animate-pulse-vital;
+  }
+  .btn-primary {
+    @apply bg-medical-blue text-white px-4 py-2 rounded-lg font-medium hover:bg-blue-700 transition-colors disabled:opacity-50 disabled:cursor-not-allowed;
+  }
+  .btn-secondary {
+    @apply bg-gray-200 text-gray-800 px-4 py-2 rounded-lg font-medium hover:bg-gray-300 transition-colors;
+  }
+  .btn-danger {
+    @apply bg-medical-red text-white px-4 py-2 rounded-lg font-medium hover:bg-red-700 transition-colors;
+  }
+  .btn-success {
+    @apply bg-medical-green text-white px-4 py-2 rounded-lg font-medium hover:bg-teal-700 transition-colors;
+  }
+  .phase-tab {
+    @apply px-3 py-2 rounded-lg text-sm font-medium transition-all cursor-pointer;
+  }
+  .phase-tab.active {
+    @apply bg-medical-blue text-white shadow-md;
+  }
+  .phase-tab.completed {
+    @apply bg-green-100 text-green-800;
+  }
+  .phase-tab.inactive {
+    @apply bg-gray-100 text-gray-600 hover:bg-gray-200;
+  }
+}

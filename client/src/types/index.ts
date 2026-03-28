@@ -1,0 +1,15 @@
+export type {
+  Patient,
+  VitalSigns,
+  Scenario,
+  SimulationState,
+  NursingAction,
+  ChatMessage,
+  ADPIEPhase,
+  ScoreBreakdown,
+  VitalSignsAlert,
+  LabResult,
+  Medication,
+  WSClientMessage,
+  WSServerMessage,
+} from '../../../shared/types';
