@@ -36,6 +36,16 @@ export default function Layout() {
             >
               Scenario Library
             </NavLink>
+            <NavLink
+              to="/ward3d"
+              className={({ isActive }) =>
+                `px-4 py-2 rounded-lg text-sm font-medium transition-colors ${
+                  isActive ? 'bg-medical-blue text-white' : 'text-gray-600 hover:bg-gray-100'
+                }`
+              }
+            >
+              3D Ward
+            </NavLink>
           </nav>
         </div>
       </header>
