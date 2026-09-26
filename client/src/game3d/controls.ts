@@ -1,16 +1,32 @@
 import * as THREE from 'three';
 
 const RADIUS = 0.28;
-const SPEED = 2.4;
+const WALK = 2.1;
+const RUN = 4.2;
 const TURN_SPEED = 1.8;
+const EYE = 1.62;
+const CAM_DIST = 2.7;
+const SHOULDER = 0.5;
 const LOOK_SENS = 0.0045;
 const TAP_SLOP = 8;
 
+export type ViewMode = 'third' | 'first';
+
+/** GTA-style controller: camera-relative movement, the character turns to face where it walks, over-the-shoulder camera. */
 export class PlayerControls {
-  readonly position = new THREE.Vector3(3.1, 1.62, 2.9);
-  yaw = 0.55;
-  pitch = -0.12;
+  /** Feet position (y = 0). */
+  readonly position = new THREE.Vector3(-7, 0, 4.8);
+  /** Camera yaw/pitch. */
+  yaw = -Math.PI / 2;
+  pitch = -0.22;
+  /** Direction the character faces (world yaw, 0 = +z). */
+  heading = Math.PI / 2;
+  /** Current ground speed in m/s, for the walk animation. */
+  speed = 0;
+  mode: ViewMode = 'third';
   enabled = true;
+  private camDist = CAM_DIST;
+  private ray = new THREE.Raycaster();
   onTap: ((x: number, y: number) => void) | null = null;
   onHover: ((x: number, y: number) => void) | null = null;
   onInteractKey: (() => void) | null = null;
@@ -29,7 +45,8 @@ export class PlayerControls {
     on(window, 'keydown', (e) => {
       if (!this.enabled || (e.target as HTMLElement)?.tagName === 'INPUT') return;
       const k = e.key.toLowerCase();
-      if (['w', 'a', 's', 'd', 'arrowup', 'arrowdown', 'arrowleft', 'arrowright'].includes(k)) {
+      if (k === 'v') this.mode = this.mode === 'third' ? 'first' : 'third';
+      if (['w', 'a', 's', 'd', 'shift', 'arrowup', 'arrowdown', 'arrowleft', 'arrowright'].includes(k)) {
         this.keys.add(k);
         e.preventDefault();
       }
@@ -56,7 +73,7 @@ export class PlayerControls {
         if (Math.hypot(e.clientX - this.drag.sx, e.clientY - this.drag.sy) > TAP_SLOP) this.drag.moved = true;
         if (this.drag.moved) {
           this.yaw -= dx * LOOK_SENS;
-          this.pitch = THREE.MathUtils.clamp(this.pitch - dy * LOOK_SENS, -1.2, 1.0);
+          this.pitch = THREE.MathUtils.clamp(this.pitch - dy * LOOK_SENS, -1.1, 0.6);
         }
       } else if (e.pointerType === 'mouse') {
         this.onHover?.(e.clientX, e.clientY);
@@ -102,7 +119,14 @@ export class PlayerControls {
     on(joystick, 'pointercancel', joyEnd);
   }
 
-  update(dt: number, camera: THREE.PerspectiveCamera, obstacles: THREE.Box3[], bounds: { minX: number; maxX: number; minZ: number; maxZ: number }) {
+  update(
+    dt: number,
+    camera: THREE.PerspectiveCamera,
+    obstacles: THREE.Box3[],
+    bounds: { minX: number; maxX: number; minZ: number; maxZ: number },
+    blockers: THREE.Object3D[],
+  ) {
+    let moving = false;
     if (this.enabled) {
       const k = this.keys;
       let fwd = this.joy.y;
@@ -119,16 +143,51 @@ export class PlayerControls {
         fwd /= len;
         strafe /= len;
       }
-      const sin = Math.sin(this.yaw);
-      const cos = Math.cos(this.yaw);
-      const dx = (-sin * fwd + cos * strafe) * SPEED * dt;
-      const dz = (-cos * fwd - sin * strafe) * SPEED * dt;
-      this.moveAxis(dx, 0, obstacles);
-      this.moveAxis(0, dz, obstacles);
+      const running = k.has('shift') || this.joy.length() > 0.92;
+      const target = Math.min(1, len) * (running ? RUN : WALK);
+      this.speed += (target - this.speed) * Math.min(1, dt * 10);
+      if (len > 0.05) {
+        moving = true;
+        const sin = Math.sin(this.yaw);
+        const cos = Math.cos(this.yaw);
+        const mx = -sin * fwd + cos * strafe;
+        const mz = -cos * fwd - sin * strafe;
+        const ml = Math.hypot(mx, mz);
+        this.moveAxis((mx / ml) * this.speed * dt, 0, obstacles);
+        this.moveAxis(0, (mz / ml) * this.speed * dt, obstacles);
+        if (this.mode === 'third') {
+          const want = Math.atan2(mx, mz);
+          let diff = want - this.heading;
+          diff = Math.atan2(Math.sin(diff), Math.cos(diff));
+          this.heading += diff * Math.min(1, dt * 12);
+        }
+      }
       this.position.x = THREE.MathUtils.clamp(this.position.x, bounds.minX, bounds.maxX);
       this.position.z = THREE.MathUtils.clamp(this.position.z, bounds.minZ, bounds.maxZ);
     }
-    camera.position.copy(this.position);
+    if (!moving) this.speed += (0 - this.speed) * Math.min(1, dt * 10);
+
+    if (this.mode === 'first') {
+      this.heading = this.yaw + Math.PI;
+      camera.position.set(this.position.x, EYE, this.position.z);
+      camera.rotation.set(this.pitch, this.yaw, 0, 'YXZ');
+      return;
+    }
+
+    // Over-the-shoulder chase camera with wall collision
+    const pivot = new THREE.Vector3(this.position.x, 1.5, this.position.z);
+    const right = new THREE.Vector3(Math.cos(this.yaw), 0, -Math.sin(this.yaw));
+    pivot.addScaledVector(right, SHOULDER);
+    const back = new THREE.Vector3(0, 0, 1).applyEuler(new THREE.Euler(this.pitch, this.yaw, 0, 'YXZ'));
+    let want = CAM_DIST;
+    this.ray.set(pivot, back);
+    this.ray.far = CAM_DIST + 0.3;
+    const hit = this.ray.intersectObjects(blockers, false)[0];
+    if (hit) want = Math.max(0.35, hit.distance - 0.25);
+    // Snap in fast when blocked, ease out slowly (like GTA)
+    this.camDist += (want - this.camDist) * Math.min(1, dt * (want < this.camDist ? 20 : 4));
+    camera.position.copy(pivot).addScaledVector(back, this.camDist);
+    camera.position.y = Math.min(camera.position.y, 2.85);
     camera.rotation.set(this.pitch, this.yaw, 0, 'YXZ');
   }
 

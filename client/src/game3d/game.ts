@@ -1,7 +1,11 @@
 import * as THREE from 'three';
+import { RoomEnvironment } from 'three/examples/jsm/environments/RoomEnvironment.js';
 import { ACTIONS_BY_ID, REPEATABLE, STATION_NAMES, actionsForStation } from './actions';
 import { MonitorAudio } from './audio';
+import { LOOKS, createAvatar, type Avatar } from './avatar';
 import { PlayerControls } from './controls';
+import { PostFX } from './post';
+import { Radar, type Blip } from './radar';
 import { SimulationEngine, type ActionResult } from './engine';
 import { SCENARIOS } from './scenarios';
 import { MonitorScreen, drawPump, drawWhiteboard } from './screens';
@@ -9,8 +13,19 @@ import { GAME_CSS } from './styles';
 import type { Scenario, StationId } from './types';
 import { buildWorld, type World } from './world';
 
-const REACH = 1.7;
+const REACH = 1.5;
 const STYLE_ID = 'w3d-styles';
+const FONT_ID = 'w3d-fonts';
+
+interface Npc {
+  avatar: Avatar;
+  route: THREE.Vector3[];
+  idx: number;
+  wait: number;
+}
+
+/** Room 304 footprint: stations inside are only usable from inside the room. */
+const inRoom = (p: THREE.Vector3) => p.z < 3.95 && Math.abs(p.x) < 5;
 
 type Screen = 'menu' | 'briefing' | 'playing' | 'debrief';
 
@@ -60,6 +75,16 @@ export class WardGame {
   private ivLabel = '';
   private codeShownAt = 0;
   private t = 0;
+  private post: PostFX;
+  private radar: Radar;
+  private player: Avatar;
+  private npcs: Npc[] = [];
+  /** Mission phase: walk to the room first, then the clock starts. */
+  private entered = false;
+  private stars = 0;
+  private bannerTimer = 0;
+  private hq = true;
+  private showLabels = true;
 
   private el: Record<string, HTMLElement> = {};
 
@@ -70,49 +95,98 @@ export class WardGame {
       style.textContent = GAME_CSS;
       document.head.appendChild(style);
     }
+    if (!document.getElementById(FONT_ID)) {
+      const link = document.createElement('link');
+      link.id = FONT_ID;
+      link.rel = 'stylesheet';
+      link.href = 'https://fonts.googleapis.com/css2?family=Anton&family=Oswald:wght@500;700&display=swap';
+      document.head.appendChild(link);
+    }
 
     this.root = document.createElement('div');
     this.root.className = 'w3d';
     this.root.innerHTML = `
-      <div class="w3d-vignette" data-el="vignette"></div>
       <div class="w3d-hud" data-el="hud" style="display:none">
-        <div class="w3d-crosshair"></div>
-        <div class="w3d-patient w3d-card" data-el="patient"></div>
+        <div class="w3d-crosshair" data-el="crosshair"></div>
         <div class="w3d-vitals" data-el="vitals"></div>
-        <div class="w3d-top-right">
-          <div class="w3d-score w3d-card" data-el="score"></div>
+        <div class="w3d-help-col">
+          <div class="w3d-help" data-el="prompt"></div>
+          <div class="w3d-toasts" data-el="toasts"></div>
+        </div>
+        <div class="w3d-stats">
+          <div class="w3d-time" data-el="clock">00:00</div>
+          <div class="w3d-money" data-el="score">PTS 0</div>
+          <div class="w3d-stars" data-el="stars" title="Patient acuity"></div>
           <div class="w3d-tools">
-            <button data-act="hint" title="Get a hint (−3 pts)">💡<span class="w3d-txt"> Hint</span></button>
-            <button data-act="labels" title="Toggle station labels">🏷️<span class="w3d-txt"> Labels</span></button>
-            <button data-act="sound" data-el="soundBtn" title="Toggle sound">🔊</button>
-            <button data-act="pause" title="Pause">⏸</button>
+            <button data-act="hint" title="Get a hint (−3 pts)">HINT</button>
+            <button data-act="view" title="Switch camera (V)">CAM</button>
+            <button data-act="labels" title="Toggle labels">TAGS</button>
+            <button data-act="quality" data-el="qualityBtn" title="Graphics quality">HQ</button>
+            <button data-act="sound" data-el="soundBtn" title="Toggle sound">SND</button>
+            <button data-act="pause" title="Pause (Esc)">II</button>
           </div>
         </div>
-        <div class="w3d-prompt w3d-card" data-el="prompt"></div>
-        <div class="w3d-toasts" data-el="toasts"></div>
+        <div class="w3d-radar-wrap">
+          <div class="w3d-patient" data-el="patient"></div>
+          <div data-el="radarHost"></div>
+          <div class="w3d-bars">
+            <div class="w3d-bar cond"><div data-el="condBar"></div></div>
+            <div class="w3d-bar prio"><div data-el="prioBar"></div></div>
+          </div>
+        </div>
+        <div class="w3d-subtitle" data-el="subtitle"></div>
         <div class="w3d-joystick" data-el="joy"><div data-el="knob"></div></div>
         <button class="w3d-use" data-act="use">USE</button>
+        <button class="w3d-run" data-act="view">CAM</button>
       </div>
+      <div class="w3d-banner" data-el="banner"></div>
       <div data-el="overlay"></div>
     `;
     container.appendChild(this.root);
     this.root.querySelectorAll<HTMLElement>('[data-el]').forEach((n) => (this.el[n.dataset.el!] = n));
 
     this.renderer = new THREE.WebGLRenderer({ antialias: true, powerPreference: 'high-performance' });
-    this.renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+    this.renderer.setPixelRatio(Math.min(window.devicePixelRatio, 1.75));
     this.renderer.shadowMap.enabled = true;
     this.renderer.shadowMap.type = THREE.PCFSoftShadowMap;
     this.renderer.toneMapping = THREE.ACESFilmicToneMapping;
+    this.renderer.toneMappingExposure = 0.9;
     this.renderer.outputColorSpace = THREE.SRGBColorSpace;
     this.root.prepend(this.renderer.domElement);
 
     this.camera = new THREE.PerspectiveCamera(70, 1, 0.05, 50);
     this.world = buildWorld(STATION_NAMES);
+    // Image-based lighting gives metals, glass and the glossy floor real reflections
+    const pmrem = new THREE.PMREMGenerator(this.renderer);
+    this.world.scene.environment = pmrem.fromScene(new RoomEnvironment(), 0.04).texture;
+    this.world.scene.environmentIntensity = 0.25;
+    pmrem.dispose();
+    this.post = new PostFX(this.renderer, this.world.scene, this.camera);
+    this.radar = new Radar(this.world.mapRects);
+    this.el.radarHost.appendChild(this.radar.canvas);
+    this.radar.canvas.className = 'w3d-radar';
+
+    this.player = createAvatar(LOOKS.player);
+    this.world.scene.add(this.player.group);
+    const routes = this.world.npcRoutes;
+    for (const [look, route] of [[LOOKS.nurse2, routes[0]], [LOOKS.doctor, routes[1]], [LOOKS.aide, routes[2]]] as const) {
+      const avatar = createAvatar(look);
+      avatar.group.position.copy(route[0]);
+      this.world.scene.add(avatar.group);
+      this.npcs.push({ avatar, route, idx: 1, wait: Math.random() * 2 });
+    }
+    const visitor = createAvatar(LOOKS.visitor);
+    visitor.group.position.copy(this.world.benchSeats[1]);
+    visitor.group.position.z -= 0.1;
+    visitor.group.rotation.y = Math.PI;
+    visitor.sit();
+    this.world.scene.add(visitor.group);
+    this.npcs.push({ avatar: visitor, route: [], idx: 0, wait: 0 });
     (this.world.monitorScreen.material as THREE.MeshBasicMaterial).map = this.monitor.texture;
     this.monitor.onBeat = () => {
       if (this.engine?.monitorAttached && this.screen === 'playing') this.audio.beat(this.engine.vitals.spo2);
     };
-    this.highlight = new THREE.Box3Helper(new THREE.Box3(), 0xfacc15);
+    this.highlight = new THREE.Box3Helper(new THREE.Box3(), 0xf5c518);
     this.highlight.visible = false;
     this.world.scene.add(this.highlight);
 
@@ -131,8 +205,7 @@ export class WardGame {
     this.controls.onInteractKey = () => {
       if (this.screen !== 'playing' || this.menuStation || this.paused) return;
       this.audio.unlock();
-      const hit = this.pick(new THREE.Vector2(0, 0));
-      if (hit) this.tryInteract(hit.station, hit.dist);
+      this.useNearest();
     };
 
     this.root.addEventListener('click', (e) => {
@@ -160,28 +233,30 @@ export class WardGame {
     this.screen = 'menu';
     this.engine = null;
     this.el.hud.style.display = 'none';
-    this.el.vignette.style.opacity = '0';
+    this.post.set({ gray: 0, danger: 0 });
     this.controls.enabled = false;
+    this.world.marker.visible = true;
     const cards = SCENARIOS.map(
-      (s) => `<button class="w3d-scn" data-act="pick" data-arg="${s.id}">
-        <span class="w3d-tag ${s.difficulty}">${s.difficulty}</span>
-        <b>${esc(s.title)}</b><span>${esc(s.subtitle)}</span></button>`,
+      (s, i) => `<button class="w3d-scn" data-act="pick" data-arg="${s.id}">
+        <span class="w3d-scn-num">${String(i + 1).padStart(2, '0')}</span>
+        <span class="w3d-scn-body"><b>${esc(s.title)}</b><span>${esc(s.subtitle)}</span></span>
+        <span class="w3d-tag ${s.difficulty}">${s.difficulty}</span></button>`,
     ).join('');
     this.setOverlay(`
-      <div class="w3d-panel">
-        <h1>🏥 NurseSim 3D: Ward Shift</h1>
-        <p class="w3d-muted">Walk into Room 304, assess your patient, and carry out the right nursing interventions in the right order before they deteriorate.</p>
-        <h4>Choose a scenario</h4>
+      <div class="w3d-menu">
+        <div class="w3d-logo">NURSE<span>SIM</span></div>
+        <div class="w3d-logo-sub">Ward Stories · Night shift at St. Vera General</div>
+        <h4>Missions</h4>
         <div class="w3d-scenarios">${cards}</div>
         <h4>Controls</h4>
         <div class="w3d-controls">
-          <span><kbd>W A S D</kbd> / <kbd>↑ ↓</kbd></span><span>Walk (← → to turn)</span>
-          <span><kbd>Drag</kbd></span><span>Look around (mouse or finger)</span>
-          <span><kbd>Click</kbd> / <kbd>Tap</kbd></span><span>Interact with the equipment or patient you point at</span>
-          <span><kbd>E</kbd> / <kbd>USE</kbd></span><span>Interact with whatever is at the center dot</span>
-          <span><kbd>Esc</kbd></span><span>Close menus / pause</span>
+          <span><kbd>W A S D</kbd></span><span>Walk (hold <kbd>Shift</kbd> to run)</span>
+          <span><kbd>Drag</kbd> / <kbd>← →</kbd></span><span>Rotate the camera</span>
+          <span><kbd>E</kbd> / <kbd>USE</kbd></span><span>Use the nearest equipment or talk to the patient</span>
+          <span><kbd>V</kbd> / <kbd>CAM</kbd></span><span>Switch third-person / first-person</span>
+          <span><kbd>Esc</kbd></span><span>Pause</span>
         </div>
-        <p class="w3d-muted" style="margin-top:14px">Scoring: priority (critical) interventions earn the most points. Unsafe actions lose points. Hand hygiene, two patient identifiers and the rights of medication administration always count.</p>
+        <p class="w3d-muted">Priority interventions score the most. Unsafe actions cost points. Hand hygiene, two identifiers and the rights of medication administration always count.</p>
       </div>`);
   }
 
@@ -193,7 +268,8 @@ export class WardGame {
     this.setOverlay(`
       <div class="w3d-panel">
         <span class="w3d-tag ${s.difficulty}">${s.difficulty}</span>
-        <h2 style="margin-top:8px">Shift handoff: ${esc(s.title)}</h2>
+        <div class="w3d-mission-title">${esc(s.title)}</div>
+        <h2>Shift handoff</h2>
         <div class="w3d-chart">
           <table>
             <tr><td>Patient</td><td><b>${esc(p.name)}</b>, ${p.age} ${p.sex} · DOB ${p.dob} · ${p.mrn}</td></tr>
@@ -204,9 +280,9 @@ export class WardGame {
         </div>
         <h4>Handoff report</h4>
         <p>${esc(p.handoff)}</p>
-        <p class="w3d-muted">Orders, the MAR and protocols are on the charting computer in the room. The clock starts when you enter.</p>
+        <p class="w3d-muted">You start at the nurses' station. Follow the yellow marker to Room ${p.room}. The patient's clock starts when you walk in. Orders and protocols are on the charting computer inside.</p>
         <div class="w3d-row">
-          <button class="w3d-btn" data-act="start">Enter Room ${p.room} →</button>
+          <button class="w3d-btn" data-act="start">Start mission</button>
           <button class="w3d-btn secondary" data-act="menu">Back</button>
         </div>
       </div>`);
@@ -222,10 +298,15 @@ export class WardGame {
     this.ivRunning = true;
     this.ivLabel = IV_LABEL[s.id] ?? 'NS 0.9%  75 mL/hr';
     this.codeShownAt = 0;
-    this.controls.position.set(3.1, 1.62, 2.9);
-    this.controls.yaw = 0.55;
-    this.controls.pitch = -0.12;
+    this.controls.position.set(-7.4, 0, 4.8);
+    this.controls.yaw = -Math.PI / 2;
+    this.controls.pitch = -0.22;
+    this.controls.heading = Math.PI / 2;
     this.controls.enabled = true;
+    this.entered = false;
+    this.stars = 0;
+    this.world.marker.visible = true;
+    this.post.set({ gray: 0, danger: 0 });
     this.el.toasts.innerHTML = '';
     this.el.hud.style.display = '';
     const ivMat = this.world.ivBag.material as THREE.MeshStandardMaterial;
@@ -236,13 +317,11 @@ export class WardGame {
     this.audio.unlock();
     const p = s.patient;
     this.el.patient.innerHTML = `
-      <h3>${esc(p.name)} <span class="w3d-muted" style="font-weight:400">${p.age}${p.sex} · Rm ${p.room}</span></h3>
-      <div class="dx">${esc(p.diagnosis)}</div>
-      <div class="allergy">⚠ Allergies: ${esc(p.allergies)}</div>
-      <div><span class="w3d-cond" data-el="cond"></span> <span class="w3d-muted" data-el="clock"></span></div>`;
+      <b>${esc(p.name)}</b> · ${p.age}${p.sex} · Rm ${p.room}
+      <div class="allergy">ALLERGY: ${esc(p.allergies)}</div>
+      <span class="w3d-cond" data-el="cond"></span>`;
     this.el.cond = this.el.patient.querySelector('[data-el=cond]')!;
-    this.el.clock = this.el.patient.querySelector('[data-el=clock]')!;
-    this.toast('info', 0, 'Handoff received. Start with hand hygiene, then assess your patient.');
+    this.subtitle(`Go to <em>Room ${p.room}</em>. Your patient ${esc(p.name.split(' ')[0])} needs you.`);
   }
 
   private showDebrief() {
@@ -252,8 +331,7 @@ export class WardGame {
     this.menuStation = null;
     this.controls.enabled = false;
     this.el.hud.style.display = 'none';
-    this.el.vignette.style.opacity = '0';
-    this.root.querySelector('.w3d-code')?.remove();
+    this.hideBanner();
     const r = eng.summary();
     const s = eng.scenario;
     const timeline = r.log
@@ -274,9 +352,10 @@ export class WardGame {
         : 'Excellent work. You recognized the problem and stabilized your patient.';
     this.setOverlay(`
       <div class="w3d-panel">
+        <div class="w3d-mission-title ${r.coded || r.missed.length ? 'fail' : ''}">${r.coded ? 'Mission failed' : r.missed.length ? 'Mission incomplete' : 'Mission passed'}</div>
         <h2>Debrief: ${esc(s.title)}</h2>
         <p class="w3d-muted">${headline}</p>
-        <div class="w3d-stats" style="margin-top:12px">
+        <div class="w3d-scoreline">
           <span class="w3d-grade ${r.grade}">${r.grade}</span>
           <div>Score<b>${r.total}</b></div>
           <div>Performance<b>${r.pct}%</b></div>
@@ -318,7 +397,7 @@ export class WardGame {
     this.menuStation = null;
     this.setOverlay(`
       <div class="w3d-panel w3d-chart">
-        <h2>🖥️ EHR: ${esc(p.name)}</h2>
+        <h2>EHR: ${esc(p.name)}</h2>
         <table>
           <tr><td>Identifiers</td><td>${esc(p.name)} · DOB ${p.dob} · ${p.mrn}</td></tr>
           <tr><td>Diagnosis</td><td>${esc(p.diagnosis)}</td></tr>
@@ -334,6 +413,7 @@ export class WardGame {
 
   private openStation(station: StationId) {
     this.finishArmed = false;
+    this.hideBanner();
     this.menuStation = station;
     this.controls.enabled = false;
     this.renderStationMenu(null);
@@ -353,12 +433,12 @@ export class WardGame {
       ? `<div class="w3d-result ${result.kind}"><b>${esc(result.label)}</b>${result.points ? ` <b style="float:right">${result.points > 0 ? '+' : ''}${result.points}</b>` : ''}<br>${esc(result.feedback)}</div>`
       : '';
     this.setOverlay(
-      `<div class="w3d-panel narrow">
-        <h2>${esc(STATION_NAMES[station])}</h2>
-        <p class="w3d-muted">Choose a nursing action. The patient keeps changing while you decide.</p>
-        ${res}
+      `<div class="w3d-interact">
+        <div class="w3d-interact-head">${esc(STATION_NAMES[station])}</div>
+        <div class="w3d-interact-sub">Interaction menu · the patient keeps changing while you decide</div>
         <div class="w3d-actions">${buttons}</div>
-        <div class="w3d-row"><button class="w3d-btn secondary" data-act="close">Close (Esc)</button></div>
+        ${res}
+        <button class="w3d-action back" data-act="close">Back (Esc)</button>
       </div>`,
       true,
     );
@@ -407,21 +487,30 @@ export class WardGame {
       case 'chart':
         this.showChart();
         break;
+      case 'view':
+        this.controls.mode = this.controls.mode === 'third' ? 'first' : 'third';
+        break;
+      case 'quality':
+        this.hq = !this.hq;
+        this.post.enabled = this.hq;
+        this.renderer.shadowMap.enabled = this.hq;
+        this.renderer.setPixelRatio(Math.min(window.devicePixelRatio, this.hq ? 1.75 : 1));
+        this.el.qualityBtn.textContent = this.hq ? 'HQ' : 'LQ';
+        this.resize();
+        break;
       case 'labels':
-        this.world.labels.visible = !this.world.labels.visible;
+        this.showLabels = !this.showLabels;
         break;
       case 'sound':
         this.audio.muted = !this.audio.muted;
-        this.el.soundBtn.textContent = this.audio.muted ? '🔇' : '🔊';
+        this.el.soundBtn.textContent = this.audio.muted ? 'MUTE' : 'SND';
         break;
       case 'hint':
         this.giveHint();
         break;
       case 'use': {
         if (this.menuStation || this.paused) return;
-        const hit = this.pick(new THREE.Vector2(0, 0));
-        if (hit) this.tryInteract(hit.station, hit.dist);
-        else this.toast('info', 0, 'Point the center dot at equipment or the patient, then press USE.');
+        this.useNearest();
         break;
       }
       case 'do':
@@ -444,14 +533,43 @@ export class WardGame {
       while (o && !o.userData.station) o = o.parent;
       if (o) {
         const station = o.userData.station as StationId;
-        const box = this.world.stationBoxes.get(station)!;
-        const p = this.controls.position;
-        const dx = Math.max(box.min.x - p.x, 0, p.x - box.max.x);
-        const dz = Math.max(box.min.z - p.z, 0, p.z - box.max.z);
-        return { station, dist: Math.hypot(dx, dz) };
+        return { station, dist: this.stationDist(station) };
       }
     }
     return null;
+  }
+
+  /** Horizontal distance from the player to a station; stations inside Room 304 are out of reach from the corridor. */
+  private stationDist(station: StationId) {
+    const box = this.world.stationBoxes.get(station)!;
+    const p = this.controls.position;
+    if (station !== 'door' && !inRoom(p)) return Infinity;
+    const dx = Math.max(box.min.x - p.x, 0, p.x - box.max.x);
+    const dz = Math.max(box.min.z - p.z, 0, p.z - box.max.z);
+    return Math.hypot(dx, dz);
+  }
+
+  /** GTA-style context target: the closest station in reach, preferring what the character faces. */
+  private nearest(): { station: StationId; dist: number } | null {
+    const p = this.controls.position;
+    const h = this.controls.heading;
+    let best: { station: StationId; dist: number; score: number } | null = null;
+    for (const [station, box] of this.world.stationBoxes) {
+      const dist = this.stationDist(station);
+      if (dist > REACH) continue;
+      const c = box.getCenter(new THREE.Vector3());
+      let diff = Math.atan2(c.x - p.x, c.z - p.z) - h;
+      diff = Math.abs(Math.atan2(Math.sin(diff), Math.cos(diff)));
+      const score = dist + (diff / Math.PI) * 1.2;
+      if (!best || score < best.score) best = { station, dist, score };
+    }
+    return best;
+  }
+
+  private useNearest() {
+    const n = this.target ?? this.nearest();
+    if (n) this.tryInteract(n.station, n.dist);
+    else this.toast('info', 0, 'Nothing to use here. Walk up to equipment or the patient.');
   }
 
   private tryInteract(station: StationId, dist: number) {
@@ -553,14 +671,32 @@ export class WardGame {
     setTimeout(() => t.remove(), 9000);
   }
 
+  private subtitle(html: string) {
+    this.el.subtitle.innerHTML = html;
+    this.el.subtitle.classList.toggle('on', !!html);
+  }
+
+  /** Big centered mission-style banner. */
+  private banner(title: string, sub: string, cls: string, seconds = 3.5) {
+    this.el.banner.className = `w3d-banner on ${cls}`;
+    this.el.banner.innerHTML = `<div class="t">${esc(title)}</div><div class="s">${esc(sub)}</div>`;
+    this.bannerTimer = seconds;
+  }
+
+  private hideBanner() {
+    this.el.banner.className = 'w3d-banner';
+    this.bannerTimer = 0;
+  }
+
   // ---------------------------------------------------------------- frame loop
 
   private resize() {
     const w = this.container.clientWidth || 1;
     const h = this.container.clientHeight || 1;
     this.renderer.setSize(w, h, false);
+    this.post.setSize(w, h);
     this.camera.aspect = w / h;
-    this.camera.fov = w < h ? 85 : 70;
+    this.camera.fov = w < h ? 80 : 62;
     this.camera.updateProjectionMatrix();
   }
 
@@ -571,19 +707,51 @@ export class WardGame {
     const eng = this.engine;
 
     if (this.screen === 'menu' || this.screen === 'briefing') {
-      // Slow orbit around the room as a backdrop
-      const a = this.t * 0.12;
-      this.camera.position.set(Math.sin(a) * 3.2, 2.1, Math.cos(a) * 2.6 - 0.5);
-      this.camera.lookAt(0, 0.8, -2.2);
+      // Cinematic fly-through: corridor dolly, then an orbit around the bed
+      const cycle = (this.t * 0.05) % 2;
+      if (cycle < 1) {
+        const k = cycle;
+        this.camera.position.set(-13 + k * 18, 1.9 - k * 0.3, 6.6);
+        this.camera.lookAt(-10 + k * 18, 1.3, 5.2 - k * 0.5);
+      } else {
+        const a = (cycle - 1) * Math.PI * 1.2 - 0.3;
+        this.camera.position.set(Math.sin(a) * 3.4, 2.0, Math.cos(a) * 2.6 - 0.8);
+        this.camera.lookAt(0, 0.9, -2.3);
+      }
+      this.player.group.visible = false;
     } else {
-      this.controls.update(dt, this.camera, this.world.obstacles, this.world.bounds);
+      const frozen = this.screen !== 'playing' || !!this.codeShownAt;
+      const wasEnabled = this.controls.enabled;
+      if (frozen) this.controls.enabled = false;
+      this.controls.update(dt, this.camera, this.world.obstacles, this.world.bounds, this.world.camBlockers);
+      if (frozen) this.controls.enabled = wasEnabled;
+      const pos = this.controls.position;
+      this.player.group.visible = this.controls.mode === 'third';
+      this.player.group.position.set(pos.x, 0, pos.z);
+      this.player.group.rotation.y = this.controls.heading;
+      this.player.animate(dt, this.controls.speed);
+      this.el.crosshair.style.display = this.controls.mode === 'first' ? '' : 'none';
+      if (this.codeShownAt) {
+        // slow dramatic pull-back like a "wasted" cam
+        const k = Math.min(1, (this.t - this.codeShownAt) / 4);
+        this.camera.position.y += k * 0.6;
+        this.camera.lookAt(0, 0.8, -2.3);
+      }
     }
 
     if (eng && this.screen === 'playing' && !this.paused) {
+      if (!this.entered && inRoom(this.controls.position)) {
+        this.entered = true;
+        this.world.marker.visible = false;
+        this.banner(eng.scenario.title, `Room ${eng.scenario.patient.room} · ${eng.scenario.patient.name}`, 'intro');
+        this.subtitle('Assess your patient. Start with <em>hand hygiene</em> at the sink by the door.');
+        this.toast('info', 0, 'The clock is running. Prioritize: airway, breathing, circulation, safety.');
+      }
       const before = eng.status;
-      eng.tick(dt);
+      if (this.entered) eng.tick(dt);
       if (before === 'running' && eng.status === 'stabilized') {
-        this.toast('good', 0, 'Patient stabilized! Document your care, then end the scenario at the door.');
+        this.banner('Patient stabilized', `+${eng.score} PTS · document, then hand off at the door`, 'passed', 4);
+        this.subtitle('Finish your <em>documentation</em>, then end the shift at the <em>door</em>.');
         this.audio.good();
       }
       if (eng.status === 'coded' && !this.codeShownAt) {
@@ -591,32 +759,95 @@ export class WardGame {
         this.menuStation = null;
         this.setOverlay('');
         this.controls.enabled = false;
-        const code = document.createElement('div');
-        code.className = 'w3d-code';
-        code.textContent = 'CODE BLUE';
-        this.root.appendChild(code);
+        this.post.set({ gray: 1 });
+        this.banner('Code Blue', 'Patient in cardiopulmonary arrest', 'wasted', 10);
+        this.subtitle('');
+        this.audio.bad();
       }
-      if (this.codeShownAt && this.t - this.codeShownAt > 3) this.showDebrief();
+      if (this.codeShownAt && this.t - this.codeShownAt > 4.5) this.showDebrief();
       this.updateHud(dt);
     }
+    if (this.bannerTimer > 0) {
+      this.bannerTimer -= dt;
+      if (this.bannerTimer <= 0) this.hideBanner();
+    }
 
+    this.updateNpcs(dt);
+    for (const f of this.world.animated) f(this.t);
     this.updatePatientVisuals(dt);
     this.updateTarget();
     this.updateLabels();
-    this.renderer.render(this.world.scene, this.camera);
+    this.updateRadar();
+    this.post.render(this.world.scene, this.camera, this.t);
   };
 
+  private updateNpcs(dt: number) {
+    for (const n of this.npcs) {
+      if (!n.route.length) {
+        n.avatar.animate(dt, 0);
+        continue;
+      }
+      if (n.wait > 0) {
+        n.wait -= dt;
+        n.avatar.animate(dt, 0);
+        continue;
+      }
+      const g = n.avatar.group;
+      const target = n.route[n.idx];
+      const dx = target.x - g.position.x;
+      const dz = target.z - g.position.z;
+      const d = Math.hypot(dx, dz);
+      const speed = 1.25;
+      if (d < 0.1) {
+        n.idx = (n.idx + 1) % n.route.length;
+        n.wait = 0.5 + Math.random() * 2.5;
+        continue;
+      }
+      g.position.x += (dx / d) * speed * dt;
+      g.position.z += (dz / d) * speed * dt;
+      let diff = Math.atan2(dx, dz) - g.rotation.y;
+      diff = Math.atan2(Math.sin(diff), Math.cos(diff));
+      g.rotation.y += diff * Math.min(1, dt * 6);
+      n.avatar.animate(dt, speed);
+    }
+  }
+
+  private updateRadar() {
+    if (this.screen !== 'playing') return;
+    const blips: Blip[] = [];
+    const eng = this.engine;
+    if (!this.entered) blips.push({ x: this.world.markerPos.x, z: this.world.markerPos.z, color: '#f5c518', kind: 'marker' });
+    blips.push({ x: 0, z: -2.2, color: eng && eng.severity > 0.7 ? '#ef4444' : '#f87171', kind: 'cross' });
+    for (const [id, box] of this.world.stationBoxes) {
+      if (id === 'patient') continue;
+      const c = box.getCenter(new THREE.Vector3());
+      blips.push({ x: c.x, z: c.z, color: id === 'door' ? '#f5c518' : '#60a5fa', kind: 'dot' });
+    }
+    for (const n of this.npcs) blips.push({ x: n.avatar.group.position.x, z: n.avatar.group.position.z, color: '#cbd5e1', kind: 'npc' });
+    const p = this.controls.position;
+    this.radar.draw(p.x, p.z, this.controls.yaw, this.controls.heading, blips);
+  }
+
   private updateTarget() {
-    if (this.screen !== 'playing' || this.menuStation || this.paused) {
+    if (this.screen !== 'playing' || this.menuStation || this.paused || this.codeShownAt) {
       this.highlight.visible = false;
       this.el.prompt?.classList.remove('on');
       this.target = null;
       return;
     }
+    // Mouse hover over something in reach wins; otherwise the nearest station
+    let hit: { station: StationId; dist: number } | null = null;
     const useMouse = performance.now() - this.mouseAimAt < 1500 && !matchMedia('(pointer: coarse)').matches;
-    const hit = this.pick(useMouse ? this.aim : new THREE.Vector2(0, 0));
+    if (useMouse) {
+      const h = this.pick(this.aim);
+      if (h && h.dist <= REACH) hit = h;
+    } else if (this.controls.mode === 'first') {
+      const h = this.pick(new THREE.Vector2(0, 0));
+      if (h && h.dist <= REACH) hit = h;
+    }
+    hit ??= this.nearest();
     this.target = hit;
-    this.renderer.domElement.classList.toggle('w3d-pointing', !!hit && hit.dist <= REACH);
+    this.renderer.domElement.classList.toggle('w3d-pointing', !!hit);
     if (!hit) {
       this.highlight.visible = false;
       this.el.prompt.classList.remove('on');
@@ -624,16 +855,14 @@ export class WardGame {
     }
     this.highlight.box.copy(this.world.stationBoxes.get(hit.station)!).expandByScalar(0.03);
     this.highlight.visible = true;
-    const name = STATION_NAMES[hit.station];
     const touch = matchMedia('(pointer: coarse)').matches;
     this.el.prompt.classList.add('on');
-    this.el.prompt.classList.toggle('far', hit.dist > REACH);
-    this.el.prompt.innerHTML =
-      hit.dist > REACH ? `${esc(name)}: walk closer` : `<kbd>${touch ? 'Tap' : 'Click / E'}</kbd>${esc(name)}`;
+    this.el.prompt.innerHTML = `Press <kbd>${touch ? 'USE' : 'E'}</kbd> to use the <b>${esc(STATION_NAMES[hit.station])}</b>.`;
   }
 
   /** Fade station labels out as you get close so they don't cover what you are looking at. */
   private updateLabels() {
+    this.world.labels.visible = this.showLabels && (this.screen !== 'playing' || inRoom(this.controls.position));
     if (!this.world.labels.visible) return;
     for (const label of this.world.labels.children as THREE.Sprite[]) {
       const d = label.position.distanceTo(this.camera.position);
@@ -646,13 +875,26 @@ export class WardGame {
     const v = eng.vitals;
     const remaining = eng.criticalRemaining.length;
     const doneCount = eng.criticalTotal - remaining;
-    this.el.score.innerHTML = `Score<b>${eng.score}</b>Priorities ${doneCount}/${eng.criticalTotal}
-      <div class="w3d-progress"><div style="width:${(doneCount / eng.criticalTotal) * 100}%"></div></div>`;
-    this.el.clock.textContent = `⏱ ${fmtTime(eng.elapsed)}`;
+    this.el.score.textContent = `PTS ${eng.score}`;
+    this.el.clock.textContent = this.entered ? fmtTime(eng.elapsed).padStart(5, '0') : '--:--';
+    this.el.prioBar.style.width = `${(doneCount / eng.criticalTotal) * 100}%`;
+    this.el.condBar.style.width = `${(1 - eng.severity) * 100}%`;
+    this.el.condBar.parentElement!.classList.toggle('low', eng.severity > 0.7);
+
+    // Acuity stars, like a wanted level
+    const stars = !this.entered ? 0 : eng.status === 'stabilized' ? 0 : Math.max(1, Math.ceil(eng.severity * 5));
+    if (stars !== this.stars) {
+      this.stars = stars;
+      this.el.stars.innerHTML = Array.from({ length: 5 }, (_, i) => `<i class="${i < stars ? 'on' : ''}">★</i>`).join('');
+      this.el.stars.classList.remove('flash');
+      void this.el.stars.offsetWidth;
+      this.el.stars.classList.add('flash');
+    }
 
     let cls = 'worse';
     let label = 'Deteriorating';
-    if (eng.status === 'stabilized') [cls, label] = ['stable', 'Stable'];
+    if (!this.entered) [cls, label] = ['waiting', 'Awaiting nurse'];
+    else if (eng.status === 'stabilized') [cls, label] = ['stable', 'Stable'];
     else if (remaining === 0) [cls, label] = ['better', 'Improving'];
     else if (eng.severity > 0.75) [cls, label] = ['critical', 'Critical'];
     else if (eng.drift < eng.scenario.drift * 0.5) [cls, label] = ['better', 'Responding'];
@@ -671,7 +913,7 @@ export class WardGame {
     } else {
       this.el.vitals.classList.remove('on');
     }
-    this.el.vignette.style.opacity = String(Math.max(0, (eng.severity - 0.65) / 0.35) * 0.9);
+    if (!this.codeShownAt) this.post.set({ danger: this.entered ? Math.max(0, (eng.severity - 0.6) / 0.4) : 0 });
   }
 
   private updatePatientVisuals(dt: number) {
@@ -708,6 +950,8 @@ export class WardGame {
     this.audio.dispose();
     this.world.dispose();
     this.monitor.texture.dispose();
+    this.post.dispose();
+    this.world.scene.environment?.dispose();
     this.renderer.dispose();
     this.root.remove();
   }
