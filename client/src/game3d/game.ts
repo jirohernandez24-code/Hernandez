@@ -47,6 +47,7 @@ export class WardGame {
 
   private screen: Screen = 'menu';
   private briefingScenario: Scenario | null = null;
+  private finishArmed = false;
   private engine: SimulationEngine | null = null;
   private paused = false;
   private menuStation: StationId | null = null;
@@ -332,6 +333,7 @@ export class WardGame {
   }
 
   private openStation(station: StationId) {
+    this.finishArmed = false;
     this.menuStation = station;
     this.controls.enabled = false;
     this.renderStationMenu(null);
@@ -466,8 +468,15 @@ export class WardGame {
   private doAction(id: string) {
     const eng = this.engine;
     if (!eng || this.screen !== 'playing') return;
-    if (id === 'finish' && eng.status === 'running') {
-      if (!confirm('The patient is not stable yet. End the scenario and hand off anyway?')) return;
+    if (id === 'finish' && eng.status === 'running' && !this.finishArmed) {
+      this.finishArmed = true;
+      this.renderStationMenu({
+        label: 'Patient is not stable yet',
+        kind: 'harmful',
+        points: 0,
+        feedback: 'Handing off now will count any missed priorities against you. Choose "End scenario" again to confirm.',
+      });
+      return;
     }
     const logBefore = eng.log.length;
     const res = eng.perform(id);
