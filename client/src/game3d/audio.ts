@@ -2,6 +2,8 @@
 export class MonitorAudio {
   private ctx: AudioContext | null = null;
   muted = false;
+  /** Called once when the AudioContext is first created (the music engine shares it). */
+  onContext: ((ctx: AudioContext) => void) | null = null;
   private alarmCooldown = 0;
 
   /** Must be called from a user gesture on some browsers. */
@@ -10,6 +12,7 @@ export class MonitorAudio {
       const Ctor = window.AudioContext ?? (window as unknown as { webkitAudioContext: typeof AudioContext }).webkitAudioContext;
       if (!Ctor) return;
       this.ctx = new Ctor();
+      this.onContext?.(this.ctx);
     }
     if (this.ctx.state === 'suspended') void this.ctx.resume();
   }

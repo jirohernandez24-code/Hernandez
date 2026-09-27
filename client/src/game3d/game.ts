@@ -4,6 +4,7 @@ import { ACTIONS_BY_ID, REPEATABLE, STATION_NAMES, actionsForStation } from './a
 import { MonitorAudio } from './audio';
 import { LOOKS, createAvatar, type Avatar } from './avatar';
 import { PlayerControls } from './controls';
+import { Music, type Mood } from './music';
 import { PostFX } from './post';
 import { Radar, type Blip } from './radar';
 import { SimulationEngine, type ActionResult } from './engine';
@@ -84,6 +85,8 @@ export class WardGame {
   private stars = 0;
   private bannerTimer = 0;
   private hq = true;
+  private music: Music | null = null;
+  private musicOn = true;
   private showLabels = true;
 
   private el: Record<string, HTMLElement> = {};
@@ -122,7 +125,8 @@ export class WardGame {
             <button data-act="view" title="Switch camera (V)">CAM</button>
             <button data-act="labels" title="Toggle labels">TAGS</button>
             <button data-act="quality" data-el="qualityBtn" title="Graphics quality">HQ</button>
-            <button data-act="sound" data-el="soundBtn" title="Toggle sound">SND</button>
+            <button data-act="music" data-el="musicBtn" title="Toggle music">MUSIC</button>
+            <button data-act="sound" data-el="soundBtn" title="Toggle all sound">SND</button>
             <button data-act="pause" title="Pause (Esc)">II</button>
           </div>
         </div>
@@ -208,6 +212,14 @@ export class WardGame {
       this.useNearest();
     };
 
+    this.audio.onContext = (ctx) => {
+      this.music = new Music(ctx);
+      this.music.setEnabled(this.musicOn && !this.audio.muted);
+    };
+    // Browsers only allow audio after a user gesture: start the soundtrack on the first touch or click
+    this.root.addEventListener('pointerdown', () => this.audio.unlock(), { once: true });
+    window.addEventListener('keydown', this.unlockAudio, { once: true });
+
     this.root.addEventListener('click', (e) => {
       const btn = (e.target as HTMLElement).closest<HTMLElement>('[data-act]');
       if (btn) this.onButton(btn.dataset.act!, btn.dataset.arg);
@@ -246,6 +258,7 @@ export class WardGame {
       <div class="w3d-menu">
         <div class="w3d-logo">NURSE<span>SIM</span></div>
         <div class="w3d-logo-sub">Ward Stories · Night shift at St. Vera General</div>
+        <button class="w3d-btn secondary w3d-music-toggle" data-act="music" data-el="menuMusic">${this.musicOn ? '♪ Music: on' : '♪ Music: off'}</button>
         <h4>Missions</h4>
         <div class="w3d-scenarios">${cards}</div>
         <h4>Controls</h4>
@@ -453,6 +466,8 @@ export class WardGame {
 
   // ---------------------------------------------------------------- input
 
+  private unlockAudio = () => this.audio.unlock();
+
   private onKey = (e: KeyboardEvent) => {
     if (e.key !== 'Escape') return;
     if (this.screen !== 'playing') return;
@@ -487,6 +502,12 @@ export class WardGame {
       case 'chart':
         this.showChart();
         break;
+      case 'music':
+        this.musicOn = !this.musicOn;
+        this.music?.setEnabled(this.musicOn && !this.audio.muted);
+        this.el.musicBtn.textContent = this.musicOn ? 'MUSIC' : 'MUSIC OFF';
+        this.root.querySelectorAll('[data-el=menuMusic]').forEach((b) => (b.textContent = this.musicOn ? '♪ Music: on' : '♪ Music: off'));
+        break;
       case 'view':
         this.controls.mode = this.controls.mode === 'third' ? 'first' : 'third';
         break;
@@ -504,6 +525,7 @@ export class WardGame {
       case 'sound':
         this.audio.muted = !this.audio.muted;
         this.el.soundBtn.textContent = this.audio.muted ? 'MUTE' : 'SND';
+        this.music?.setEnabled(this.musicOn && !this.audio.muted);
         break;
       case 'hint':
         this.giveHint();
@@ -750,6 +772,7 @@ export class WardGame {
       const before = eng.status;
       if (this.entered) eng.tick(dt);
       if (before === 'running' && eng.status === 'stabilized') {
+        this.music?.stingWin();
         this.banner('Patient stabilized', `+${eng.score} PTS · document, then hand off at the door`, 'passed', 4);
         this.subtitle('Finish your <em>documentation</em>, then end the shift at the <em>door</em>.');
         this.audio.good();
@@ -772,6 +795,7 @@ export class WardGame {
       if (this.bannerTimer <= 0) this.hideBanner();
     }
 
+    this.updateMusic();
     this.updateNpcs(dt);
     for (const f of this.world.animated) f(this.t);
     this.updatePatientVisuals(dt);
@@ -780,6 +804,20 @@ export class WardGame {
     this.updateRadar();
     this.post.render(this.world.scene, this.camera, this.t);
   };
+
+  /** Adaptive soundtrack: calm on the menu and in the corridor, tightening with patient severity in the room. */
+  private updateMusic() {
+    if (!this.music) return;
+    const eng = this.engine;
+    let mood: Mood = 'menu';
+    if (this.screen === 'playing' && eng) {
+      if (eng.status === 'coded') mood = 'code';
+      else if (!this.entered || eng.status === 'stabilized' || eng.status === 'finished') mood = 'explore';
+      else mood = 'tension';
+      this.music.setIntensity(eng.severity);
+    }
+    this.music.setMood(mood);
+  }
 
   private updateNpcs(dt: number) {
     for (const n of this.npcs) {
@@ -945,8 +983,10 @@ export class WardGame {
   dispose() {
     cancelAnimationFrame(this.raf);
     window.removeEventListener('keydown', this.onKey);
+    window.removeEventListener('keydown', this.unlockAudio);
     this.resizeObs.disconnect();
     this.controls.dispose();
+    this.music?.dispose();
     this.audio.dispose();
     this.world.dispose();
     this.monitor.texture.dispose();

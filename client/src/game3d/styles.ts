@@ -132,6 +132,7 @@ export const GAME_CSS = `
 .w3d-logo { font: 400 clamp(52px, 10vw, 84px)/.95 var(--display); letter-spacing: .01em; color: #fff; text-shadow: 0 4px 0 #000; }
 .w3d-logo span { color: var(--gold); }
 .w3d-logo-sub { font: 500 14px var(--ui); letter-spacing: .2em; text-transform: uppercase; color: var(--muted); margin-top: 6px; }
+.w3d-music-toggle { margin-top: 14px; padding: 7px 14px; font-size: 13px; }
 .w3d-scenarios { display: flex; flex-direction: column; gap: 8px; }
 .w3d-scn { display: grid; grid-template-columns: auto 1fr auto; gap: 14px; align-items: center; text-align: left; border: 1px solid var(--line); background: rgba(255,255,255,.04); border-radius: 3px; padding: 12px 14px; transition: background .15s, border-color .15s, transform .15s; }
 .w3d-scn:hover { background: rgba(245,197,24,.12); border-color: var(--gold); transform: translateX(4px); }
