@@ -135,17 +135,11 @@ const SUPPLIES = [
   { key: "ph", label: "pH test strips", sub: "Range 1 to 11", req: true, icon: "ph" },
   { key: "emesis", label: "Emesis basin", sub: "Kidney basin", req: true, icon: "emesis" },
   { key: "measure", label: "Measuring container", sub: "Graduated, 500 mL", req: true, icon: "measure" },
-  { key: "water", label: "Water, 100 mL", sub: "Room temperature", req: true, icon: "water" },
+  { key: "water", label: "Water, 60 mL", sub: "Room temperature", req: true, icon: "water" },
   { key: "steth", label: "Stethoscope", sub: "For bowel sounds", req: true, icon: "steth" },
   { key: "alcohol", label: "Alcohol swabs", sub: "70% isopropyl", req: true, icon: "alcohol" },
+  { key: "bag", label: "Calibrated feeding bag", sub: "With label, tubing and clamp (closed system)", optional: true, icon: "bag" },
   { key: "pump", label: "Enteral feeding pump", sub: "As required (continuous feeds)", optional: true, icon: "pump" },
-  { key: "foley", label: "Foley catheter kit", sub: "Fr 16, sterile", icon: "foley" },
-  { key: "iv", label: "IV cannula", sub: "Gauge 18", icon: "iv" },
-  { key: "tourniquet", label: "Tourniquet", sub: "Latex-free", icon: "tourniquet" },
-  { key: "gown", label: "Sterile gown", sub: "Size L", icon: "gown" },
-  { key: "lube", label: "Water-soluble lubricant", sub: "For tube insertion", icon: "lube" },
-  { key: "ophth", label: "Ophthalmic ointment", sub: "Erythromycin 0.5%", icon: "ophth" },
-  { key: "insulin", label: "Insulin syringe", sub: "1 mL, 30G", icon: "insulin" },
 ];
 
 /* Checklist, worded from Skills Enhancement #7. cat: A=Patient Assessment, N=Nursing Care Performance, R=Records Management */
@@ -212,9 +206,6 @@ const EVAL_OPTS = [
   { key: "turgor", label: "Check skin turgor", rel: true },
   { key: "urine", label: "Review urine output and specific gravity", rel: true },
   { key: "glucose", label: "Check urine glucose and acetone", rel: true },
-  { key: "fundus", label: "Palpate fundal height", rel: false, why: "Fundal height is a postpartum assessment." },
-  { key: "stoma", label: "Inspect stoma color", rel: false, why: "There is no stoma; that belongs to colostomy care." },
-  { key: "ivsite", label: "Check IV site for phlebitis", rel: false, why: "Useful in general, but not part of NGT feeding follow-up." },
 ];
 
 const POLICY = [

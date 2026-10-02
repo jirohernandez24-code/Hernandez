@@ -70,10 +70,8 @@ function startInvasive() {
   if (G.curtainTarget < 1) fault("N", .5, "No privacy provided before starting.", "Tube feedings are embarrassing to some people. Close the curtain.", false, "p_privacy");
   else mark("p_privacy");
   const missing = SUPPLIES.filter((s) => s.req && !G.tray.has(s.key));
-  const extra = SUPPLIES.filter((s) => !s.req && !s.optional && G.tray.has(s.key));
   if (missing.length) fault("N", .5, "Equipment incomplete at the bedside: " + missing.map((m) => m.label).join(", ") + ".", "Prepare all the necessary equipment before you start so the procedure is not interrupted.", false, "p_equip");
   else mark("p_equip");
-  if (extra.length) fault("N", .25, "Brought items not needed for NGT feeding: " + extra.map((m) => m.label).join(", ") + ".", "Bring only what the procedure needs. Extra items clutter the field and waste supplies.");
 }
 function procAct(act, arg) {
   if (!G || G.over) return;
@@ -281,7 +279,6 @@ function decide(kind, val) {
     if (G.phRead !== c.ph) fault("N", 1, `Read the strip as pH ${G.phRead}; it showed pH ${c.ph}.`, "Compare the strip with the color chart in good light before deciding.", false, "i_placement");
     advance(.3);
   } else if (kind === "phint") {
-    if (val === "air") { fault("N", .5, "Chose air auscultation to confirm placement.", "The whoosh test is not reliable. Use aspirate pH; follow agency policy (X-ray) when unsure."); renderBedside(); return; }
     if (c.ph <= 5.5) {
       if (val === "ok") { G.placement = "ok"; if (!G.items.i_placement) mark("i_placement"); logEv("ok", `pH ${c.ph}: gastric placement confirmed.`); checkGrv(); }
       else { fault("N", .5, "Held a feeding even though pH confirmed gastric placement.", "pH 1 to 5.5 is consistent with gastric placement; proceed and assess residual."); renderBedside(); return; }
@@ -397,8 +394,7 @@ function renderBedside() {
   } else if (G.phRead != null && G.placement == null) {
     d = `<div class="decision"><h4>pH ${G.phRead}. What next?</h4><div class="stack">
       <button class="btn" type="button" data-dec="phint" data-val="ok">Gastric placement confirmed (pH 5.5 or lower). Continue.</button>
-      <button class="btn" type="button" data-dec="phint" data-val="hold">Placement not confirmed (pH 6 or higher). Do not use the tube; hold, notify the nurse in charge, request X-ray.</button>
-      <button class="btn" type="button" data-dec="phint" data-val="air">Not sure. Push 10 mL of air and listen with the stethoscope.</button></div></div>`;
+      <button class="btn" type="button" data-dec="phint" data-val="hold">Placement not confirmed (pH 6 or higher). Follow agency policy: hold, notify the nurse in charge, request X-ray.</button></div></div>`;
   } else if (G.grvMeasured && !G.grvDecision && G.placement === "ok") {
     d = `<div class="decision"><h4>Residual ${G.grvValue} mL · last feeding ${c.prev.amount} mL</h4><div class="stack">
       <button class="btn" type="button" data-dec="grv" data-val="reinstill">Re-instill the contents and proceed with the feeding.</button>
@@ -673,7 +669,7 @@ function demoState(t) {
   const layers = k < .8 ? [{ t: k > .55 ? "water" : "feed", ml: 50 - ((k * 300) % 45) }] : [];
   return {
     hob: 45, sideLying: false, sex: "M", skin: "#e3b08a", hair: "#8f8f8f", discomfort: 0, stomach: 80 + k * 200, stomachTint: "#e9dcb4",
-    ph: 4, phStage: 1, phT: 1.4, cup: 240 * (1 - k), cupTint: "#efe3c3", formulaCol: FORMULA_COL.std, swab: true, water: k > .55 ? 40 : 100,
+    ph: 4, phStage: 1, phT: 1.4, cup: 240 * (1 - k), cupTint: "#efe3c3", formulaCol: FORMULA_COL.std, swab: true, water: k > .55 ? 10 : 60,
     height: .5 + Math.sin(t * .6) * .08, syrOn: true, plug: false, clampOn: k >= .8, plunger: false, syrAsp: 0, layers,
     hasSyringe: true, flow: k < .8 ? "in" : null, flowTint: k > .55 ? "#8fd0ef" : "#efe3c3", flowing: k < .8, anim: null,
     pour: (k % .2) < .03 && k < .8 ? { from: k > .55 ? "water" : "feed", t0: t - (k % .2) * 14 } : null,

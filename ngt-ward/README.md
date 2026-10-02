@@ -11,7 +11,7 @@ Open `dist/play.html` in any browser to play. No install needed.
 | Assessment | Read the doctor's order, feeding record, MAR and allergies; confirm the feeding plan; assess the client for malnutrition and dehydration |
 | Planning | Gather equipment at the cart, raise the head of bed (30° or more), introduce yourself and check two identifiers, explain, hand hygiene, close the curtain |
 | Implementation | Gloves, unplug, aspirate, read the pH strip, measure and re-instill residual, check formula expiry, temperature and alcohol swab, clamp, remove the plunger, pour, adjust syringe height, pause for cramps, flush 50 to 100 mL water, clamp before it runs dry, plug, secure to gown, dispose, remove gloves, hand hygiene |
-| Evaluation | Tolerance, bowel sounds, fullness, weight, elimination, skin turgor, urine |
+| Evaluation | Tolerance, bowel sounds, regurgitation and fullness, weight, elimination, skin turgor, urine output and specific gravity, urine glucose and acetone |
 | Documentation | Nurse's notes: feeding, water, duration, assessment, I&O, report |
 
 Four clients: a routine feeding; a recent medication plus lactose intolerance and an expired can; a high residual that must be held; and a pH of 7 after re-insertion.

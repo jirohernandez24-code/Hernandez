@@ -355,15 +355,14 @@ function drawIVPole(ctx) {
   ctx.strokeStyle = "#7d8d90"; ctx.lineWidth = 3; for (let i = 0; i < 5; i++) { const a = i / 5 * Math.PI * 2; ctx.beginPath(); ctx.moveTo(x, y + 6); ctx.lineTo(x + Math.cos(a) * 12, y + 6 + Math.sin(a) * 6); ctx.stroke(); }
   ctx.lineWidth = 3; ctx.beginPath(); ctx.moveTo(x, y + 6); ctx.lineTo(x, y - 46); ctx.stroke();
   ctx.beginPath(); ctx.moveTo(x - 12, y - 46); ctx.lineTo(x + 12, y - 46); ctx.stroke();
-  // IV bag D5LR + drip chamber
-  ctx.fillStyle = "rgba(220,240,250,.95)"; rr(ctx, x - 20, y - 44, 15, 22, 4); ctx.fill(); ctx.strokeStyle = "#8ab"; ctx.lineWidth = 1; ctx.stroke();
-  ctx.fillStyle = "#3a6f7a"; ctx.font = "700 5px monospace"; ctx.textAlign = "center"; ctx.fillText("D5LR", x - 12.5, y - 32);
+  // spare calibrated enteral feeding bag (closed system) + drip chamber
+  ctx.fillStyle = "rgba(245,240,255,.95)"; rr(ctx, x - 20, y - 44, 15, 22, 4); ctx.fill(); ctx.strokeStyle = "#7a4fd6"; ctx.lineWidth = 1; ctx.stroke();
+  ctx.fillStyle = "#7a4fd6"; ctx.font = "700 4px monospace"; ctx.textAlign = "center"; ctx.fillText("FEED", x - 12.5, y - 32);
   ctx.fillStyle = "rgba(230,245,250,.95)"; rr(ctx, x - 15, y - 21, 5, 9, 2); ctx.fill(); ctx.stroke();
-  const dp = (W.t * 1.2) % 1; ctx.fillStyle = "#7cc1ea"; ctx.beginPath(); ctx.arc(x - 12.5, y - 20 + dp * 6, 1.2, 0, Math.PI * 2); ctx.fill();
-  ctx.strokeStyle = "rgba(180,210,220,.9)"; ctx.lineWidth = 1.2; ctx.beginPath(); ctx.moveTo(x - 12.5, y - 12); ctx.quadraticCurveTo(x - 30, y + 10, x - 50, y + 40); ctx.stroke();
+  ctx.strokeStyle = "rgba(122,79,214,.7)"; ctx.lineWidth = 1.2; ctx.beginPath(); ctx.moveTo(x - 12.5, y - 12); ctx.quadraticCurveTo(x - 16, y - 2, x - 6, y - 2); ctx.stroke();
   // pump
   ctx.fillStyle = "#e9eef0"; rr(ctx, x + 2, y - 30, 16, 20, 3); ctx.fill(); ctx.strokeStyle = "#9aa9ad"; ctx.stroke();
-  ctx.fillStyle = "#183b3c"; ctx.fillRect(x + 4, y - 27, 12, 7); ctx.fillStyle = "#7ef0b0"; ctx.font = "700 5px monospace"; ctx.fillText("80", x + 10, y - 22);
+  ctx.fillStyle = "#183b3c"; ctx.fillRect(x + 4, y - 27, 12, 7); ctx.fillStyle = "#7ef0b0"; ctx.font = "700 5px monospace"; ctx.fillText("OFF", x + 10, y - 22);
 }
 function drawTable(ctx) {
   shadow(ctx, 460, 290, 32, 6);

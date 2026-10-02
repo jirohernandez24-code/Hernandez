@@ -139,7 +139,7 @@ function interact(id) {
     case "bedctl": return openBed();
     case "curtain": return toggleCurtain();
     case "ci": return openCI();
-    case "neighbor": toast("Bed 4: Mr. Lim is asleep after dialysis. He is not your client today.", "info"); return;
+    case "neighbor": toast("Bed 4: Mr. Lim is asleep. He is not your client today.", "info"); return;
   }
 }
 
@@ -202,7 +202,7 @@ function openCart() {
   const order = all.map((x, i) => [x, (i * 7919 + G.c.id.charCodeAt(1) * 31) % 97]).sort((a, b) => a[1] - b[1]).map((x) => x[0]);
   const card = (x) => `<button type="button" class="item ${G.tray.has(x.key) ? "on" : ""}" data-cart="${x.key}">${iconSvg(x.icon, 44, x.col)}<span>${esc(x.label)}</span><small>${esc(x.sub)}</small></button>`;
   openModal("Supply cart", "Prepare the necessary equipment", `
-    <p class="muted">Tap items to put them on your tray. Bring what NGT feeding needs, nothing more. One formula at a time.</p>
+    <p class="muted">Tap items to put them on your tray. Check the formula against the order. One formula at a time. The feeding bag and pump are only for closed-system or continuous feeds.</p>
     <div class="items">${order.map(card).join("")}</div>
     <div class="row" style="margin-top:14px;justify-content:space-between"><span class="muted" id="cartCount">${G.tray.size} on tray</span><button class="btn primary" type="button" data-close="1">Done</button></div>`,
     { onClose: () => { G.cartTrips++; advance(G.cartTrips === 1 ? 1.5 : .6); logEv("info", `Gathered equipment (${G.tray.size} items).`); renderTray(); } });
@@ -212,7 +212,7 @@ function toggleCart(key) {
   if (G.tray.has(key)) { G.tray.delete(key); if (G.formulaKey === key) { G.formulaKey = null; G.prep = { expiry: null, temp: null, swab: false, poured: false }; } sfx("drop"); }
   else {
     if (f) { if (G.prep.poured) { toast("You already prepared the feeding.", "info"); return; } if (G.formulaKey) G.tray.delete(G.formulaKey); G.formulaKey = key; G.prep = { expiry: null, temp: null, swab: false, poured: false }; }
-    if (key === "water") G.waterCup = 100;
+    if (key === "water") G.waterCup = 60;
     G.tray.add(key); sfx("pick");
   }
   $$("[data-cart]").forEach((b) => b.classList.toggle("on", G.tray.has(b.dataset.cart)));
@@ -379,7 +379,7 @@ function openPatient(view = "menu") {
       <button class="btn" type="button" data-in="flat">"You can lie flat now and get some rest."</button>
       <button class="btn" type="button" data-in="walk">"Try to walk around the ward to help digestion."</button></div>`;
   } else if (view === "evaluate") {
-    html = `<p class="muted">Pick the follow-up checks that belong to tube feeding. Each check takes a moment.</p><div class="grid2">${EVAL_OPTS.map((o) => {
+    html = `<p class="muted">Do the follow-up examination after the feeding. Each check takes a moment.</p><div class="grid2">${EVAL_OPTS.map((o) => {
       const done = G.evals.has(o.key) || G.evalWrong.has(o.key);
       const res = G.evals.has(o.key) ? c.find[o.key] || "" : G.evalWrong.has(o.key) ? o.why : "";
       return `<div class="card"><button class="btn ${done ? "picked" : ""}" type="button" data-ev="${o.key}" style="width:100%" ${done ? "disabled" : ""}>${o.label}</button>${res ? `<p style="margin:8px 0 0;font-size:14px">${esc(o.key === "weight" ? c.find.weight : res)}</p>` : ""}</div>`;

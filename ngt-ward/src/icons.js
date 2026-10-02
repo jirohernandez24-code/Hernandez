@@ -10,13 +10,7 @@ const ICONS = {
   alcohol: '<rect x="7" y="9" width="26" height="22" rx="3" fill="#fff" stroke="#55707a" stroke-width="1.5"/><path d="M7 14h26" stroke="#3a8fbf" stroke-width="2"/><text x="20" y="27" text-anchor="middle" font-family="monospace" font-size="9" font-weight="700" fill="#1d3f9c">70%</text>',
   formula: '<rect x="11" y="8" width="18" height="28" rx="4" fill="#fff" stroke="#55707a" stroke-width="1.5"/><rect x="14" y="3" width="12" height="6" rx="1.5" fill="#7a4fd6"/><rect x="11" y="16" width="18" height="11" fill="COL"/><path d="M14 31h12" stroke="#bbb" stroke-width="1.5"/>',
   pump: '<rect x="6" y="6" width="28" height="28" rx="4" fill="#e9eef0" stroke="#55707a" stroke-width="1.5"/><rect x="10" y="10" width="20" height="10" rx="1" fill="#183b3c"/><text x="20" y="18" text-anchor="middle" font-family="monospace" font-size="7" fill="#7ef0b0">60</text><circle cx="14" cy="27" r="3" fill="#7a4fd6"/><circle cx="26" cy="27" r="3" fill="#2fae6c"/>',
-  foley: '<path d="M8 32c8 0 6-10 14-10s8-12 0-14-10 6-4 8" fill="none" stroke="#e2a24a" stroke-width="3" stroke-linecap="round"/><circle cx="32" cy="32" r="4" fill="#f5d38c" stroke="#e2a24a" stroke-width="1.5"/>',
-  iv: '<path d="M6 34L26 14" stroke="#9aa" stroke-width="2.5"/><rect x="24" y="6" width="9" height="12" rx="2" transform="rotate(45 28 12)" fill="#e9c83a" stroke="#a88b1e" stroke-width="1.2"/>',
-  tourniquet: '<rect x="3" y="16" width="34" height="8" rx="4" fill="#5b8fd6" stroke="#2f5f9e" stroke-width="1.5"/><rect x="16" y="13" width="8" height="14" rx="2" fill="#2f5f9e"/>',
-  gown: '<path d="M13 5l7 4 7-4 9 7-5 6-3-2v20H12V16l-3 2-5-6z" fill="#7fb2e6" stroke="#2f5f9e" stroke-width="1.5" stroke-linejoin="round"/>',
-  lube: '<path d="M8 12h18l6 8-6 8H8z" fill="#d9f0f5" stroke="#55707a" stroke-width="1.5" stroke-linejoin="round"/><text x="17" y="23" text-anchor="middle" font-family="monospace" font-size="7" fill="#3a6f7a">GEL</text>',
-  ophth: '<path d="M6 16h22l6 4-6 4H6z" fill="#fff" stroke="#55707a" stroke-width="1.5"/><rect x="6" y="16" width="8" height="8" fill="#e0464b"/>',
-  insulin: '<rect x="17" y="6" width="6" height="24" rx="1.5" fill="#f4f8fb" stroke="#566" stroke-width="1.3"/><rect x="17.5" y="2" width="5" height="4" fill="#f08a3a"/><path d="M20 30v7" stroke="#566" stroke-width="1.2"/>',
+  bag: '<path d="M11 4h18v20a9 9 0 0 1-18 0z" fill="#f5f0ff" stroke="#7a4fd6" stroke-width="1.5"/><path d="M14 10h6M14 15h6M14 20h6" stroke="#7a4fd6" stroke-width="1.2"/><rect x="11" y="4" width="18" height="4" fill="#7a4fd6"/><path d="M20 33v5" stroke="#7a4fd6" stroke-width="2"/>',
 };
 const FORMULA_COL = { std: "#3a8fbf", lf: "#2fae6c", milk: "#f0c050", dm: "#e07a5f", pep: "#9b6bd8" };
 function iconSvg(name, size = 40, color) {
