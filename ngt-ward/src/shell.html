@@ -1,0 +1,82 @@
+<title>NGT Feeding Ward</title>
+<meta name="description" content="A playable ward simulation of Skills Enhancement #7: Nasogastric Tube (NGT) Feeding, scored with the Level 4 checklist rubric.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Barlow+Condensed:wght@500;600;700&family=JetBrains+Mono:wght@500;700&display=swap">
+<style>
+/*__CSS__*/
+</style>
+
+<div id="app">
+  <header class="topbar">
+    <div class="brand">
+      <span class="brand-mark" aria-hidden="true"></span>
+      <div class="brand-text">
+        <strong>NGT Ward</strong>
+        <span>Skills Enhancement #7</span>
+      </div>
+    </div>
+    <div class="case-chip" id="caseChip">
+      <span class="lbl">Patient</span>
+      <span class="val" id="hudPatient">—</span>
+    </div>
+    <div class="clock-chip">
+      <span class="lbl">Ward time</span>
+      <span class="val mono" id="hudClock">13:45</span>
+    </div>
+    <div class="mode-chip" id="hudMode">Practice</div>
+    <div class="top-actions">
+      <button class="icon-btn" id="btnHint" type="button" title="Ask the Clinical Instructor (H)" aria-label="Clinical Instructor hint">CI</button>
+      <button class="icon-btn" id="btnMute" type="button" title="Sound on/off (M)" aria-label="Toggle sound">♪</button>
+      <button class="icon-btn" id="btnMenu" type="button" title="Main menu" aria-label="Main menu">☰</button>
+    </div>
+  </header>
+
+  <main class="stage">
+    <section class="viewport" id="viewport">
+      <canvas id="world" aria-label="Hospital ward. Move the nurse with WASD or arrow keys, interact with E or Space." role="img"></canvas>
+      <div class="ci-bar" id="ciBar" hidden>
+        <span class="ci-tag">CI</span>
+        <span id="ciText">Read the patient's chart at the nurses' station.</span>
+      </div>
+      <div class="toast-stack" id="toasts" aria-live="polite"></div>
+      <div class="touch" id="touch" hidden>
+        <div class="stick" id="stick"><div class="knob" id="knob"></div></div>
+        <button class="use-btn" id="useBtn" type="button">USE</button>
+      </div>
+    </section>
+
+    <aside class="side" id="side">
+      <nav class="tabs" role="tablist">
+        <button role="tab" class="tab on" data-tab="check" type="button">Checklist</button>
+        <button role="tab" class="tab" data-tab="tray" type="button">Tray <span id="trayCount" class="count">0</span></button>
+        <button role="tab" class="tab" data-tab="log" type="button">Log</button>
+      </nav>
+      <div class="tabpane" id="pane-check"></div>
+      <div class="tabpane" id="pane-tray" hidden></div>
+      <div class="tabpane" id="pane-log" hidden><ol class="log" id="log"></ol></div>
+      <div class="keys">
+        <span><kbd>WASD</kbd> move</span><span><kbd>E</kbd> use</span><span><kbd>H</kbd> hint</span><span>Tap floor to walk</span>
+      </div>
+    </aside>
+  </main>
+
+  <div class="modal" id="modal" hidden>
+    <div class="sheet" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+      <header class="sheet-head">
+        <div>
+          <div class="eyebrow" id="modalEyebrow"></div>
+          <h2 id="modalTitle"></h2>
+        </div>
+        <button class="close" id="modalClose" type="button" aria-label="Close">×</button>
+      </header>
+      <div class="sheet-body" id="modalBody"></div>
+    </div>
+  </div>
+
+  <div class="screen" id="screen"></div>
+</div>
+
+<script>
+/*__JS__*/
+</script>
