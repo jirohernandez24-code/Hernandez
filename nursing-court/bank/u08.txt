@@ -1,0 +1,596 @@
+@unit 8 | Conflict Management | The case of the clashing ward
+
+# u8-def | Conflict and conflict management | Conflict Management (definitions)
+> Conflict = internal discord from differences in ideas, values, or feelings of two or more people. Conflict management = the process by which a leader or manager identifies, addresses, and appropriately handles conflict to keep an optimal balance that promotes growth, productivity, and creativity.
+
+I1 | Internal discord that results from differences in ideas, values, or feelings of two or more people.
+= Conflict
+:: The module defines conflict as internal discord caused by differences in ideas, values, or feelings between two or more people.
+
+I1 | The process by which a leader or manager identifies, addresses, and appropriately handles conflict to keep an optimal balance that promotes growth, productivity, and creativity.
+= Conflict management | conflict managing
+:: Conflict management is not about removing all conflict. It keeps conflict at a balance that still helps growth, productivity, and creativity.
+
+M2 | According to the module, what is the goal of conflict management?
++ Keep an optimal balance of conflict that promotes growth, productivity, and creativity :: The definition says "optimal balance". Some conflict is healthy because it can drive growth and creativity.
+- Remove every source of conflict from the organization :: The module never says to remove all conflict. It says to keep an optimal balance.
+- Decide which party is right so the manager can punish the other :: Managing conflict is about handling it well, not choosing a side to punish.
+- Report all conflicts to the human resource office :: Reporting is not the goal. The leader identifies, addresses, and handles the conflict.
+
+MS2 | Two staff nurses disagree about how to divide patient loads. The head nurse notices the disagreement early, talks to both, and keeps the unit productive. Which process is the head nurse doing?
++ Conflict management :: She identifies, addresses, and handles the conflict to keep the unit productive. That is conflict management.
+- Controlling :: Controlling compares performance with standards and corrects deviations. It is not about handling disagreements.
+- Supervision :: Supervision is overseeing others' work and checking progress. The task here is resolving a disagreement.
+- Collective bargaining :: Collective bargaining is negotiation between employees (through a union) and employers.
+
+# u8-intra | Intrapersonal conflict | Conflict Management › Types of Conflict
+> Intrapersonal conflict happens WITHIN one person: an internal struggle to clarify contradictory values or desires. Managers feel it because of conflicting responsibilities to the organization, subordinates, consumers, profession, and themselves. Self-awareness and prompt resolution protect the leader's physical and mental well-being.
+
+I1 | Type of conflict that occurs within an individual, involving an internal struggle to clarify contradictory values or desires.
+= Intrapersonal conflict | intrapersonal
+:: "Intra" means within. The struggle happens inside one person.
+~ INTRA = INside one person; INTER = between people.
+
+MS2 | A nurse manager is torn. Administration wants lower overtime costs, but her staff need more help, and she also wants to go home to her sick child. What type of conflict is she mainly experiencing?
++ Intrapersonal :: The struggle is inside her, between conflicting responsibilities to the organization, subordinates, and herself.
+- Interpersonal :: Interpersonal conflict is between two or more people. Here the struggle is within one person.
+- Intergroup :: Intergroup conflict is between groups, departments, or organizations.
+- Perceived conflict :: Perceived conflict is a stage of the conflict process, not a type of conflict.
+
+M2 | Why does the module say self-awareness and prompt resolution of intrapersonal conflict are crucial for leaders?
++ They maintain the leader's physical and mental well-being :: The module links resolving intrapersonal conflict to the leader's own physical and mental well-being.
+- They prevent the need for collective bargaining :: Collective bargaining involves unions and employers, not a leader's inner conflict.
+- They guarantee a win-win outcome for the staff :: Win-win is a goal of resolving conflict between parties, not a stated reason here.
+- They remove the need for performance appraisal :: Appraisal is a controlling function and is unrelated.
+
+I2 | Name the five groups a manager may have conflicting responsibilities to (intrapersonal conflict). Give the group that refers to the manager's own self.
+= Themselves | self | oneself | herself | himself
+:: The five are the organization, subordinates, consumers, the profession, and themselves. The last one is the manager's own self.
+
+# u8-inter | Interpersonal conflict | Conflict Management › Types of Conflict
+> Interpersonal conflict happens BETWEEN two or more people with differing values, goals, or beliefs. People-focused = based on emotions and feelings, often seen as personal attacks. Issue-focused = centered on specific issues or events, usually handled by calm negotiation. Sources: informational deficiencies (miscommunication or differing interpretations) and role incompatibility (assigned responsibilities vs personal preferences).
+
+I1 | Type of conflict between two or more people with differing values, goals, or beliefs.
+= Interpersonal conflict | interpersonal
+:: "Inter" means between. Interpersonal conflict is between people.
+
+I2 | Interpersonal conflict based on emotions and feelings, often perceived as a personal attack.
+= People-focused conflict | people focused | people-focused
+:: People-focused conflict centers on feelings, so people take it personally.
+
+I2 | Interpersonal conflict centered on specific issues or events, usually approached through calm negotiation.
+= Issue-focused conflict | issue focused | issue-focused
+:: Issue-focused conflict stays on the problem itself, so calm negotiation is possible.
+
+MS2 | Nurse Ana says, "You always do this to me! You never respect me!" while arguing with Nurse Ben about a turnover. What kind of interpersonal conflict is this?
++ People-focused conflict :: The words are emotional and personal ("you never respect me"), so it is felt as a personal attack.
+- Issue-focused conflict :: Issue-focused conflict stays on a specific event and is calm. This one is emotional and personal.
+- Intergroup conflict :: Intergroup conflict is between groups or departments, not two individual nurses.
+- Role incompatibility :: Role incompatibility is a source of conflict (duties vs preferences), not the kind described here.
+
+MS2 | Two nurses calmly discuss whether the 2 PM vital signs should be done before or after the doctors' rounds. They look at the unit routine and agree. What kind of conflict did they have?
++ Issue-focused conflict :: The talk stayed on one specific issue and was solved through calm negotiation.
+- People-focused conflict :: There were no personal attacks or strong emotions.
+- Intrapersonal conflict :: The disagreement was between two people, not within one.
+- Felt conflict :: Felt conflict is the emotional stage. These nurses stayed calm.
+
+I2 | Source of interpersonal conflict caused by miscommunication or differing interpretations of information.
+= Informational deficiencies | informational deficiency | information deficiency
+:: When information is missing or understood differently, people clash. The module calls this informational deficiencies.
+
+I2 | Source of interpersonal conflict caused by differences between assigned responsibilities and personal preferences.
+= Role incompatibility | role incompatibilities
+:: The role you are assigned does not match what you prefer to do.
+
+MS2 | The night nurse endorsed "NPO post-midnight" but the day nurse heard "NPO until midnight" and fed the patient. The two nurses now blame each other. What is the source of this conflict?
++ Informational deficiencies :: The conflict came from miscommunication and a different understanding of the endorsement.
+- Role incompatibility :: Role incompatibility is about assigned duties vs personal preferences. This came from a misunderstanding.
+- Intergroup conflict :: This is a type of conflict between groups, not a source of conflict between two nurses.
+- Latent conflict :: Latent conflict is a stage where conflict has not happened yet. Here it already has.
+
+MS3 | Nurse Carla was assigned to the isolation room all week, but she prefers to work with post-op patients. She clashes with her charge nurse. Which source of interpersonal conflict is this?
++ Role incompatibility :: Her assigned responsibility (isolation) does not match her personal preference (post-op).
+- Informational deficiencies :: Nobody misunderstood information. Everyone knows the assignment.
+- People-focused conflict :: This is a kind of interpersonal conflict, not one of the two sources listed in the module.
+- Intrapersonal conflict :: She is clashing with another person, so this is interpersonal.
+
+# u8-intergroup | Intergroup conflict | Conflict Management › Types of Conflict
+> Intergroup conflict happens between two or more groups, departments, or organizations. Module examples: conflicting beliefs between political affiliations, or nurses balancing work and family issues.
+
+I1 | Type of conflict that occurs between two or more groups, departments, or organizations.
+= Intergroup conflict | intergroup
+:: Intergroup conflict involves groups, not just individuals.
+
+MS2 | The Emergency Department and the Medical Ward argue every night about how fast admitted patients should be transferred upstairs. What type of conflict is this?
++ Intergroup conflict :: Two departments are in conflict, so it is intergroup.
+- Interpersonal conflict :: Interpersonal conflict is between individual people. Here two departments are involved.
+- Intrapersonal conflict :: Intrapersonal conflict happens inside one person.
+- Role incompatibility :: That is a source of interpersonal conflict, not a conflict between departments.
+
+M2 | Which of these is given in the module as an example of intergroup conflict?
++ Conflicting beliefs between political affiliations :: The module lists conflicting political affiliations, and nurses balancing work and family issues, as intergroup examples.
+- A nurse struggling with her own values about overtime :: That is intrapersonal conflict (within one person).
+- Two nurses arguing about a shift swap :: That is interpersonal conflict (between two people).
+- A relative noticing delays in care :: That is the module's example for perceived conflict, a stage of the process.
+
+# u8-process | The conflict process (5 stages) | Conflict Management › The Conflict Process
+> 1 Latent: conditions are ripe because of antecedent factors; conflict has not happened yet (hospital is short staffed). 2 Perceived: recognized logically and impersonally as an issue of rules or resources; not yet emotional; may be solved here by open communication and mutual support (relative notices delays). 3 Felt (affective): emotional, with hostility, fear, mistrust, or anger (relative believes care is neglected). 4 Manifest (overt): action is taken: withdrawing, competing, debating, or resolving; fear of retaliation, ridicule, alienation, or past experiences can stop people from acting; socialization and gender roles affect responses (relative raises voice; head nurse listens and reviews the care plan). 5 Aftermath: positive or negative outcome; poorly managed conflict re-emerges.
+~ Lazy Penguins Feel Mad After = Latent, Perceived, Felt, Manifest, Aftermath
+
+I1 | First stage of the conflict process, where conditions are ripe for conflict because of antecedent factors, but conflict has not occurred yet.
+= Latent conflict | latent | latent stage
+:: "Latent" means hidden or not yet active. The conditions exist, but the conflict has not started.
+~ Lazy Penguins Feel Mad After
+
+I2 | In latent conflict, managers can prevent or reduce conflict by identifying and addressing these conditions.
+= Antecedent conditions | antecedent factors | antecedents
+:: Antecedent means "coming before". Fixing these early conditions prevents the conflict.
+
+MS2 | A hospital is short staffed, so patient care delays are likely, but no one has complained yet. Which stage of the conflict process is this?
++ Latent conflict :: This is the module's example of latent conflict. The conditions are ripe, but conflict has not happened yet.
+- Perceived conflict :: In perceived conflict someone already recognizes the issue. Here nobody has noticed it yet.
+- Felt conflict :: Felt conflict is emotional. No emotions are involved yet.
+- Manifest conflict :: Manifest conflict involves action, such as confronting someone. Nothing has happened yet.
+
+I2 | Stage of the conflict process where the conflict is recognized logically and impersonally as an issue involving rules or resources.
+= Perceived conflict | perceived | perceived stage
+:: In perceived conflict people see the problem with their minds, not yet with strong emotions.
+
+MS2 | A patient's relative notices that her father's medicines are being given late. She is bothered but calm and does not show strong emotions. Which stage is this?
++ Perceived conflict :: She recognizes the issue logically without strong emotions. This matches the module's perceived conflict example.
+- Latent conflict :: In latent conflict nobody has noticed anything yet. The relative has noticed.
+- Felt conflict :: Felt conflict has hostility, fear, mistrust, or anger. She is still calm.
+- Conflict aftermath :: The aftermath comes after the conflict is resolved, well or poorly.
+
+M2 | At which stage can a conflict sometimes still be resolved through open communication and mutual support, before it becomes emotional?
++ Perceived conflict :: The module says perceived conflict can sometimes be resolved at that stage with open communication and mutual support, because it is not yet emotional.
+- Felt conflict :: By the felt stage, emotions such as anger and mistrust are already present.
+- Manifest conflict :: Manifest conflict is when action is already being taken.
+- Conflict aftermath :: The aftermath is the result after resolution, not a chance to resolve early.
+
+I2 | Stage of the conflict process where the conflict becomes emotional, with hostility, fear, mistrust, or anger. Also called affective conflict.
+= Felt conflict | felt | affective conflict | affective
+:: At the felt stage the conflict is now "felt" in emotions.
+
+MS2 | The relative's frustration turns into anger. She believes her father's care is being neglected and no longer trusts the staff. Which stage is this?
++ Felt (affective) conflict :: Anger and mistrust show the conflict has become emotional. That is felt conflict.
+- Perceived conflict :: Perceived conflict is logical and not yet emotional.
+- Manifest conflict :: Manifest conflict is when she takes action, such as confronting someone.
+- Latent conflict :: Latent conflict has not happened yet.
+
+I2 | Stage of the conflict process where action is taken, such as withdrawing, competing, debating, or resolving. Also called overt conflict.
+= Manifest conflict | manifest | overt conflict | overt
+:: "Manifest" means it now shows in behavior.
+
+MS2 | The relative confronts a nurse at the station and raises her voice. The head nurse steps in, listens, and offers a calm discussion and a detailed review of the care plan. Which stage is happening?
++ Manifest (overt) conflict :: Action is being taken: the confrontation and the head nurse's response. This is the module's example of manifest conflict.
+- Felt conflict :: Felt conflict is the emotion only. Here there is open action.
+- Conflict aftermath :: The aftermath is the result after the response, such as trust being restored.
+- Perceived conflict :: Perceived conflict is calm and logical. This is open confrontation.
+
+M3 | In the manifest stage, which of these does the module give as a reason people avoid addressing conflict?
++ Fear of retaliation, ridicule, or alienation :: The module lists fear of retaliation, ridicule, alienation, or past negative experiences.
+- Lack of antecedent conditions :: Antecedent conditions belong to latent conflict, not to the reasons for avoiding action.
+- Too much empowerment :: The module does not list empowerment as a reason to avoid conflict.
+- The need for a win-win solution :: Win-win is the goal of resolution, not a reason to avoid the conflict.
+
+M3 | According to the module, what may influence how individuals respond to conflict in the manifest stage (e.g., men may respond more aggressively while women might avoid conflict)?
++ Socialization and gender roles :: The module says socialization and gender roles influence responses to conflict.
+- Benchmarking and quality gaps :: Those are quality-control terms from Unit 9.
+- Informational deficiencies :: That is a source of interpersonal conflict, not what shapes the response style.
+- Antecedent conditions :: Those cause latent conflict. They do not explain response styles.
+! Source note: the module text reads "gender trolls". From the example (men respond aggressively, women avoid), it most likely means "gender roles". Please verify with your professor.
+
+I2 | Final stage of the conflict process, where resolution leads to either positive or negative outcomes.
+= Conflict aftermath | aftermath
+:: Aftermath means what comes after. It can be positive (trust restored) or negative (the issue comes back).
+
+MS2 | After the head nurse's talk, the relative feels heard and trust is restored through regular patient updates. What is this?
++ A positive conflict aftermath :: This is the module's positive aftermath example.
+- A negative conflict aftermath :: A negative aftermath leaves the relative frustrated and the issue may escalate.
+- Latent conflict :: Latent conflict is the start of the process, not the result.
+- Smoothing :: Smoothing calms people but does not solve the issue. Here the concern was truly addressed.
+
+M2 | What does the module say about poorly managed conflict?
++ It may leave unresolved issues that could re-emerge later :: The module says poorly managed conflict can come back later.
+- It always ends in a lose-lose compromise :: Lose-lose is a risk of compromising, not the module's statement about poorly managed conflict.
+- It becomes latent conflict permanently :: The module does not say this.
+- It leaves participants feeling fairly treated :: Fair treatment is a sign of well-managed conflict.
+! Source note: the module says well-managed conflict leaves participants feeling "hurt and fairly treated". It most likely means "NOT hurt and fairly treated". Please verify with your professor.
+
+M2 | Arrange the conflict process correctly.
++ Latent, perceived, felt, manifest, aftermath :: Conditions first (latent), then recognition (perceived), then emotion (felt), then action (manifest), then the result (aftermath).
+- Perceived, latent, felt, manifest, aftermath :: Latent comes first. Conditions exist before anyone perceives the conflict.
+- Latent, felt, perceived, manifest, aftermath :: Perceived (logical) comes before felt (emotional).
+- Latent, perceived, manifest, felt, aftermath :: Emotions (felt) come before action (manifest).
+~ Lazy Penguins Feel Mad After
+
+# u8-winwin | Goal of conflict resolution | Conflict Management › Conflict Resolution Strategies
+> The optimal goal is a win-win solution for everyone. It is not always possible. Often the manager's goal is to manage the conflict in a way that lessens the perceptual differences between the parties.
+
+I1 | The optimal outcome when resolving conflict, where all parties involved benefit.
+= Win-win | win win | win-win solution
+:: The module says the optimal goal is a win-win solution for all involved.
+
+M2 | When a win-win solution is not possible, what is often the manager's goal?
++ Manage the conflict so it lessens the perceptual differences between the parties :: The module says the manager often aims to lessen the perceptual differences between the parties.
+- Choose the party with more seniority :: The module does not support deciding by seniority.
+- Avoid the conflict until it disappears :: Avoiding can make issues bigger later.
+- Impose a policy without consulting anyone :: That is competing (win-lose), not the stated goal.
+
+# u8-strategies | Conflict resolution strategies | Conflict Management › Conflict Resolution Strategies
+> Compromising: each party gives up something; best when each gives up something of EQUAL value, otherwise it can become lose-lose (shift swap). Competing: one party pursues its goals at others' expense = win-lose; used when quick decisions are needed or one party has more knowledge (manager imposes policy without consulting). Cooperating/Accommodating: one party sacrifices its needs so the other wins; politically useful but leaves resentment (nurse takes extra patients hoping for a future favor). Smoothing: pacifies the other party and focuses on agreements over differences; reduces emotion but may not resolve the issue. Avoiding: ignoring the conflict; fine for trivial issues or when cost of resolution exceeds benefit; the issue may fester (nurse ignores colleague's behavior, morale drops). Collaborating: assertive AND cooperative, win-win; needs mutual respect and open communication (nurse and supervisor build a schedule together).
+
+I1 | Conflict resolution strategy where each party gives up something to reach a mutually acceptable solution.
+= Compromising | compromise
+:: In compromising, both sides give something up.
+
+I2 | In compromising, to avoid a lose-lose situation, both parties should give up something of this.
+= Equal value | something of equal value | equal
+:: If one side feels it gave up more, compromising can turn lose-lose. Equal value keeps it fair.
+
+MS1 | Two nurses disagree on their shift schedules. They agree to swap shifts for next week, so both get time off and the unit stays fully staffed. Which strategy did they use?
++ Compromising :: Each gave up something (a shift) of equal value to reach a mutually acceptable solution. This is the module's compromising example.
+- Collaborating :: Collaborating means building a new shared solution together toward a common goal. Here they simply traded equal things.
+- Accommodating :: In accommodating only one party sacrifices. Here both gave something.
+- Avoiding :: They did not ignore the problem. They solved it.
+
+M2 | Compromising can be seen as optimal. When can it become a lose-lose situation?
++ When one party feels they sacrificed more than the other :: The module warns that compromising becomes lose-lose if one party feels they gave up more.
+- When both parties give up something of equal value :: Equal value is exactly how to avoid lose-lose.
+- When a quick decision is needed :: Quick decisions are linked to competing.
+- When the issue is trivial :: Trivial issues are linked to avoiding.
+
+I1 | Conflict resolution strategy where one party pursues its goals at the expense of others, resulting in a win-lose situation.
+= Competing | competition | compete
+:: Competing has one winner and one loser.
+
+M2 | According to the module, when is competing often used?
++ When quick decisions are needed or one party has more knowledge about the situation :: The module gives these two uses of competing.
+- When the cost of resolution is greater than the benefit :: That is when avoiding may be suitable.
+- When both parties want to build a shared solution :: That describes collaborating.
+- When one party wants a future favor :: That describes accommodating.
+
+MS2 | A manager implements a new policy that benefits the administration but adds burden to the nursing staff, without consulting them first. Which strategy is this?
++ Competing :: The manager pursues the administration's goal at the staff's expense (win-lose). This is the module's competing example.
+- Smoothing :: Smoothing tries to calm people by stressing agreement. This manager did not try to calm anyone.
+- Collaborating :: Collaborating would involve the staff in building the solution.
+- Compromising :: In compromising, both sides give something up. Only the staff gave something up here.
+
+MS2 | A patient in the ER suddenly goes into cardiac arrest. Two nurses disagree on who will do compressions. The charge nurse immediately orders, "You compress, you bag." Which strategy fits, and why is it acceptable here?
++ Competing, because a quick decision is needed :: The module says competing is often used when quick decisions are needed. An arrest cannot wait for a discussion.
+- Collaborating, because both nurses get what they want :: There was no shared decision-making. The charge nurse decided alone.
+- Avoiding, because the issue is trivial :: The issue was not ignored, and it is not trivial.
+- Smoothing, because it focuses on agreements :: The charge nurse gave an order. She did not try to soothe anyone.
+
+I1 | Conflict resolution strategy where one party sacrifices their own needs or desires so the other party can win. Also called accommodating.
+= Cooperating | accommodating | cooperation | accommodation
+:: The module calls this cooperating or accommodating. One side gives in so the other wins.
+
+M2 | What is the common downside of cooperating/accommodating, according to the module?
++ The accommodating party often feels resentful :: The module says accommodating can be politically useful but often leaves the accommodating party resentful.
+- It always produces a lose-lose result :: Lose-lose is the risk of compromising.
+- It needs a quick decision by the more knowledgeable party :: That describes competing.
+- It never resolves anything because it only stresses agreements :: That describes smoothing.
+
+MS2 | Nurse Dina agrees to take two more patients from a colleague, hoping for a favor in the future, even though her own workload suffers. Which strategy is this?
++ Cooperating / accommodating :: Dina sacrifices her own needs so her colleague wins. This is the module's example of accommodating.
+- Compromising :: In compromising, both parties give up something. Here only Dina gave.
+- Collaborating :: Collaborating creates a win-win. Dina's workload suffered.
+- Competing :: In competing, one party pursues its own goals. Dina gave up hers.
+
+I2 | Conflict resolution strategy where one party tries to pacify the other and focuses on agreements rather than differences.
+= Smoothing | smooth
+:: Smoothing calms emotions but may leave the real issue unsolved.
+
+MS2 | A manager acknowledges a nurse's frustration about a decision and stresses the team's shared goals, but does not address the specific issues raised. Tension remains. Which strategy is this?
++ Smoothing :: The manager pacifies and focuses on shared goals but does not resolve the issue. This is the module's smoothing example.
+- Avoiding :: In avoiding, the conflict is ignored completely. This manager did respond.
+- Collaborating :: Collaborating would solve the issue together, leaving no tension.
+- Competing :: The manager did not push a goal at the nurse's expense.
+
+M2 | What is the main limitation of smoothing?
++ It minimizes emotional tension but may not resolve the underlying conflict :: Smoothing makes people feel calmer, but the root issue may remain.
+- It always creates a win-lose situation :: Win-lose is competing.
+- It makes the accommodating party resentful :: Resentment is the downside of accommodating.
+- It is only suitable for trivial disagreements :: That is the module's guideline for avoiding.
+
+I1 | Conflict resolution strategy that involves ignoring the conflict or not addressing it.
+= Avoiding | avoidance | avoid
+:: Avoiding means not dealing with the conflict at all.
+
+M2 | When may avoiding be a suitable strategy?
++ For trivial disagreements, or when the cost of resolution exceeds the benefit :: The module gives these two situations.
+- When a quick decision is needed :: That is when competing is used.
+- When both parties need a win-win :: That needs collaborating.
+- When the issue is serious and keeps coming back :: A serious, repeated issue will fester if avoided, as in the module's example.
+
+MS2 | A nurse notices a colleague's persistent problem behavior but decides not to confront it because "it's not worth the trouble." Months later, team morale drops. Which strategy was used, and what went wrong?
++ Avoiding. The issue festered and hurt team morale. :: This is the module's avoiding example. Ignoring a persistent issue lets it grow.
+- Smoothing. The nurse stressed agreements too much. :: The nurse did not engage at all, so it is not smoothing.
+- Compromising. Both sides gave up too much. :: Nobody negotiated or gave anything up.
+- Accommodating. The nurse sacrificed her needs for a favor. :: There was no sacrifice for a favor. The nurse just ignored it.
+
+MS1 | Two nurses disagree on whether the pen at the nurses' station should be blue or black. The head nurse lets it go. Which strategy is this and is it appropriate?
++ Avoiding, and it is appropriate because the issue is trivial :: The module says avoiding may suit trivial disagreements.
+- Competing, and it is appropriate because it is quick :: Letting it go is not pursuing one side's goal.
+- Collaborating, and it is not appropriate :: Nothing was built together. The issue was simply left alone.
+- Smoothing, and it is never appropriate :: The head nurse did not pacify anyone or stress agreement.
+
+I2 | Conflict resolution strategy that is both assertive and cooperative, aiming for a win-win solution where all parties work toward a common goal.
+= Collaborating | collaboration | collaborate
+:: Collaborating is the only strategy that is both assertive and cooperative.
+
+M2 | According to the module, collaboration requires which two things?
++ Mutual respect and open communication :: The module states collaboration requires mutual respect and open communication.
+- A quick decision and more knowledge :: Those are linked to competing.
+- Equal sacrifice and a deadline :: Equal sacrifice is linked to compromising.
+- Silence and patience :: Silence fits avoiding, not collaborating.
+
+MS2 | A nurse and her supervisor discuss staffing problems and together develop a schedule that keeps patient care safe and still grants the nurse's time-off request. Which strategy is this?
++ Collaborating :: They worked together toward a common goal, and both needs were met (win-win). This is the module's collaborating example.
+- Compromising :: In compromising each gives up something of equal value. Here they built a new solution that meets everyone's needs.
+- Accommodating :: Nobody sacrificed their needs.
+- Smoothing :: The issue was actually solved, not just calmed.
+
+M3 | Which strategy is described as BOTH assertive AND cooperative?
++ Collaborating :: The module describes collaborating as assertive and cooperative.
+- Competing :: Competing is assertive but not cooperative.
+- Accommodating :: Accommodating is cooperative but gives up one's own needs (not assertive).
+- Avoiding :: Avoiding is neither assertive nor cooperative.
+
+M3 | Match the outcome: which strategy is linked to "win-lose"?
++ Competing :: Competing pursues one party's goals at others' expense, so one wins and the other loses.
+- Collaborating :: Collaborating is win-win.
+- Compromising :: Compromising aims for a mutually acceptable result. Its risk is lose-lose.
+- Smoothing :: Smoothing minimizes tension. The module does not call it win-lose.
+
+# u8-stress | Work-related stress: bullying, incivility, mobbing, workplace violence | Conflict Management › Work-related Stress
+> Bullying: REPEATED, health-harming mistreatment of one or more targets by one or more perpetrators; abusive, threatening, humiliating, or intimidating; a pattern, not a one-time incident. Incivility: rude or disrespectful behavior on a continuum from subtle acts (eye rolling, sarcastic comments) to overt intimidation or violence. Mobbing: a GROUP of employees collectively targets one individual with harassment, bullying, or isolation (excluding, spreading rumors). Workplace violence: behaviors that cause physical harm or psychological distress; includes physical violence plus bullying, incivility, and mobbing (family member threatens a nurse).
+
+I1 | Repeated, health-harming mistreatment of one or more individuals (targets) by one or more perpetrators. It is abusive, threatening, humiliating, or intimidating.
+= Bullying | workplace bullying
+:: The key word is repeated. Bullying is a pattern, not a one-time incident.
+
+MS2 | A senior nurse keeps criticizing a junior nurse in staff meetings week after week, mocking her decisions in front of peers. What is this?
++ Bullying :: It is a repeated pattern of humiliating mistreatment by one perpetrator. This is the module's bullying example.
+- Mobbing :: Mobbing is done by a group. Here one senior nurse is the perpetrator.
+- Incivility :: Incivility covers rude acts, but this repeated, humiliating pattern matches the module's definition of bullying.
+- Smoothing :: Smoothing is a conflict resolution strategy.
+! Source note: the module example says "mocking hermit decisions". It most likely means "mocking her decisions". Please verify with your professor.
+
+M2 | What separates bullying from a single rude remark, according to the module?
++ Bullying is a pattern of behavior, not a one-time incident :: The module stresses that bullying is repeated, not a one-time event.
+- Bullying always involves physical contact :: Bullying can be verbal or emotional. No contact is needed.
+- Bullying is always done by a group :: Group targeting is mobbing.
+- Bullying is only done by patients :: The module describes bullying between staff.
+
+I2 | Rude or disrespectful behavior that ranges on a continuum from subtle acts like eye rolling or sarcasm to overt intimidation or violence.
+= Incivility | workplace incivility
+:: Incivility is a continuum of disruptive behavior that can escalate.
+
+MS1 | During a meeting, a nurse rolls her eyes whenever a colleague speaks. She says nothing, but the colleague loses confidence. What is this?
++ Incivility :: Eye rolling is the module's example of subtle incivility.
+- Mobbing :: Mobbing needs a group targeting one person.
+- Workplace violence through physical harm :: There was no physical harm. This is a subtle disrespectful act.
+- Assault :: Assault is a legal term (fear of harm without contact). Eye rolling does not threaten harm.
+
+MS2 | A nurse gives valid feedback but in a sarcastic tone, so the colleague feels belittled. Which work-related stressor does this match?
++ Incivility :: Sarcastic comments are subtle disrespectful behavior, which is incivility. The module uses this exact example.
+- Bullying :: Bullying is a repeated pattern of health-harming mistreatment. One sarcastic remark is not described that way.
+- Mobbing :: Only one person is involved.
+- Defamation :: Defamation is false information told to a third person. The feedback here was valid.
+
+I2 | Occurs when a group of employees collectively targets one individual with harassment, bullying, or isolation.
+= Mobbing | workplace mobbing
+:: Mobbing = a mob (group) against one person.
+~ MOBbing = a MOB against one.
+
+MS2 | Several staff members spread rumors about a nurse, damaging her reputation and making her feel unwelcome at work. What is this?
++ Mobbing :: A group collectively targets one person. This is one of the module's mobbing examples.
+- Bullying :: Bullying can be by one or more people, but a group collectively targeting one person is the module's definition of mobbing.
+- Incivility :: Incivility is rude behavior. Organized group rumor-spreading matches mobbing.
+- Collective bargaining :: Collective bargaining is a group negotiating with management, not targeting a colleague.
+
+MS2 | A group of nurses keeps excluding one colleague from team discussions and social activities. She feels isolated and unsupported. What is this?
++ Mobbing :: Group isolation of one person is the module's mobbing example.
+- Avoiding :: Avoiding is a conflict strategy of ignoring the conflict, not targeting a person.
+- Incivility :: The group targeting is what makes it mobbing.
+- Intergroup conflict :: Intergroup conflict is between groups, not a group against one person.
+
+I2 | A range of behaviors that result in physical harm or psychological distress to people in the workplace, including bullying, incivility, and mobbing.
+= Workplace violence | violence
+:: Workplace violence is the umbrella. It covers physical violence and anti-social behaviors like bullying, incivility, and mobbing.
+
+MS2 | A patient's family member, angry about the care, physically threatens a nurse. The staff become fearful and anxious. What is this?
++ Workplace violence :: Threats that cause fear and distress at work are workplace violence. This is the module's example.
+- Mobbing :: Mobbing is a group of employees targeting a colleague.
+- Incivility :: A physical threat is beyond subtle rudeness and matches the module's workplace violence example.
+- Felt conflict :: Felt conflict is a stage of conflict, not a type of workplace stressor.
+
+M3 | Which statement about workplace violence is correct according to the module?
++ It includes bullying, incivility, and mobbing, not only physical violence :: The module says workplace violence includes anti-social behaviors like bullying, incivility, and mobbing.
+- It only counts if someone is physically injured :: Psychological distress also counts.
+- It is the same as incivility :: Incivility is only one part of workplace violence.
+- It only refers to violence by patients :: The module includes behavior among staff too.
+
+# u8-esteem | Self-esteem | Conflict Management › Enhancing Self-Esteem
+> Self-esteem = the perception of one's own worth and abilities. Maslow's two categories: Self-respect (internal: confidence, achievement, independence, competence) and Respect from others (external: recognition, status, prestige, appreciation). High self-esteem: confident, assertive, better at handling conflict, positive communication, prevents escalation. Low self-esteem: avoidance or passive behavior that may worsen disputes; may feel powerless or disengaged, affecting patient care and team dynamics. Strategies: 1 positive feedback and recognition, 2 opportunities for skill development, 3 mentorship programs.
+
+I1 | The perception of one's own worth and abilities.
+= Self-esteem | self esteem
+:: Self-esteem is how you see your own worth and abilities.
+
+I2 | Psychologist who divided self-esteem into self-respect and respect from others.
+= Maslow | Abraham Maslow
+:: Maslow split self-esteem into an internal part (self-respect) and an external part (respect from others).
+
+I2 | Maslow's category of self-esteem that covers the internal feeling of confidence, achievement, independence, and competence.
+= Self-respect | self respect
+:: Self-respect is internal: how you feel about yourself.
+
+I2 | Maslow's category of self-esteem that focuses on external validation, such as recognition, status, prestige, and appreciation.
+= Respect from others | respect from other
+:: This is external: what others give you.
+
+MS2 | Nurse Elle feels proud after she independently handles a difficult IV insertion. Nobody saw it, but she feels competent. Which category of self-esteem is this?
++ Self-respect :: It is an internal feeling of competence and independence. No one else validated it.
+- Respect from others :: Nobody recognized her. The feeling came from within.
+- Empowerment :: Empowerment is a psychological state about control over practice. The question asks about Maslow's self-esteem categories.
+- Self-discipline :: Self-discipline (Unit 9) is employees governing their own behavior.
+
+MS2 | A nurse is named "Employee of the Month" and her photo is posted in the lobby. Which category of self-esteem does this feed?
++ Respect from others :: Recognition and status come from others. That is external validation.
+- Self-respect :: Self-respect is an internal feeling, not an award from others.
+- Impact :: Impact is a component of empowerment, not a category of self-esteem.
+- Meaning :: Meaning is also an empowerment component.
+
+M2 | According to the module, how does LOW self-esteem affect conflict?
++ It leads to avoidance or passive behavior, which may worsen disputes :: The module says low self-esteem leads to avoidance or passivity that can make disputes worse.
+- It makes nurses more assertive and confident :: That is high self-esteem.
+- It prevents conflicts from escalating :: High self-esteem prevents escalation.
+- It has no effect on patient care :: The module says low self-esteem can impact patient care and team dynamics.
+
+M2 | According to the module, nurses with HIGH self-esteem are:
++ More confident, assertive, and better equipped to handle conflict :: The module's table lists these traits for high self-esteem.
+- More likely to avoid conflict :: Avoidance is linked to low self-esteem.
+- More likely to feel powerless :: Powerlessness is linked to low self-esteem.
+- More likely to become bullies :: The module does not say this.
+
+I2 | Give one of the three strategies to enhance self-esteem in nurses that uses guidance from experienced nurses.
+= Mentorship programs | mentorship | mentoring | mentorship program
+:: Mentorship gives guidance that helps less experienced nurses build confidence.
+
+MS2 | A chief nurse wants to raise staff self-esteem. She starts a monthly "thank-you board" where good work is acknowledged. Which strategy is she using?
++ Positive feedback and recognition :: Regular acknowledgment of contributions boosts morale. This is strategy 1 in the module.
+- Opportunities for skill development :: That would be training on technical or interpersonal skills.
+- Mentorship programs :: That would pair new nurses with experienced ones.
+- Collective bargaining :: That is negotiation through unions.
+
+MS2 | The training office offers free IV therapy and communication workshops so nurses feel more capable. Which self-esteem strategy is this?
++ Opportunities for skill development :: Building technical and interpersonal skills boosts confidence. This is strategy 2.
+- Positive feedback and recognition :: Recognition acknowledges work already done. This builds new skills.
+- Mentorship programs :: Mentorship is guidance from an experienced nurse.
+- Performance deficiency coaching :: That is a Unit 9 controlling strategy for poor performance.
+
+# u8-supervision | Supervision | Conflict Management › Supervision
+> Supervision = actively overseeing the work of others with ongoing checking of progress. Direct oversight: the supervisor periodically checks in with staff. Supervision is more critical in hierarchical relationships (RN to nursing assistant). Collaborative relationships (RN to RN) usually involve consulting and advice, not direct supervision. Example: a nursing assistant is behind schedule 3 hours into the shift; the supervising RN assesses the situation (a patient complication or being called away), re-evaluates the assignment, and redistributes tasks so patient care is completed.
+
+I1 | Actively overseeing the work of others, which requires ongoing checking of progress.
+= Supervision | supervising
+:: Supervision is active and ongoing, not a one-time check.
+
+I2 | Element of supervision where supervising personnel periodically check in with staff.
+= Direct oversight | direct supervision | oversight
+:: Direct oversight means regular check-ins.
+
+M2 | In which relationship is supervision MORE critical, according to the module?
++ RN to nursing assistant (hierarchical) :: The module says supervision is more critical in hierarchical relationships.
+- RN to RN (collaborative) :: Collaborative relationships usually involve consulting and advice, not direct supervision.
+- Nurse to patient's relative :: This is not a supervisory relationship.
+- Nursing student to patient :: The module's example is RN to nursing assistant.
+
+MS2 | Three hours into the shift, the nursing assistant assigned to vital signs and bed baths is far behind. What should the supervising RN do first?
++ Assess the situation, then re-evaluate and redistribute the tasks so care is completed :: The module says the RN must assess the cause (complication or external errand) and may redistribute tasks.
+- Write an incident report for poor performance :: Assessment comes first. The cause may be a patient complication, not poor performance.
+- Wait until end of shift to see if the work is finished :: Supervision requires ongoing checking. Waiting risks incomplete care.
+- Do nothing because nursing assistants are not her responsibility :: The RN supervises the nursing assistant.
+! Source note: the module says the RN might "restrict redistribute" tasks. It most likely means "redistribute". It also says "the cost could be" a complication, which most likely means "the cause could be". Please verify.
+
+MS2 | Two RNs on the same shift disagree on wound care. One asks the other for advice. What kind of relationship is this?
++ Collaborative, involving consulting and advice rather than direct supervision :: The module says RN to RN relationships are collaborative and use consulting and advice.
+- Hierarchical, requiring direct oversight :: Hierarchical is RN to nursing assistant.
+- Competing, requiring a quick decision :: Competing is a conflict strategy.
+- Mobbing :: Mobbing is a group targeting one person.
+
+# u8-empower | Power, empowerment, and disempowerment | Conflict Management › Psychological / Structural Empowerment
+> Empowerment in nursing = enabling nurses to take control of their professional practice, improve working conditions, and grow professionally; it has psychological and practical elements. Power = the ability to influence others, even against resistance. Empowerment = a psychological state where nurses feel competent, in control, and entitled to make decisions about their practice. You can have power and not feel empowered. 4 components: Self-determination (free to decide how to do tasks), Meaning (care deeply, find work fulfilling), Competence (confident in abilities), Impact (believe contributions make a difference in patient outcomes). Disempowerment = the opposite: nurses lose control over their practice, leading to frustration, emotional exhaustion, and burnout; caused by workload overload, lack of recognition, and insufficient decision-making authority.
+~ Empowerment = "S-M-C-I": Self-determination, Meaning, Competence, Impact
+
+I1 | The ability to influence others, even against resistance.
+= Power
+:: Power is about influencing others. Empowerment is an internal state.
+
+I1 | A psychological state where nurses feel competent, in control, and entitled to make decisions about their practice.
+= Empowerment | psychological empowerment
+:: Empowerment is a feeling inside the nurse: competent, in control, and entitled to decide.
+
+MS3 | A newly promoted head nurse can assign staff and approve leaves, but she feels unsure, unheard by administration, and powerless to change anything. Which statement best explains this?
++ It is possible to have power but not feel empowered :: She has power (ability to influence staff) but lacks the psychological state of empowerment. The module says these can be separate.
+- She is empowered because she has authority :: Authority is not the same as feeling empowered.
+- She is experiencing mobbing :: Nobody is targeting her as a group.
+- She is in the latent stage of conflict :: That is a conflict stage, not the power vs empowerment idea.
+
+I2 | Component of empowerment where nurses feel free to decide how to perform their tasks.
+= Self-determination | self determination
+:: Self-determination = freedom to decide how to do your work.
+
+I2 | Component of empowerment where nurses believe their contributions are valuable and make a difference in patient outcomes.
+= Impact
+:: Impact = "my work makes a difference."
+
+I2 | Component of empowerment where nurses care deeply about their work and find it fulfilling.
+= Meaning
+:: Meaning = the work matters to you personally.
+
+I2 | Component of empowerment where nurses feel confident in their ability to perform tasks effectively.
+= Competence
+:: Competence = "I can do this well."
+
+MS2 | Nurse Fe says, "Because I taught my patient about foot care, he avoided amputation. My work really changes outcomes." Which empowerment component is she showing?
++ Impact :: She believes her contribution made a difference in patient outcomes.
+- Meaning :: Meaning is finding the work fulfilling. Her focus is on the difference she made.
+- Self-determination :: That is freedom to decide how to do tasks.
+- Competence :: That is confidence in one's abilities.
+
+MS2 | The unit lets each nurse choose the order in which she does her morning care, as long as it is safe. Which empowerment component does this support?
++ Self-determination :: Nurses are free to decide how to perform their tasks.
+- Impact :: Impact is about outcomes, not choice of method.
+- Meaning :: Meaning is fulfillment in the work.
+- Competence :: Competence is confidence in abilities.
+
+M2 | Which is NOT one of the four components of empowerment in the module?
++ Authority :: The four are self-determination, meaning, competence, and impact. Authority is not listed.
+- Meaning :: Meaning is component 2.
+- Competence :: Competence is component 3.
+- Impact :: Impact is component 4.
+
+I2 | The opposite of empowerment, when nurses lose control over their practice, leading to frustration, emotional exhaustion, and burnout.
+= Disempowerment | disempowered
+:: Disempowerment is losing control over practice.
+
+MS2 | A nurse has 15 patients each shift, is never thanked, and has no say in unit decisions. She feels emotionally exhausted and is close to burnout. What does this describe?
++ Disempowerment :: Workload overload, lack of recognition, and no decision-making authority are the module's causes of disempowerment.
+- Empowerment :: She feels the opposite of competent and in control.
+- Intergroup conflict :: There are no two groups in conflict here.
+- Self-respect :: Self-respect is an internal sense of competence. She is losing that.
+! Source note: the module says these factors "contribute to this empowerment". From context it most likely means "disempowerment". Please verify.
+
+M2 | Which three factors does the module list as causes of disempowerment?
++ Workload overload, lack of recognition, insufficient decision-making authority :: These three are listed in the module.
+- Mentorship, recognition, skill development :: These are strategies to ENHANCE self-esteem.
+- Forewarning, consistency, impartiality :: These are Hot Stove rules from Unit 9.
+- Self-determination, meaning, impact :: These are components of empowerment.
+
+# u8-orgs | Professional organizations and collective bargaining | Conflict Management › Professional Organizations / Collective Bargaining
+> Nurses gain empowerment by joining professional organizations, which offer a platform for collective advocacy and a powerful voice to influence healthcare policy. Collective bargaining involves unions that aim to equalize power between employees and employers; it can improve working conditions, job security, and empowerment. Downsides: it may create conflict between staff and management and can put patient care at risk during strikes.
+
+I1 | According to the module, nurses can gain empowerment by joining these, which provide a platform for collective advocacy and a voice to influence healthcare policy.
+= Professional organizations | professional organization | nursing organizations | professional associations
+:: Professional organizations give nurses a collective voice in healthcare policy.
+
+I2 | Involves unions that aim to equalize power between employees and employers.
+= Collective bargaining
+:: Through a union, employees bargain as a group, which balances power with the employer.
+
+M2 | According to Unit 8, what is a downside of collective bargaining?
++ It may create staff-management conflict and can put patient care at risk during strikes :: The module lists both downsides.
+- It reduces job security :: The module says it can IMPROVE job security.
+- It removes nurses' right to join professional organizations :: The module does not say this.
+- It always ends in a lose-lose compromise :: The module does not say this.
+
+MS2 | Nurses at a private hospital want a stronger voice in changing national staffing ratios. Which option in Unit 8 best gives them collective advocacy and influence on healthcare policy?
++ Joining professional organizations :: The module says professional organizations provide collective advocacy and a powerful voice to influence healthcare policy.
+- Avoiding the conflict :: Avoiding does nothing to change policy.
+- Self-appraisal :: Self-appraisal is a Unit 9 performance tool.
+- Smoothing :: Smoothing calms tension. It does not influence policy.

@@ -1,0 +1,568 @@
+@unit 14 | Personal and Professional Development | The case of the career climb
+
+# u14-decorum | Professional decorum | Personal and Professional Responsibilities › Nursing as a Professional Decorum
+> Professional decorum = the behavior, attitude, and conduct that align with the standards, ethics, and expectations of a profession. It covers presenting oneself, interacting with others, and fulfilling responsibilities to keep a respectful, ethical, trustworthy environment. 11 ways to practice it: 1 appearance; 2 ethical practice; 3 communication; 4 team collaboration; 5 punctuality and accountability; 6 professional development; 7 workplace conduct; 8 adhering to ethical principles (Code of Ethics for Nurses in the Philippines); 9 demonstrating respect (RA 10173, Data Privacy Act); 10 maintaining competence (standard of nursing); 11 upholding the dignity and integrity of the nursing profession.
+
+I1 | The behavior, attitude, and conduct that align with the standards, ethics, and expectations of a given profession.
+= Professional decorum | decorum
+:: Professional decorum is how a professional presents and conducts herself.
+
+M2 | What is the purpose of professional decorum, according to the module?
++ To maintain a respectful, ethical, and trustworthy environment :: Decorum covers presenting oneself, interacting, and fulfilling responsibilities to maintain this environment.
+- To decide hospital salaries :: Not the purpose.
+- To replace the Code of Ethics :: Adhering to the Code is one way to practice decorum.
+- To allow nurses to skip CPD :: Professional development is part of decorum.
+
+MS2 | A nurse arrives on time, owns up when she makes a mistake, and follows through on her tasks. Which way of practicing professional decorum is this?
++ Punctuality and accountability :: Being on time and owning one's actions is punctuality and accountability.
+- Appearance :: Appearance is about grooming and uniform.
+- Team collaboration :: Collaboration is about working with others.
+- Professional development :: That is about learning and growth.
+
+MS2 | A nurse protects patient data and avoids discussing patient details on social media. Which way of practicing decorum (with its law) does this show?
++ Demonstrating respect (RA 10173, Data Privacy Act) :: The module links demonstrating respect to RA 10173.
+- Maintaining competence (Standard of Nursing) :: That is about skills and standards.
+- Appearance :: Not related.
+- Punctuality and accountability :: Not related.
+
+I2 | Way of practicing decorum that refers to adhering to ethical principles. Name the document it is linked to.
+= Code of Ethics for Nurses in the Philippines | Code of Ethics | Code of Ethics for Nurses
+:: Item 8: adhering to ethical principles (Code of Ethics for Nurses in the Philippines).
+
+I2 | Way of practicing decorum linked to the "Standard of Nursing".
+= Maintaining competence | competence
+:: Item 10: maintaining competence (Standard of Nursing).
+
+MS1 | A nurse wears a clean, complete uniform with her ID and keeps her hair neat on duty. Which way of practicing decorum is this?
++ Appearance :: Proper grooming and uniform fall under appearance.
+- Workplace conduct :: Conduct is about behavior at work.
+- Communication :: Not related.
+- Ethical practice :: Not related.
+
+M2 | How many ways of practicing professional decorum does the module list?
++ 11 :: The module lists 11 ways.
+- 5 :: The module lists 11.
+- 9 :: Nine is the number of nursing associations and resume components.
+- 12 :: Twelve is the number of legal pointers in Unit 12.
+
+# u14-career | Career development and Benner's levels | Personal and Professional Responsibilities › Career Development / Benner's Level of Nursing Experience
+> Career development = a purposeful, deliberate process involving active planning by BOTH individuals and employers; it lets individuals control their career paths through exploration, opportunities, and adaptability. Benner's levels: Novice = relies on rules and abstract principles. Advanced beginner = starts applying past experiences. Competent = gains efficiency and organization. Proficient = sees the situation as a whole. Expert = operates with deep understanding and intuition.
+~ "Nurses Always Climb Past Expectations": Novice, Advanced beginner, Competent, Proficient, Expert
+
+I1 | A purposeful and deliberate process involving active planning by both individuals and employers.
+= Career development
+:: Career development is planned by both the nurse and the employer.
+
+I2 | Theorist who described five levels of nursing experience from novice to expert.
+= Benner | Patricia Benner
+:: Benner's levels: novice, advanced beginner, competent, proficient, expert.
+
+I1 | Benner's level that relies on rules and abstract principles.
+= Novice
+:: The novice follows rules because she has no experience yet.
+
+I2 | Benner's level that starts applying past experiences.
+= Advanced beginner | advanced beginners
+:: The advanced beginner starts to use experience.
+
+I2 | Benner's level that gains efficiency and organization.
+= Competent
+:: The competent nurse is organized and efficient.
+
+I2 | Benner's level that sees the situation as a whole.
+= Proficient
+:: The proficient nurse sees the whole picture.
+
+I2 | Benner's level that operates with deep understanding and intuition.
+= Expert
+:: The expert works by deep understanding and intuition.
+
+MS2 | A newly hired nurse follows the procedure manual step by step and cannot yet adapt when something unusual happens. Which Benner level is she?
++ Novice :: Relying on rules and abstract principles describes a novice.
+- Advanced beginner :: An advanced beginner starts applying past experience.
+- Competent :: A competent nurse is efficient and organized.
+- Expert :: An expert works by intuition.
+
+MS2 | After a few months, a nurse remembers a past patient with similar symptoms and uses that to guide her care. Which Benner level fits?
++ Advanced beginner :: Starting to apply past experiences is the advanced beginner.
+- Novice :: A novice relies on rules only.
+- Proficient :: A proficient nurse sees the whole situation.
+- Expert :: An expert works by intuition.
+
+MS2 | A nurse now plans her shift well, prioritizes efficiently, and finishes tasks in an organized way. Which Benner level?
++ Competent :: Gaining efficiency and organization describes the competent nurse.
+- Novice :: A novice relies on rules.
+- Proficient :: Proficient sees the situation as a whole.
+- Advanced beginner :: An advanced beginner applies past experiences.
+
+MS3 | A nurse looks at a post-op patient and says, "Something's off," and calls the rapid response team before the vital signs change. Her intuition is right. Which Benner level?
++ Expert :: Deep understanding and intuition describe the expert.
+- Proficient :: Proficient sees the whole situation. Intuition is the expert's mark.
+- Competent :: Competent is about efficiency and organization.
+- Novice :: A novice relies on rules.
+
+MS2 | A nurse understands how her patient's labs, meds, family situation, and discharge plan fit together as one whole picture. Which Benner level?
++ Proficient :: Seeing the situation as a whole describes the proficient nurse.
+- Competent :: Competent is efficient and organized.
+- Advanced beginner :: Advanced beginner applies past experiences.
+- Novice :: Novice relies on rules.
+
+M2 | Which is the correct order of Benner's levels?
++ Novice, advanced beginner, competent, proficient, expert :: This is the correct order.
+- Novice, competent, advanced beginner, proficient, expert :: Advanced beginner comes before competent.
+- Advanced beginner, novice, competent, expert, proficient :: Novice is first and expert is last.
+- Novice, proficient, competent, advanced beginner, expert :: Proficient comes after competent.
+
+M2 | According to the module, who does active planning in career development?
++ Both individuals and employers :: The module says career development involves active planning by both.
+- Only the employer :: Both plan.
+- Only the PRC :: Not stated.
+- Only the nurse's family :: Not stated.
+
+# u14-stages | Career stages in nursing | Personal and Professional Responsibilities › Career Stages in Nursing
+> Promise phase (first 10 years): early career, limited experience; focus = building skills, gaining knowledge, positioning for the future. Momentum phase (11 to 29 years): mid-career, expertise and accomplishments; focus = mastery, professional growth, avoiding stagnation. Harvest phase (30+ years): late career, prime or legacy experience; focus = reinventing value, advancing the profession, leaving a legacy. Reentry phase (optional): returning to nursing after a break; needs adaptation and retraining.
+~ Promise, Momentum, Harvest (and optional Reentry): plant, grow, harvest
+
+I2 | Career stage covering the first 10 years, focused on building skills, gaining knowledge, and positioning for the future.
+= Promise phase | promise
+:: The promise phase is early career.
+
+I2 | Career stage covering 11 to 29 years, focused on mastery, professional growth, and avoiding stagnation.
+= Momentum phase | momentum
+:: The momentum phase is mid-career.
+
+I2 | Career stage of 30+ years, focused on reinventing value, advancing the profession, and leaving a legacy.
+= Harvest phase | harvest
+:: The harvest phase is late career.
+
+I2 | Optional career stage of returning to nursing after a break, needing adaptation and retraining.
+= Reentry phase | reentry | re-entry
+:: Reentry is optional and needs retraining.
+
+MS2 | A nurse with 18 years of experience is a respected clinical expert. She works hard to keep learning so she does not stagnate. Which career stage is she in?
++ Momentum phase :: 11 to 29 years, with a focus on mastery and avoiding stagnation.
+- Promise phase :: Promise is the first 10 years.
+- Harvest phase :: Harvest is 30+ years.
+- Reentry phase :: She did not leave nursing.
+
+MS2 | A nurse with 32 years of service mentors young nurses and writes a book to leave a legacy for the profession. Which stage?
++ Harvest phase :: 30+ years, focused on advancing the profession and leaving a legacy.
+- Momentum phase :: Momentum is 11 to 29 years.
+- Promise phase :: Promise is the first 10 years.
+- Reentry phase :: She has not returned from a break.
+
+MS2 | A nurse left practice for 8 years to raise her children. She now takes a refresher course before going back to hospital work. Which stage?
++ Reentry phase :: Returning after a break with adaptation and retraining is reentry.
+- Promise phase :: Promise is the first 10 years of a continuous career.
+- Harvest phase :: Harvest is 30+ years.
+- Momentum phase :: Momentum is mid-career.
+
+MS1 | A 2-year staff nurse attends trainings to build her skills and position herself for future roles. Which stage?
++ Promise phase :: The first 10 years focus on building skills and positioning for the future.
+- Momentum phase :: Momentum starts at 11 years.
+- Harvest phase :: Harvest is 30+ years.
+- Reentry phase :: She has not left practice.
+
+I2 | Range of years of the momentum phase.
+= 11 to 29 years | 11-29 | 11 to 29 | 11-29 years
+:: Momentum: 11 to 29 years.
+
+# u14-jobsearch | Job search and job leads | Personal and Professional Responsibilities › Job Search / Job Leads
+> Job search = a systematic approach to finding the right job; increases success and aligns career goals with available opportunities; a critical part of career development. Platforms: hospital and healthcare institution websites (Philippine General Hospital, St. Luke's Medical Center, regional and provincial hospitals); nursing association websites (Philippine Nurses Association and specialty groups like the Oncology Nursing Association of the Philippines and Emergency Nurses Association of the Philippines) for job listings, networking events, and career resources; job boards (Jobstreet, Indeed, LinkedIn); recruitment agencies (local and international roles); networking (word-of-mouth referrals through colleagues, mentors, professional organizations uncover hidden opportunities).
+
+I1 | A systematic approach to finding the right job that aligns career goals with available opportunities.
+= Job search | job searching
+:: A job search is planned and systematic.
+
+I2 | Job lead that uses word-of-mouth referrals from colleagues, mentors, and professional organizations to find hidden job opportunities.
+= Networking
+:: Networking uncovers jobs that are not posted.
+
+MS2 | A new RN searches Jobstreet, Indeed, and LinkedIn for staff nurse openings. Which job lead is she using?
++ Job boards :: Jobstreet, Indeed, and LinkedIn are the module's job board examples.
+- Recruitment agencies :: Agencies are companies that match nurses with roles.
+- Networking :: Networking is word-of-mouth referral.
+- Nursing association websites :: These are sites like the PNA's.
+
+MS2 | A nurse learns of an unposted ICU opening because her former clinical instructor recommends her to the chief nurse. Which job lead is this?
++ Networking :: Word-of-mouth referrals through mentors uncover hidden opportunities.
+- Job boards :: The opening was not posted.
+- Hospital websites :: The opening was not posted.
+- Recruitment agencies :: No agency was involved.
+
+MS2 | A nurse who wants to work abroad registers with a company that specializes in healthcare placement in the Philippines and overseas. Which job lead is this?
++ Recruitment agencies :: Healthcare recruitment agencies connect nurses to local and international roles.
+- Job boards :: Job boards are websites where she searches herself.
+- Networking :: Networking is personal referral.
+- Nursing association websites :: These are association sites.
+
+M2 | Which job lead is given in the module with examples like the Philippine General Hospital and St. Luke's Medical Center?
++ Hospital and healthcare institution websites :: The module names PGH and St. Luke's for this lead.
+- Job boards :: The examples there are Jobstreet, Indeed, and LinkedIn.
+- Recruitment agencies :: No named examples.
+- Nursing association websites :: The example there is the PNA.
+
+I2 | Give one nursing association website the module names as a job lead.
+= Philippine Nurses Association | PNA
+:: The module names the PNA and specialty nursing groups.
+
+# u14-portfolio | Professional portfolio | Personal and Professional Responsibilities › Developing a Professional Portfolio
+> A professional portfolio documents a nurse's career journey, competencies, and accomplishments; a comprehensive record of professional development showing qualifications and commitment to continuous learning; keeping it updated helps with career advancement, new jobs, and performance evaluations. Components: resume (concise career summary); education credentials (diploma, transcript of records); licensure credentials (PRC ID, Certificate of Registration, board rating); employment history (work experience, COE = Certificate of Employment); certifications achieved (seminars, BLS, ACLS); government-mandated credentials (GSIS, SSS, PhilHealth, PAG-IBIG, BIR TIN).
+
+I1 | An essential tool for nurses to document their career journey, competencies, and accomplishments.
+= Professional portfolio | portfolio
+:: A portfolio is a full record of professional development.
+
+I2 | Portfolio component that includes the PRC ID, Certificate of Registration, and board rating.
+= Licensure credentials | licensure
+:: Licensure credentials show the nurse is licensed.
+
+I2 | Portfolio component that includes GSIS, SSS, PhilHealth, PAG-IBIG, and BIR TIN.
+= Government-mandated credentials | government mandated credentials | government credentials
+:: These are required government numbers and memberships.
+
+I2 | Document showing employment history (abbreviation COE).
+= Certificate of Employment | COE
+:: COE = Certificate of Employment.
+
+MS2 | A nurse puts her BLS and ACLS cards and seminar certificates in her portfolio. Which component is this?
++ Certifications achieved :: Seminars, BLS, and ACLS are certifications.
+- Licensure credentials :: Those are PRC ID, Certificate of Registration, and board rating.
+- Education credentials :: Those are diploma and transcript.
+- Government-mandated credentials :: Those are GSIS, SSS, PhilHealth, PAG-IBIG, BIR TIN.
+
+MS2 | Under "education credentials," what should the nurse include?
++ Diploma and Transcript of Records :: The module lists these as education credentials.
+- PRC ID and board rating :: These are licensure credentials.
+- SSS and PAG-IBIG numbers :: These are government-mandated credentials.
+- COE :: That is employment history.
+
+M2 | Why should a nurse keep her portfolio up to date, according to the module?
++ To have the documents needed for career advancement, new jobs, or performance evaluations :: The module gives these reasons.
+- To avoid paying taxes :: Not a reason.
+- To replace her PRC license :: A portfolio contains the license. It does not replace it.
+- To avoid CPD :: Portfolios show commitment to learning.
+
+# u14-resume | CV vs resume and resume writing | Personal and Professional Responsibilities › Resume Format
+> CV = a detailed document of one's entire career, education, achievements, and experiences. Resume = a concise document summarizing skills, work experience, and qualifications TAILORED to a specific job. A resume should be professional (neat, organized, error-free), quickly capture attention (concise, highlights the most relevant), and tailored to the role. 9 key components: contact information (full name, phone, professional email, LinkedIn); objective or summary statement; education; work experience (bullet points); skills and competencies (including software like EHR); certifications and licensure (ACLS, PALS, specialty); awards and recognitions; professional development (workshops, conferences, CE); references (optional; or "References available upon request"). Guidelines: length 1 to 2 pages; clarity (direct, no jargon, bullets). Formatting: professional readable font (Arial, Times New Roman) 12-point or larger; single font style, clean layout; high-quality white or off-white paper; black with a single accent color. Exclude: marital status, age, children, ethnicity, religious affiliation; exaggerated claims. Proofread grammar and punctuation. References: only people who know you well (ideally 3+ years); inform them in advance; make sure they agree to be contacted.
+
+I1 | Detailed document outlining one's entire career, education, achievements, and experiences (abbreviation).
+= CV | curriculum vitae
+:: A CV is detailed and covers the entire career.
+
+I1 | Concise document summarizing skills, work experience, and qualifications tailored to a specific job.
+= Resume | résumé
+:: A resume is short and tailored.
+
+MS2 | A nurse applying for a faculty position at a university is asked to submit a detailed record of her entire education, research, and career achievements. Which document fits?
++ Curriculum vitae (CV) :: A CV is a detailed record of one's entire career.
+- Resume :: A resume is a concise summary tailored to a job.
+- Certificate of Employment :: That only proves past employment.
+- Advance directive :: That is a medical document.
+
+M2 | What is the recommended length of a resume according to the module?
++ 1 to 2 pages :: The module says limit your resume to 1 to 2 pages.
+- 5 to 10 pages :: Too long. Recruiters spend only seconds on a resume.
+- Exactly half a page :: Not stated.
+- No limit :: The module sets 1 to 2 pages.
+
+I2 | Minimum font size recommended for a resume (points).
+= 12 | 12-point | 12 point | twelve
+:: Use a professional font in 12-point size or larger.
+
+M2 | Which information should be EXCLUDED from a resume, according to the module?
++ Marital status, age, children, ethnicity, religious affiliation :: The module says not to include these personal details.
+- Professional email address :: This is part of contact information.
+- ACLS and PALS certifications :: These belong in certifications and licensure.
+- Workshops and conferences attended :: These belong in professional development.
+
+MS2 | A nurse's resume says, "Single, 24 years old, Catholic, no children." What should she do?
++ Remove these personal details :: Marital status, age, children, and religion should be excluded.
+- Move them to the top so recruiters see them :: They should be excluded.
+- Add her ethnicity too :: Ethnicity should also be excluded.
+- Add a photo of her family :: Not advised.
+
+MS2 | A nurse writes on her resume that she "single-handedly ran the entire ICU" when she was a staff nurse there for 3 months. What rule does this break?
++ Avoid exaggerated claims :: The module says focus on accurate and honest representation.
+- Use a 12-point font :: Not related.
+- Use white or off-white paper :: Not related.
+- Keep to 1 to 2 pages :: Not related.
+
+M2 | What does the module say about the design of a printed resume?
++ Use high-quality white or off-white paper; black with a single accent color is ideal :: The module recommends this minimal design.
+- Use bright neon paper to stand out :: The module recommends white or off-white.
+- Use many different fonts :: Use a single font style.
+- Add decorative borders and clip art :: Keep it simple and clean.
+
+I2 | Optional resume statement used instead of listing references.
+= References available upon request | available upon request
+:: You can write "References available upon request."
+
+MS2 | Who should a nurse list as a reference according to the module?
++ Someone who knows her well, ideally for at least 3 years, who has agreed to be contacted :: The module says list people who know you well (ideally 3+ years), inform them, and get permission.
+- A famous doctor she met once at a seminar :: They do not know her well.
+- Anyone, without asking them first :: References should be informed and give permission.
+- Only family members :: The module refers to professional references.
+
+I2 | Ideal minimum number of years a reference should have known you.
+= 3 | three | 3 years | three years
+:: Ideally at least 3 years.
+
+M2 | Which is one of the 9 key components of a resume in the module?
++ Objective or summary statement :: It is component 2.
+- Marital status :: This should be excluded.
+- Religious affiliation :: This should be excluded.
+- Board exam review center ranking :: Not listed.
+
+MS2 | A nurse applying to an oncology unit rewrites her resume to highlight her chemo-handling experience and oncology seminars. Which resume quality is she applying?
++ Tailored to the role :: Customizing the resume to the job's requirements is tailoring.
+- Exaggerated claims :: She is highlighting real experience.
+- Using a CV instead :: She is still using a resume.
+- Listing references :: Not related.
+
+I2 | In the "skills and competencies" part of the resume, give one example of technology the module says to mention.
+= EHR systems | EHR | electronic health records | electronic health record
+:: The module mentions software or technology like EHR systems.
+
+# u14-fields | Fields of specialization in nursing | Personal and Professional Responsibilities › Fields of Specialization in Nursing
+> APRNs (Advanced Practice Registered Nurses) give primary and specialized care in collaboration: NPs (nurse practitioners: diagnose, treat, prescribe, do procedures; specialize in pediatrics, geriatrics, oncology), CNSs (clinical nurse specialists: experts in an area like oncology, pediatrics, critical care; improve care, educate staff, apply evidence-based practice), CRNAs (nurse anesthetists: anesthesia for surgery), CNMs (nurse midwives: prenatal, labor, postpartum care, deliveries, family planning). Nurse educators: nursing faculty (teach undergraduate or graduate) and clinical educators (teach staff best practices in healthcare settings). Nurse administrators: nurse managers (day-to-day unit operations, staffing, compliance) and nurse executives such as CNOs (hospital- or system-wide policies). Clinical research nurses (conduct research studies with pharma, universities, institutions). Nurse scientists (advance knowledge through research). Forensic nursing (care for crime victims, collect evidence, work with law enforcement). Public health nursing (community health promotion, disease prevention, public health crises). Palliative care nursing (comfort and support for serious, life-limiting illness). Telehealth nursing (BPO: answer health inquiries, triage, basic advice, schedule appointments). Health insurance and case management (help patients with benefits and claims). Medical coding (ICD-10 = International Classification of Diseases; CPT = Current Procedural Terminology; accurate claims for reimbursement). Medical transcription (transcribe audio records; needs medical terminology and accuracy). Livescribe nursing (emerging BPO role: document patient encounters, histories, and treatment plans during live consultations).
+
+I2 | Abbreviation for Advanced Practice Registered Nurses.
+= APRN | APRNs
+:: APRNs include NPs, CNSs, CRNAs, and CNMs.
+
+I2 | APRN who diagnoses and treats illnesses, prescribes medications, and conducts procedures (abbreviation).
+= NP | nurse practitioner | nurse practitioners
+:: NP = nurse practitioner.
+
+I2 | APRN who provides anesthesia for patients undergoing surgery (abbreviation).
+= CRNA | nurse anesthetist | certified registered nurse anesthetist
+:: CRNA = nurse anesthetist.
+
+I2 | APRN who provides prenatal, labor, and postpartum care, including deliveries and family planning (abbreviation).
+= CNM | nurse midwife | certified nurse midwife
+:: CNM = nurse midwife.
+
+I2 | APRN who is an expert in a specific area, improving care, educating staff, and implementing evidence-based practice (abbreviation).
+= CNS | clinical nurse specialist
+:: CNS = clinical nurse specialist.
+
+I2 | Top-level nurse executive who makes hospital- or system-wide decisions (abbreviation).
+= CNO | chief nursing officer
+:: CNO = Chief Nursing Officer.
+
+I2 | Field where nurses care for victims of crime, collect evidence, and work with law enforcement.
+= Forensic nursing | forensic
+:: Forensic nursing links nursing and the law.
+
+I2 | Emerging BPO role where nurses document patient encounters, histories, and treatment plans during live consultations.
+= Livescribe nursing | livescribe
+:: Livescribe nurses document during live consultations.
+
+I2 | Coding system for diagnoses used in medical coding (abbreviation for International Classification of Diseases, 10th revision).
+= ICD-10 | ICD 10 | ICD10 | ICD
+:: ICD-10 = International Classification of Diseases.
+
+I3 | Coding system for procedures used in medical coding (abbreviation for Current Procedural Terminology).
+= CPT | current procedural terminology
+:: CPT = Current Procedural Terminology.
+
+MS2 | A nurse in a BPO company answers health calls, triages symptoms, gives basic advice, and schedules patients with providers. Which field is this?
++ Telehealth nursing :: These BPO tasks match telehealth nursing.
+- Medical transcription :: Transcription converts audio into written records.
+- Livescribe nursing :: Livescribe documents during live consultations.
+- Medical coding :: Coding assigns ICD-10 and CPT codes.
+
+MS2 | A nurse works for an HMO helping members understand their benefits and process their claims. Which field is this?
++ Health insurance and case management :: Helping patients navigate benefits and claims is this field.
+- Forensic nursing :: That is about crime victims.
+- Palliative care nursing :: That is about comfort in serious illness.
+- Clinical research nursing :: That is about research studies.
+
+MS2 | A nurse converts doctors' dictated audio recordings into written medical records with high accuracy. Which field is this?
++ Medical transcription :: Transcribing audio into records is medical transcription.
+- Medical coding :: Coding assigns codes for claims.
+- Livescribe nursing :: Livescribe documents during live consultations, not from recordings.
+- Telehealth nursing :: That handles patient calls.
+
+MS2 | A nurse with ICD-10 and CPT expertise reviews charts so claims are processed accurately for reimbursement. Which field is this?
++ Medical coding :: ICD-10 and CPT codes for accurate claims define medical coding.
+- Medical transcription :: That converts audio to text.
+- Case management :: That helps patients with benefits.
+- Nurse scientist :: That advances knowledge through research.
+
+MS2 | A nurse in a hospice provides comfort and support to patients with life-limiting illnesses. Which field is this?
++ Palliative care nursing :: Comfort and support in serious, life-limiting illness is palliative care.
+- Forensic nursing :: That is about crime victims.
+- Public health nursing :: That is community health.
+- Telehealth nursing :: That is remote BPO care.
+
+MS2 | A nurse works in the barangay on immunization drives, disease prevention, and outbreak response. Which field is this?
++ Public health nursing :: Community health promotion, disease prevention, and crisis response are public health nursing.
+- Palliative care nursing :: That is comfort care.
+- Clinical research nursing :: That is research.
+- Forensic nursing :: That is about crime victims.
+
+MS3 | A pediatric oncology nurse expert improves patient care standards on her unit, teaches the staff, and puts evidence-based practice into protocols. She does not mainly prescribe or diagnose. Which APRN role fits best?
++ Clinical nurse specialist (CNS) :: CNSs are experts who improve care, educate staff, and implement evidence-based practice.
+- Nurse practitioner (NP) :: NPs diagnose, treat, and prescribe.
+- Nurse anesthetist (CRNA) :: CRNAs provide anesthesia.
+- Nurse midwife (CNM) :: CNMs provide maternity care.
+
+MS2 | A nurse leads a ward: she plans staffing, oversees daily patient care, and ensures compliance with policies. Which role is this?
++ Nurse manager :: Day-to-day unit operations, staffing, and compliance describe the nurse manager.
+- Nurse executive (CNO) :: CNOs decide hospital- or system-wide policies.
+- Clinical educator :: Clinical educators teach staff.
+- Nursing faculty :: Faculty teach students.
+
+MS2 | A nurse in a hospital teaches staff nurses about a new wound-care technique and best practices. Which role is this?
++ Clinical educator :: Clinical educators teach healthcare staff in clinical settings.
+- Nursing faculty :: Faculty teach undergraduate or graduate students.
+- Nurse manager :: Managers run unit operations.
+- Nurse scientist :: Scientists do research.
+
+M2 | What is the difference between a clinical research nurse and a nurse scientist, according to the module?
++ Clinical research nurses conduct research studies (often with pharma, universities, institutions); nurse scientists advance knowledge through research in nursing and healthcare science :: The module describes them this way.
+- They are the same role :: The module lists them separately.
+- Nurse scientists only transcribe records :: That is medical transcription.
+- Clinical research nurses only give anesthesia :: That is the CRNA.
+
+# u14-assoc | Nursing associations | Personal and Professional Responsibilities › Nursing Associations
+> 1 PNA (Philippine Nurses Association): national, premier and largest organization of RNs; welfare of nurses and advancement of practice. 2 ANSAP (Association of Nursing Service Administrators of the Philippines): nurse leaders and administrators; improves nursing management and administration. 3 ADPCN, Inc. (Association of Deans of Philippine Colleges of Nursing): deans of nursing colleges; improves nursing education and curriculum standards. 4 Association of Private Duty Nurse Practitioners Philippines, Inc.: private-duty nurses giving one-on-one care, usually at home or private settings. 5 PONA (Philippine Oncology Nurses Association, Inc.): oncology nursing; holistic care of cancer patients. 6 ORNAP (periOperative Registered Nurses Association of the Philippines): premier organization for OR nurses; perioperative practice. 7 CCNAPI (Critical Care Nurses Association of the Philippines, Inc.): critical care nurses; intensive care excellence through education, collaboration, research. 8 ANG NARS, Inc.: non-stock, non-profit, SEC No. CN 200900208, founded 2009; promotes the socio-economic-political-professional RIGHTS of nurses, with the responsibility to give safe quality care to Filipinos. 9 GSPNRI (Global Society for Philippine Nurse Researchers, Inc.), formerly PNRSI (Philippine Nursing Research Society, Inc.): promotes nursing research.
+
+I1 | The national, premier, and largest organization of registered nurses in the Philippines (abbreviation).
+= PNA | Philippine Nurses Association
+:: The PNA is the largest national nursing organization.
+
+I2 | Association for nurse leaders and administrators in healthcare settings (abbreviation).
+= ANSAP | Association of Nursing Service Administrators of the Philippines
+:: ANSAP focuses on nursing management and administration.
+
+I2 | Association of deans of nursing colleges that works to improve nursing education and curriculum (abbreviation).
+= ADPCN | ADPCN Inc | Association of Deans of Philippine Colleges of Nursing
+:: ADPCN is for nursing education leaders.
+
+I2 | Premier organization for operating room nurses in the Philippines (abbreviation).
+= ORNAP | periOperative Registered Nurses Association of the Philippines
+:: ORNAP is for perioperative (OR) nurses.
+
+I2 | National organization for critical care nurses (abbreviation).
+= CCNAPI | Critical Care Nurses Association of the Philippines
+:: CCNAPI is for ICU nurses.
+
+I2 | Specialized professional organization for oncology nursing focusing on holistic care of cancer patients (abbreviation).
+= PONA | Philippine Oncology Nurses Association
+:: PONA is for oncology nurses.
+
+I2 | Organization founded in 2009 to promote the socio-economic-political-professional rights of nurses.
+= ANG NARS | ANG NARS Inc | Ang Nars
+:: ANG NARS was founded in 2009 for nurses' rights.
+
+I2 | Nursing research group formerly called the Philippine Nursing Research Society, Inc. (PNRSI). Give its current abbreviation.
+= GSPNRI | Global Society for Philippine Nurse Researchers
+:: GSPNRI was formerly PNRSI.
+
+I3 | Year ANG NARS, Inc. was founded.
+= 2009
+:: ANG NARS was founded in 2009 (SEC No. CN 200900208).
+
+MS2 | A nurse who provides one-on-one care to a patient at home wants to join an association for her type of practice. Which one?
++ Association of Private Duty Nurse Practitioners Philippines, Inc. :: It is dedicated to private-duty nurses who give one-on-one care at home or in private settings.
+- ORNAP :: ORNAP is for OR nurses.
+- ANSAP :: ANSAP is for nursing administrators.
+- ADPCN :: ADPCN is for deans.
+
+MS2 | A chief nurse wants to join an organization that improves nursing management and administration in hospitals. Which one?
++ ANSAP :: ANSAP is for nurse leaders and administrators.
+- ADPCN :: ADPCN is for deans of nursing colleges.
+- PONA :: PONA is for oncology nurses.
+- CCNAPI :: CCNAPI is for critical care nurses.
+
+MS2 | A dean of a College of Nursing in Bulacan joins a group of nursing education leaders to improve curriculum standards. Which association?
++ ADPCN, Inc. :: The Association of Deans of Philippine Colleges of Nursing is for deans.
+- ANSAP :: ANSAP is for nursing service administrators in healthcare settings.
+- PNA :: The PNA is for all RNs, not specifically deans.
+- GSPNRI :: GSPNRI is for nursing research.
+
+MS2 | A scrub nurse wants to join the organization that advances perioperative nursing practice. Which one?
++ ORNAP :: ORNAP is the premier organization for OR nurses.
+- CCNAPI :: CCNAPI is for critical care nurses.
+- PONA :: PONA is for oncology nurses.
+- ANG NARS :: ANG NARS promotes nurses' socio-economic-political rights.
+
+MS2 | An ICU nurse wants to join a national group that promotes excellence in intensive care nursing through education, collaboration, and research. Which one?
++ CCNAPI :: CCNAPI is the national organization for critical care nurses.
+- ORNAP :: ORNAP is for OR nurses.
+- PONA :: PONA is for oncology nurses.
+- ANSAP :: ANSAP is for administrators.
+
+MS2 | A chemotherapy nurse wants to join a group dedicated to oncology nursing. Which one?
++ PONA :: The Philippine Oncology Nurses Association is for oncology nursing.
+- CCNAPI :: CCNAPI is for critical care.
+- ORNAP :: ORNAP is for OR nurses.
+- GSPNRI :: GSPNRI is for research.
+
+MS2 | A nurse wants to join a group that fights for nurses' socio-economic-political-professional rights. Which organization?
++ ANG NARS, Inc. :: ANG NARS was founded in 2009 to promote these rights.
+- PONA :: PONA is for oncology nursing.
+- ADPCN :: ADPCN is for deans.
+- ORNAP :: ORNAP is for OR nurses.
+
+MS2 | A nurse researcher wants to join a specialty group dedicated to promoting nursing research. Which one?
++ GSPNRI :: The Global Society for Philippine Nurse Researchers (formerly PNRSI) promotes nursing research.
+- PNA :: The PNA advocates for all RNs' welfare and practice.
+- ANSAP :: ANSAP is for administrators.
+- CCNAPI :: CCNAPI is for critical care.
+
+M2 | What was the former name of GSPNRI?
++ Philippine Nursing Research Society, Inc. (PNRSI) :: The module says GSPNRI was formerly PNRSI.
+- Philippine Nurses Association :: The PNA still exists as its own organization.
+- ANG NARS :: ANG NARS is a different organization.
+- ANSAP :: ANSAP is a different organization.
+
+# u14-trends | Issues and trends in nursing | Personal and Professional Responsibilities › Issues and Trends in Nursing
+> The module's table lists: shortage of nurses; advocacy for safe staffing levels; integration of technology in nursing; rise of telehealth and remote nursing; expanding roles in primary healthcare; continuing professional development (CPD) compliance; globalization and nurse migration. (The table lists "advocacy for safe staffing levels" twice, so there are 7 unique items.)
+
+I2 | Trend in the issues table where nurses must complete required continuing education to keep their license (give the abbreviation).
+= CPD | continuing professional development | CPD compliance
+:: CPD compliance is one of the issues and trends.
+
+I2 | Issue in nursing where many Filipino nurses leave to work abroad.
+= Globalization and nurse migration | nurse migration | migration | globalization
+:: Globalization and nurse migration is one of the listed trends.
+
+MS2 | Nurses' groups push for a law that limits each nurse to a safe number of patients per shift. Which trend is this?
++ Advocacy for safe staffing levels :: This is listed in the issues and trends table.
+- Integration of technology :: That is about tools like EHRs.
+- Rise of telehealth :: That is about remote care.
+- Expanding roles in primary healthcare :: That is about community-level care roles.
+! Source note: the issues table lists "Advocacy for Safe Staffing Levels" twice. It is counted once here.
+
+MS2 | A hospital replaces paper charts with electronic health records and bedside barcode scanning. Which trend is this?
++ Integration of technology in nursing :: Bringing new technology into nursing practice is this trend.
+- Shortage of nurses :: Not related.
+- CPD compliance :: Not related.
+- Globalization and nurse migration :: Not related.
+
+MS2 | Nurses now monitor patients with heart failure from home through video calls and wearable devices. Which trend is this?
++ Rise of telehealth and remote nursing :: Remote patient care is telehealth.
+- Integration of technology :: Technology is involved, but remote care is specifically the telehealth trend.
+- Expanding roles in primary healthcare :: That refers to community-level care roles.
+- Advocacy for safe staffing :: Not related.
+! Source note: the table says "Remove Nursing". It most likely means "Remote Nursing". Please verify.
+
+MS2 | Many hospitals in the province cannot fill their nursing positions, and existing staff have heavy workloads. Which issue is this?
++ Shortage of nurses :: Unfilled nursing positions point to a nurse shortage.
+- CPD compliance :: That is about continuing education.
+- Integration of technology :: Not related.
+- Rise of telehealth :: Not related.
+
+M2 | Which is NOT among the issues and trends in the module's table?
++ Decrease in the number of nursing schools :: Not listed.
+- Expanding roles in primary healthcare :: Listed.
+- Continuing professional development compliance :: Listed.
+- Shortage of nurses :: Listed.
+
+I2 | Trend where nurses take on more community and first-contact care roles.
+= Expanding roles in primary healthcare | primary healthcare | expanding roles
+:: Expanding roles in primary healthcare is one of the listed trends.

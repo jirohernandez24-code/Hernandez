@@ -1,0 +1,914 @@
+@unit 9 | Controlling | The case of the missing standard
+
+# u9-control | Control and the controlling phase | Controlling (definition and controlling phase)
+> Control = assessing the progress of work from time to time so actual progress matches expected progress; if not, deviations are found and corrective action is taken so mistakes are not repeated. Controlling phase: performance is measured against standards; actions correct discrepancies between standards and actual performance; employees who influence outcomes feel more motivated and satisfied; organizations need control over productivity, innovation, and quality; controlling is cyclic and ongoing throughout the management phases.
+
+I1 | Assessing the progress of work from time to time so that actual progress matches expected progress, and taking corrective action when it does not.
+= Control | controlling
+:: Control checks actual vs expected progress, finds deviations, and corrects them so mistakes are not repeated.
+
+I2 | In control, when actual progress does not match expected progress, these are found out and corrective action is taken.
+= Deviations | deviation
+:: Deviations are the gaps between actual and expected progress.
+
+M2 | Which statement about the controlling phase is correct according to the module?
++ It is cyclic and ongoing throughout the management phases :: The module says controlling is cyclic and ongoing, not a one-time final step.
+- It happens only once, at the end of the fiscal year :: Controlling is continuous, not once a year.
+- It is done only after a sentinel event :: Sentinel events trigger investigation, but controlling happens all the time.
+- It replaces planning, organizing, and directing :: Controlling works with the other phases. It does not replace them.
+
+MS2 | A head nurse checks at mid-shift that only 60% of scheduled medications have been given, when 80% was expected. She reassigns a nurse to help. Which management function is she doing?
++ Controlling :: She compared actual with expected progress, found the deviation, and took corrective action.
+- Planning :: Planning sets goals in advance. She is checking progress against them.
+- Supervision of collaborative peers only :: The core action is comparing performance to a standard and correcting it, which is controlling.
+- Smoothing :: Smoothing is a conflict strategy.
+
+M2 | According to the controlling phase, how do employees who influence outcomes feel?
++ More motivated and satisfied :: The module states employees who influence outcomes feel more motivated and satisfied.
+- More resentful :: Resentment is linked to accommodating in Unit 8.
+- Disempowered :: Influencing outcomes is the opposite of disempowerment.
+- Indifferent :: The module says the opposite.
+
+M2 | According to the module, organizations need control over which three areas?
++ Productivity, innovation, and quality :: The controlling phase lists productivity, innovation, and quality.
+- Salaries, holidays, and leaves :: Those are Labor Code topics in Unit 12.
+- Forewarning, consistency, and impartiality :: Those are Hot Stove rules.
+- Meaning, impact, and competence :: Those are empowerment components.
+
+# u9-qc | Quality control (definition and 3 basic steps) | Controlling › Quality Control as a Process
+> Defining and measuring healthcare quality is difficult; it needs both quantitative and qualitative data. Quality control = activities used to evaluate, monitor, or regulate services rendered to consumers or clients. The module first breaks it into 3 basic steps: 1 determine the criterion or standard; 2 collect information to determine if the standard is met; 3 take educational or corrective action if the criterion is unmet. (The module then details the process in 5 steps; see the next topic.)
+
+I1 | Activities used to evaluate, monitor, or regulate services rendered to consumers or clients.
+= Quality control | QC
+:: Quality control evaluates, monitors, or regulates the services clients receive.
+
+M2 | Why is defining and measuring healthcare quality difficult, according to the module?
++ It involves both quantitative and qualitative data collection :: The module says quality needs both numbers and descriptions, which makes it hard to define and measure.
+- It can only be measured by the DOH :: The module does not say this.
+- Healthcare has no standards :: Healthcare has many standards. The challenge is measuring quality.
+- It only uses patient satisfaction surveys :: Surveys are only one source of data.
+
+I2 | In the 3 BASIC steps of quality control, this is step 1.
+= Determine the criterion or standard | determine the criterion | determine the standard | set the standard | criterion
+:: You cannot measure performance without first deciding what the standard is.
+
+M2 | Using the module's 3 BASIC steps of quality control, what is step 3?
++ Take educational or corrective action if the criterion is unmet :: The three basic steps are: determine the standard, collect information, then take educational or corrective action.
+- Analyze information :: In the 3-step version, analysis is not a separate step. It appears as step 4 of the detailed 5-step process.
+- Reevaluation :: Reevaluation is step 5 of the detailed process.
+- Benchmarking :: Benchmarking is part of determining the standard.
+! Source note: the module first lists quality control as 3 basic steps, then details it as a 5-step process. This question uses the 3-step version.
+
+MS2 | A unit wants to check if nurses do safe insulin administration. In order, what are the 3 BASIC quality control steps?
++ Set the standard, collect information on whether it is met, take educational or corrective action :: These are the module's 3 basic steps.
+- Collect information, set the standard, reevaluate :: The standard must come first. You cannot judge data without a standard.
+- Punish, retrain, reevaluate :: Quality control is not punishment first.
+- Benchmark, sue, retrain :: Suing is not a quality control step.
+
+# u9-qcprocess | Quality control process (detailed 5 steps) | Controlling › Quality Control Process
+> 1 Determine the criterion or standard: measurement is impossible without clear standards; employees must understand them; benchmarking compares performance with best practices; the quality gap is the difference between top-performing organizations and the national average. 2 Collect information to determine if the standard is met: identify the information needed for performance measurement (post-op: vital signs, dressing checks, sensory checks). 3 Take educational or corrective action if the criterion is unmet: gather data from charts, flow sheets, nurse's notes; the manager compares performance with standards. 4 Analyze information: compare actual performance (e.g., frequency of post-op vital signs) with standards; find discrepancies and why; computer-aided error analysis (CEA) or root cause analysis (RCA) may be used. 5 Reevaluation: infrequent if standards are consistently met, frequent if not; ongoing QC prevents problems; leaders push for maximal standards and proactive quality control.
+
+I2 | Comparing performance against best practices when determining the standard.
+= Benchmarking | benchmark
+:: Benchmarking compares your performance with the best practices of others.
+
+I2 | The difference between top-performing organizations and the national average.
+= Quality gap | the quality gap
+:: The quality gap shows how far the average is from the best performers.
+
+MS2 | A Bulacan hospital compares its surgical-site infection rate with that of the top-performing hospitals in the country to set its target. What is this practice called?
++ Benchmarking :: Comparing performance against best practices is benchmarking.
+- Quality gap :: The quality gap is the difference itself, not the act of comparing.
+- Root cause analysis :: RCA investigates why an error happened.
+- Concurrent audit :: An audit while the patient receives care is a different activity.
+
+MS3 | Top-performing hospitals have a 1% fall rate. The national average is 4%. What does the 3% difference represent?
++ Quality gap :: The quality gap is the difference between top-performing organizations and the national average.
+- Benchmark :: The benchmark is the best-practice level itself (1%), not the difference.
+- Sentinel event :: A sentinel event is one serious patient safety event.
+- Deviation from Hot Stove rules :: Hot Stove rules are about discipline.
+
+M2 | In the detailed QC process, step 1 says performance measurement is impossible without what?
++ Clear standards that employees understand :: The module says measurement is impossible without clear standards, and employees must understand them.
+- A sentinel event :: You do not need an adverse event to measure performance.
+- A labor union :: Unions are unrelated to step 1.
+- A self-appraisal :: Self-appraisal is a performance evaluation tool.
+
+MS2 | For post-operative care, the QC team lists vital signs, dressing checks, and sensory checks as the data needed. Which detailed QC step is this?
++ Step 2: collect information to determine if the standard is met :: The module's step 2 example is exactly post-op vital signs, dressing checks, and sensory checks.
+- Step 1: determine the criterion :: Step 1 sets the standard itself.
+- Step 4: analyze information :: Analysis compares the data with the standard.
+- Step 5: reevaluation :: Reevaluation repeats the check later.
+
+I2 | Name the detailed QC step where the manager gathers data from patient charts, flow sheets, and nurse's notes and compares performance with standards.
+= Take educational or corrective action | educational or corrective action | corrective action | step 3
+:: In the module's detailed list, step 3 includes gathering data from charts, flow sheets, and nurse's notes and comparing them with standards.
+! Source note: in the detailed 5-step list, step 3 is titled "take educational or corrective action" but its bullets describe gathering data from charts and comparing it with standards. The answer follows the module's layout as written.
+
+I2 | Detailed QC step where actual performance (e.g., frequency of post-op vital sign checks) is compared with the standard and the reasons for discrepancies are found.
+= Analyze information | analyzing information | analysis | step 4
+:: Step 4 compares actual with standard and finds why the standard was not met.
+
+I2 | Error investigation tool named in QC step 4, abbreviated CEA.
+= Computer-aided error analysis | computer aided error analysis | CEA
+:: The module names computer-aided error analysis (CEA) and root cause analysis (RCA) as tools to investigate errors.
+
+MS2 | The QC nurse finds that post-op vital signs were checked only every 4 hours instead of every hour. She uses RCA to find out why. Which QC step is she in?
++ Analyze information :: Comparing actual with standard, identifying the discrepancy, and using RCA or CEA to find why is step 4.
+- Determine the criterion :: The criterion (every hour) was already set.
+- Reevaluation :: Reevaluation comes after the analysis and correction.
+- Collect information :: Data were already collected. She is now analyzing them.
+
+I2 | Final step of the detailed QC process, done infrequently if standards are consistently met and frequently if not.
+= Reevaluation | re-evaluation | reevaluate
+:: Reevaluation frequency depends on performance: met often means check less often.
+
+MS2 | For six months, every audit shows 100% compliance with the hand hygiene standard. What does the module say about reevaluation?
++ Reevaluation can be infrequent because the standard is consistently met :: The module says reevaluation can be infrequent when standards are consistently met.
+- Reevaluation must become more frequent :: Frequent reevaluation is for standards that are NOT met.
+- Reevaluation should stop forever :: QC is ongoing. It becomes less frequent, not stopped.
+- A root cause analysis is required :: RCA is for errors, not for consistent compliance.
+
+M3 | According to QC step 5, what do leaders push for?
++ Maximal standards and proactive quality control :: The module says leaders push for maximal standards and proactive quality control.
+- Minimal standards to make goals easy to reach :: The module says maximal, not minimal.
+- Punishment for every unmet standard :: QC focuses on educational and corrective action.
+- Annual quality checks only :: Ongoing QC prevents problems before they affect productivity or quality.
+
+M2 | Which is the correct order of the detailed 5-step QC process?
++ Determine criterion, collect information, take corrective action, analyze information, reevaluate :: This is the order as written in the module's detailed process.
+- Collect information, determine criterion, analyze, take action, reevaluate :: The criterion must come first.
+- Determine criterion, analyze, collect information, reevaluate, take action :: Data must be collected before analysis.
+- Reevaluate, determine criterion, collect, analyze, take action :: Reevaluation is the last step.
+! Source note: the module's 5-step order places "take educational or corrective action" (3) before "analyze information" (4). This question uses the order exactly as written.
+
+# u9-standards | Development of standards | Controlling › Development of Standards
+> Standard = a predetermined level of excellence that guides practice. Characteristics: predetermined (set before evaluation), established by an authority (a recognized body or institution), communicated to and accepted by those affected. Standards are objective, measurable, and achievable. Each organization and profession defines its own standards for safe and effective care.
+~ Standards are "P-E-C": Predetermined, Established by authority, Communicated and accepted
+
+I1 | A predetermined level of excellence that guides practice.
+= Standard | standards
+:: A standard is set in advance and guides practice.
+
+I2 | Characteristic of a standard meaning it is established before evaluation.
+= Predetermined | pre-determined
+:: Standards must exist before you evaluate anyone.
+
+M2 | Which is NOT one of the three characteristics of a standard?
++ Kept confidential from staff :: A standard must be communicated to and accepted by those affected, so it cannot be kept secret.
+- Predetermined :: This is a characteristic.
+- Established by an authority :: This is a characteristic.
+- Communicated and accepted by those affected :: This is a characteristic.
+
+MS2 | A new policy on fall prevention was written by the head nurse alone and never announced. Staff are now graded on it. Which characteristic of a standard is missing?
++ Communicated and accepted by those affected :: Staff never heard of it, so it was not communicated or accepted.
+- Predetermined :: It was set before grading, so it is predetermined.
+- Measurable :: Being measurable is a quality of standards, but the clear problem here is lack of communication.
+- Achievable :: The case does not say it is impossible to achieve.
+
+M2 | According to the module, standards should be:
++ Objective, measurable, and achievable :: The module states standards are objective, measurable, and achievable.
+- Subjective, flexible, and secret :: Standards must be objective and communicated.
+- Set only by the patient :: Standards are established by an authority.
+- Identical in every organization :: Each organization and profession defines its own standards.
+
+# u9-orgstd | Organizational standards | Controlling › Organizational Standards
+> Organizational standards are developed by organizations to define acceptable practice. Each organization usually has a policy and procedures manual outlining them. They allow objective measurement of both unit and individual performance.
+
+I2 | Document that usually outlines an organization's standards.
+= Policy and procedures manual | policy and procedure manual | policies and procedures manual | P&P manual
+:: Organizations write their standards in a policy and procedures manual.
+
+MS2 | A new nurse asks how her hospital expects an NGT to be inserted and checked. Where should she look for the organizational standard?
++ The hospital's policy and procedures manual :: Organizational standards are usually outlined in the policy and procedures manual.
+- RA 9288 :: RA 9288 is the Newborn Screening Act.
+- Her self-appraisal :: Self-appraisal is a reflection on her own work, not a standard.
+- The Labor Code :: The Labor Code covers employment, not clinical procedures.
+
+M2 | What do organizational standards allow, according to the module?
++ Objective measurement of both unit and individual performance :: The module says organizational standards allow objective measurement of unit and individual performance.
+- Automatic salary increases :: The module does not link standards to raises (weighted checklists are linked to merit raises).
+- Avoiding all audits :: Standards are what audits measure against.
+- Legal immunity from negligence :: Standards do not give immunity.
+! Source note: the module says standards are developed by "regularizations". It most likely means "organizations". Please verify.
+
+# u9-cpg | Clinical practice guidelines | Controlling › Clinical Practice Guidelines (CPGs)
+> CPGs (standardized clinical guidelines) give step-by-step interventions based on diagnosis, to promote high-quality care while controlling resource use and costs. They are developed after an extensive literature review and recommend interventions for the best patient outcomes. Example: guidelines from the Agency for Healthcare Research and Quality (AHRQ).
+
+I2 | Standardized guidelines that give step-by-step interventions based on diagnosis to promote high-quality care while controlling costs. Abbreviated CPGs.
+= Clinical practice guidelines | clinical practice guideline | CPG | CPGs
+:: CPGs are diagnosis-based, step-by-step, and evidence-based.
+
+I3 | Agency given in the module as an example source of clinical practice guidelines (AHRQ).
+= Agency for Healthcare Research and Quality | AHRQ
+:: The module names the Agency for Healthcare Research and Quality (AHRQ).
+
+M2 | How are clinical practice guidelines developed, according to the module?
++ After an extensive literature review :: CPGs are developed after an extensive literature review.
+- From the opinion of the most senior nurse :: CPGs are evidence-based, not based on one person's opinion.
+- By a vote of the labor union :: Unions negotiate work terms, not clinical guidelines.
+- From one patient's complaint :: One complaint is not a literature review.
+
+MS2 | A hospital adopts a step-by-step pneumonia care guide that tells nurses which interventions to do for that diagnosis, aiming for high-quality care while reducing unnecessary costs. What is this?
++ A clinical practice guideline :: Step-by-step, diagnosis-based care that controls resources and costs is a CPG.
+- A structure audit :: A structure audit checks resources and environment.
+- A Hot Stove rule :: Hot Stove rules are for discipline.
+- A job dimension scale :: That is a performance appraisal tool.
+
+# u9-bon | Board of Nursing as standard-setter | Controlling › Development of Standards (Philippines)
+> In the Philippines, the Board of Nursing (BON), under the authority of the PRC, develops and regulates nursing professional standards. It establishes and upholds standards for nursing practice, education, and licensure.
+
+I1 | In the Philippines, the body responsible for developing and regulating nursing professional standards, under the authority of the PRC.
+= Board of Nursing | BON | PRC Board of Nursing
+:: The BON, under the PRC, sets standards for nursing practice, education, and licensure.
+
+M2 | The BON establishes and upholds standards for which three areas?
++ Nursing practice, education, and licensure :: The module lists practice, education, and licensure.
+- Salaries, overtime, and holidays :: Those are Labor Code topics.
+- Hospital buildings, equipment, and parking :: DOH licensing covers facilities.
+- Union registration, strikes, and bargaining :: DOLE oversees labor matters.
+
+MS2 | A nursing graduate wants to know who regulates the standards for the licensure exam she will take. Which body is it?
++ The Board of Nursing under the PRC :: The BON under the PRC establishes standards for licensure.
+- The Joint Commission :: The JC accredits US healthcare organizations.
+- DOLE :: DOLE oversees labor laws.
+- AHRQ :: AHRQ develops clinical guidelines in the US.
+
+# u9-audit | Audit and audit timing | Controlling › Audit
+> Audit = a systematic and official examination of a record, process, structure, environment, or account to evaluate performance. It lets managers apply the control process to determine the quality of services. Timing: retrospective (after the patient receives the service), concurrent (while the patient is receiving the service), prospective (identifies how future performance will be affected by current interventions).
+
+I1 | A systematic and official examination of a record, process, structure, environment, or account to evaluate performance.
+= Audit | auditing
+:: An audit is the formal way managers check quality of services.
+
+I2 | Audit performed AFTER the patient receives the service.
+= Retrospective audit | retrospective
+:: Retro = looking back.
+
+I2 | Audit performed WHILE the patient is receiving the service.
+= Concurrent audit | concurrent
+:: Concurrent = at the same time.
+
+I2 | Audit that tries to identify how future performance will be affected by current interventions.
+= Prospective audit | prospective
+:: Prospective = looking forward.
+
+MS2 | The QA nurse reviews the charts of patients discharged last month to check if discharge teaching was documented. Which audit timing is this?
++ Retrospective :: The patients already received the service, so the audit looks back.
+- Concurrent :: Concurrent audits happen while care is ongoing.
+- Prospective :: Prospective audits predict future performance.
+- Structure :: Structure is a type of audit by focus, not by timing.
+
+MS2 | While patients are still admitted, the QA nurse observes nurses on the ward to see if they check two identifiers before giving meds. Which audit timing is this?
++ Concurrent :: The audit happens while patients are receiving the service.
+- Retrospective :: Retrospective audits are done after discharge or after the service.
+- Prospective :: Prospective audits look at future performance.
+- Outcome :: Outcome is a type of audit by focus.
+
+MS3 | The QA team studies how the new bedside handoff system started this month will affect next year's error rates. Which audit timing is this?
++ Prospective :: It looks at how future performance will be affected by current interventions.
+- Retrospective :: Retrospective audits look back at completed care.
+- Concurrent :: Concurrent audits check care as it happens.
+- Root cause analysis :: RCA investigates errors after they happen.
+
+# u9-audittypes | Outcome, process, and structure audits | Controlling › Types of Audits Used in Healthcare
+> Outcome audit: focus = END RESULTS of patient care; purpose = were the desired outcomes achieved; example = fall rates, nosocomial infection rates; strong indicators of care quality; nursing-sensitive outcomes = fall rates, pressure sores, patient satisfaction. Process audit: focus = HOW care is provided; purpose = adherence to policies, protocols, guidelines; example = following vital-sign protocols during labor, giving newborn care instructions at postpartum visits; task-oriented. Structure audit: focus = ENVIRONMENT and RESOURCES; purpose = right structure and resources are in place; example = nurse-patient staffing ratios, emergency equipment, call light access; does NOT directly evaluate the quality of care.
+~ S-P-O = Setting (structure), Performing (process), Outcome (results)
+
+I2 | Audit that evaluates the end results of patient care.
+= Outcome audit | outcome
+:: Outcome audits look at results, like fall rates and infection rates.
+
+I2 | Audit that examines how nursing care is provided, ensuring adherence to policies, protocols, or guidelines.
+= Process audit | process
+:: Process audits look at how care is done, step by step.
+
+I2 | Audit that evaluates the environment and resources available for delivering care.
+= Structure audit | structural audit | structure
+:: Structure audits check staffing, equipment, and environment.
+
+MS2 | The QA committee counts how many patients developed hospital-acquired infections on Ward 3 last quarter. Which audit type is this?
++ Outcome audit :: Nosocomial infection rates are end results of care. This matches the module's outcome audit example.
+- Process audit :: A process audit would check if nurses followed infection control steps.
+- Structure audit :: A structure audit would check resources such as hand-wash sinks.
+- Prospective audit :: Prospective is about timing, not focus.
+
+MS2 | An auditor watches whether nurses monitor fetal heart tone and maternal vital signs at the required intervals during labor. Which audit type is this?
++ Process audit :: Checking whether protocols were followed during care is a process audit. This is the module's example.
+- Outcome audit :: Outcome audits look at end results, such as complications.
+- Structure audit :: Structure audits check resources, not how care is done.
+- Sentinel event review :: Nothing serious happened. This is a routine check.
+
+MS2 | The auditor checks whether the crash cart is complete, the nurse-patient ratio is 1:8, and all call lights work. Which audit type is this?
++ Structure audit :: Staffing ratios, emergency equipment, and call lights are resources and environment. These are the module's examples.
+- Process audit :: Nobody's care actions are being checked.
+- Outcome audit :: No patient results are measured.
+- Concurrent audit :: Concurrent is timing, not focus.
+
+M3 | Why does the module say a structure audit does not fully tell you the quality of care?
++ It checks if inputs (resources, infrastructure) are adequate but does not directly evaluate the care itself :: Having a full crash cart does not show the care was good. Structure audits check the inputs only.
+- It only looks at end results :: That describes outcome audits.
+- It is task-oriented and checks protocol steps :: That describes process audits.
+- It is only done after a sentinel event :: Structure audits are routine.
+
+M2 | Which audit type is considered a strong indicator of care quality and holds nurses accountable through nursing-sensitive outcomes?
++ Outcome audit :: The module says outcome audits are strong indicators of care quality.
+- Structure audit :: Structure audits do not directly evaluate care quality.
+- Process audit :: Process audits are task-oriented and check adherence to standards.
+- Retrospective audit :: Retrospective is timing, not focus.
+
+I2 | Give one nursing-sensitive outcome measured in outcome audits (module examples).
+= Patient fall rates | falls | fall rates | pressure sores | patient satisfaction | pressure ulcers
+:: The module lists patient fall rates, pressure sores, and patient satisfaction.
+
+M2 | Which audit type does the module describe as "task-oriented"?
++ Process audit :: The module says process audits are task-oriented and check practices against best practice standards.
+- Outcome audit :: Outcome audits measure results.
+- Structure audit :: Structure audits check inputs.
+- Prospective audit :: Prospective audit is about timing.
+
+MS3 | A postpartum audit checks whether nurses gave newborn care instructions during home visits. A second audit counts how many newborns were readmitted for jaundice. What are these two audits?
++ First is a process audit, second is an outcome audit :: Giving instructions is how care is done (process). Readmissions are results (outcome).
+- First is an outcome audit, second is a process audit :: These are reversed.
+- Both are structure audits :: Neither checks resources or environment.
+- First is a structure audit, second is a process audit :: Giving instructions is not a resource.
+
+# u9-problem | Problem employees and special-needs employees | Controlling › Employee Discipline
+> Managing behavior is complex; problem employees exist everywhere. Problem behaviors: Blatant insubordination (refusal to follow instructions, attendance issues, disrespecting others) vs Subtle but serious behaviors (undermining team members, creating a hostile workplace). Employees with special needs: Marginal employees meet only minimal standards and consistently disrupt unit functioning through poor performance. Impaired employees: chemical impairment (drug or alcohol addiction) or psychological impairment (increasingly recognized; depression, anxiety).
+
+I2 | Type of problem behavior that includes refusal to follow instructions, attendance issues, or disrespecting others.
+= Blatant insubordination | insubordination
+:: Blatant means open and obvious.
+
+I2 | Type of problem behavior such as undermining team members or creating a hostile workplace.
+= Subtle but serious behaviors | subtle but serious | subtle behaviors
+:: These are less obvious but still serious.
+
+I2 | Employees who meet only minimal standards and consistently disrupt unit functioning through poor performance.
+= Marginal employees | marginal employee | marginal
+:: Marginal employees do just enough to stay, but their poor performance disrupts the unit.
+
+I2 | Type of impairment resulting from drug or alcohol addiction.
+= Chemical impairment | chemical
+:: Chemical impairment comes from substance use.
+
+I2 | Type of impairment increasingly recognized as significant, covering issues like depression or anxiety.
+= Psychological impairment | psychological
+:: Psychological impairment is increasingly recognized in the workplace.
+
+MS2 | Nurse Gio openly refuses the charge nurse's assignment and is often absent without notice. Which problem behavior is this?
++ Blatant insubordination :: Refusing instructions and attendance issues are blatant insubordination.
+- Subtle but serious behavior :: His behavior is open, not subtle.
+- Marginal employee behavior :: Marginal employees meet minimal standards. Open refusal is insubordination.
+- Psychological impairment :: Nothing suggests depression or anxiety.
+
+MS2 | Nurse Hana never refuses orders, but she quietly spreads negativity and undermines her teammates, creating a hostile mood. Which problem behavior is this?
++ Subtle but serious behavior :: Undermining team members and creating a hostile workplace is subtle but serious.
+- Blatant insubordination :: She does not openly refuse instructions.
+- Chemical impairment :: There is no sign of substance use.
+- Constructive discipline :: That is a manager's approach, not a problem behavior.
+
+MS2 | A nurse does only the minimum: vital signs recorded, but no assessments, and other staff often must redo or finish her work. Which type of special-needs employee is she?
++ Marginal employee :: She meets only minimal standards and consistently disrupts the unit with poor performance.
+- Impaired employee :: Nothing suggests drug, alcohol, or psychological impairment.
+- Blatant insubordination :: She does not refuse instructions.
+- Expert nurse :: An expert works with deep understanding. This is the opposite.
+
+MS2 | A nurse often smells of alcohol at the start of night duty, and his medication errors are increasing. Which type of employee with special needs is this?
++ Impaired employee (chemical impairment) :: Alcohol use points to chemical impairment.
+- Marginal employee :: Marginal is about low performance without impairment.
+- Psychological impairment :: Alcohol points to chemical impairment.
+- Subtle but serious behavior :: The issue here is impairment, not undermining coworkers.
+
+# u9-discipline | Discipline, punishment, constructive discipline, self-discipline, group norms | Controlling › Employee Discipline (cont.)
+> Discipline = training or molding character to bring about desired behaviors; corrective AND educational; helps employees grow. Punishment = an undesirable consequence after unacceptable behavior; may correct behavior but lacks the developmental part. Constructive discipline: supportive and corrective; from Latin "disciplina" (teaching, learning, growing); focuses on improving performance and growth; employees learn discipline is about their ACTIONS, not their identity; punishment may still be part of it but must not attack the person's worth; it should not permanently alienate or demoralize. Self-discipline: the highest and most effective form; employees govern themselves; it grows when employees feel secure, validated, and affirmed. Group norms: group-established standards; social pressure can make self-discipline hard when group expectations conflict with organizational goals.
+
+I1 | Training or molding character to bring about desired behaviors; both corrective and educational.
+= Discipline
+:: Discipline helps employees grow. It is not only about consequences.
+
+I2 | An undesirable consequence that follows unacceptable behavior and lacks the developmental aspect of discipline.
+= Punishment
+:: Punishment may stop the behavior but does not develop the person.
+
+I2 | Latin term that "discipline" comes from, meaning teaching, learning, and growing.
+= Disciplina
+:: Disciplina = teaching, learning, and growing.
+
+I2 | Discipline carried out in a supportive and corrective manner, helping employees see it is about their actions, not their identity.
+= Constructive discipline | constructive
+:: Constructive discipline separates the behavior from the person's worth.
+
+I2 | The highest and most effective form of discipline, where employees govern themselves.
+= Self-discipline | self discipline
+:: Self-discipline is internal control. It grows when employees feel secure, validated, and affirmed.
+
+M2 | What is the main difference between discipline and punishment in the module?
++ Discipline is corrective and educational, while punishment lacks the developmental aspect :: Both may correct behavior, but only discipline develops the employee.
+- Punishment helps employees grow, discipline does not :: This is reversed.
+- They mean the same thing :: The module separates them clearly.
+- Discipline is only for marginal employees :: Discipline applies to everyone.
+
+MS2 | After a late medication, the head nurse privately tells the nurse, "The delay is the problem, not you. Let's look at how to organize your rounds." What approach is this?
++ Constructive discipline :: She is supportive and corrective and makes clear it is about the action, not the person.
+- Punishment :: She gave guidance, not just an undesirable consequence.
+- Avoiding :: She addressed the issue.
+- Mobbing :: Mobbing is a group targeting a person.
+
+M3 | According to the module, when does self-discipline emerge?
++ When employees feel secure, validated, and affirmed in their value within the organization :: The module links self-discipline to feeling secure, validated, and affirmed.
+- When managers punish immediately :: Immediate consequences are a Hot Stove rule, not the source of self-discipline.
+- When group norms conflict with organizational goals :: That makes self-discipline harder.
+- When employees are threatened with termination :: Threats do not build internal control.
+
+MS2 | On a ward, the "unwritten rule" is to chart vital signs in advance to leave on time. A new nurse wants to chart correctly but feels pressured to follow the group. What concept explains this?
++ Group norms :: Group-established standards and social pressure can make self-discipline hard when they conflict with organizational goals.
+- Self-discipline :: Self-discipline is what is being blocked here.
+- Benchmarking :: Benchmarking compares with best practices.
+- Competence assessment :: That checks qualifications.
+
+M2 | When applied correctly, what should discipline NOT do, according to the module?
++ Permanently alienate or demoralize employees :: The module says correct discipline should not permanently alienate or demoralize employees.
+- Help employees correct their behavior :: That is what it should do.
+- Help employees understand their mistakes :: That is what it should do.
+- Promote growth :: That is what it should do.
+
+# u9-hotstove | McGregor's Hot Stove rules | Controlling › McGregor's "Hot Stove" Rules
+> Douglas McGregor (1967) gave four rules for fair and constructive discipline. 1 Forewarning: employees know the rules and consequences beforehand (no surprises, like knowing the stove is hot). 2 Immediate consequences: discipline right after the rule is broken (like the instant burn). 3 Consistency: every time the rule is broken, the same consequence follows (rules are firm and predictable). 4 Impartiality: everyone who breaks the rule gets the same consequence regardless of position (fairness and morale).
+~ "FICI": Forewarning, Immediate, Consistency, Impartiality. Warned, Now, Always, Everyone.
+
+I1 | Author of the "Hot Stove" rules of discipline (1967).
+= Douglas McGregor | McGregor
+:: Douglas McGregor outlined the four Hot Stove rules in 1967.
+
+I2 | Year Douglas McGregor outlined the Hot Stove rules.
+= 1967
+:: The module dates the Hot Stove rules to 1967.
+
+I1 | Hot Stove rule: employees must be aware of the rules and consequences BEFORE breaking them; there should be no surprises.
+= Forewarning | forewarn | first rule
+:: You know the stove is hot before you touch it.
+
+I2 | Hot Stove rule: discipline must be applied right after the rule is broken, like the instant burn from a hot stove.
+= Immediate consequences | immediate consequence | immediacy | immediate
+:: The burn comes instantly. Delayed discipline loses its link to the behavior.
+
+I2 | Hot Stove rule: every time a rule is broken, the same consequence follows, so rules are firm and predictable.
+= Consistency | consistent
+:: The stove burns every time.
+
+I2 | Hot Stove rule: everyone who breaks the rule faces the same consequence regardless of position.
+= Impartiality | impartial
+:: The stove burns anyone who touches it, the chief nurse included.
+
+MS2 | A nurse is suspended for a policy she never heard of. She says, "Nobody told us this was a rule!" Which Hot Stove rule was violated?
++ Forewarning :: Employees must know the rules and consequences beforehand. There should be no surprises.
+- Immediate consequences :: The problem is that she did not know the rule, not the timing.
+- Consistency :: Consistency is about the same consequence every time.
+- Impartiality :: Impartiality is about equal treatment regardless of position.
+
+MS2 | A nurse came to duty late in January. The manager only talks to her about it in June. Which Hot Stove rule was violated?
++ Immediate consequences :: Discipline should follow right after the rule is broken.
+- Forewarning :: The issue is timing, not lack of warning.
+- Impartiality :: Nothing suggests unequal treatment by position.
+- Consistency :: Consistency is about the same consequence each time.
+
+MS2 | When a staff nurse is late, she gets a written warning. When the same nurse is late again, the manager just laughs it off. Which Hot Stove rule is broken?
++ Consistency :: The same rule violation got different consequences at different times.
+- Impartiality :: Impartiality compares different people. Here it is the same nurse at different times.
+- Forewarning :: She already knew the rule.
+- Immediate consequences :: Timing is not the problem.
+
+MS3 | A staff nurse gets a memo for not wearing her ID, but the supervisor who also forgets her ID gets nothing. Which Hot Stove rule is violated?
++ Impartiality :: Everyone who breaks the rule should face the same consequence regardless of position.
+- Consistency :: Consistency is about the same rule and person over time. This compares two people of different rank.
+- Forewarning :: Both knew the rule.
+- Immediate consequences :: Timing is not the issue.
+
+M2 | Why does Hot Stove rule 2 stress "immediate" consequences?
++ So the consequence is clearly linked to the behavior, like the instant burn from a stove :: An instant consequence makes the connection between action and result clear.
+- So the employee has time to forget the rule :: The opposite is the point.
+- So the manager can collect evidence for months :: Long delays weaken the link to the behavior.
+- So only senior staff are disciplined :: That would violate impartiality.
+
+# u9-coaching | Performance deficiency coaching | Controlling › Performance Deficiency Coaching
+> Performance deficiency coaching = a managerial strategy to address and correct poor performance or behavior through constructive guidance rather than merely enforcing discipline. Ongoing coaching: continuous and spontaneous, part of the daily work routine; managers regularly give feedback. Problem-centered coaching: more structured and planned, focuses on specific performance issues needing immediate correction; needs careful preparation by the manager.
+
+I2 | Managerial strategy to address and correct poor performance through constructive guidance, rather than merely enforcing discipline.
+= Performance deficiency coaching | performance coaching | coaching
+:: Coaching guides improvement instead of only punishing.
+
+I2 | Type of coaching that is continuous and spontaneous, built into the daily work routine.
+= Ongoing coaching | ongoing
+:: Ongoing coaching happens every day, informally.
+
+I2 | Type of coaching that is structured and planned, focusing on a specific performance issue that needs immediate correction.
+= Problem-centered coaching | problem centered coaching | problem-centered | problem centered
+:: Problem-centered coaching targets one specific issue and needs preparation.
+
+MS2 | While rounding, the head nurse casually tells a new nurse, "Nice catch on that BP. Next time, recheck after 15 minutes." Which coaching type is this?
++ Ongoing coaching :: The feedback is spontaneous and part of the daily routine.
+- Problem-centered coaching :: That is a planned meeting about a specific deficiency.
+- Self-appraisal :: The nurse is not evaluating herself.
+- Punishment :: No undesirable consequence was given.
+
+MS2 | A nurse has made three documentation errors this month. The manager schedules a private meeting, prepares the records, and plans specific steps for improvement. Which coaching type is this?
++ Problem-centered coaching :: It is structured, planned, and focused on one specific performance issue.
+- Ongoing coaching :: Ongoing coaching is spontaneous, not prepared in advance.
+- Weighted checklist :: That is an appraisal tool.
+- Smoothing :: Smoothing avoids the issue.
+
+# u9-perfeval | Performance evaluation and competence assessment | Controlling › Performance Evaluation
+> Performance appraisal = a key controlling responsibility: determining how well employees carry out the duties of their jobs. Early 1990s: The Joint Commission advocated using the job description as the standard for performance appraisal. Competence assessment: evaluates knowledge, education, skills, or experience required for specific tasks; asks whether the employee is QUALIFIED for the position. Performance evaluation: assesses how WELL the employee executes assigned tasks; focuses on the quality of performance in real-world scenarios.
+
+I2 | Process in which work performance is reviewed to determine how well employees carry out the duties of their jobs.
+= Performance appraisal | performance evaluation
+:: Performance appraisal is an important controlling responsibility.
+
+I2 | Document that The Joint Commission (early 1990s) advocated using as the standard for performance appraisal.
+= Job description | the job description | employee's job description
+:: The JC advocated using the employee's job description as the appraisal standard.
+
+M2 | When did The Joint Commission begin advocating the use of the job description as the standard for performance appraisal?
++ Early 1990s :: The module says early 1990s.
+- 1967 :: 1967 is the year of McGregor's Hot Stove rules.
+- 2002 :: 2002 is the year of the Philippine Nursing Act (RA 9173).
+- 2012 :: 2012 is the year of the NNCCS and the Data Privacy Act.
+
+I2 | Evaluation of an employee's knowledge, education, skills, or experience required to perform specific tasks; asks whether the employee is qualified.
+= Competence assessment | competency assessment
+:: Competence assessment asks, "Is this person qualified?"
+
+MS3 | Before allowing a nurse to float to the ICU, the manager checks her ACLS certificate, ICU training, and ventilator experience. What is the manager doing?
++ Competence assessment :: She is checking qualifications (education, skills, experience) for specific tasks.
+- Performance evaluation :: Performance evaluation would check how well she already performs her ICU tasks.
+- Outcome audit :: An outcome audit measures patient results.
+- Problem-centered coaching :: There is no performance problem to correct.
+
+MS3 | After six months in the ICU, the manager rates how well the nurse actually carries out her assigned tasks with real patients. What is this?
++ Performance evaluation :: It assesses how well she executes tasks in real-world situations.
+- Competence assessment :: Competence assessment checks if she is qualified before or for the tasks.
+- Structure audit :: That checks resources.
+- Self-appraisal :: The manager, not the nurse, does the rating.
+
+# u9-tools | Performance appraisal tools | Controlling › Appraisal Tools
+> 1 Trait rating scale: rates based on standards, but focuses on PERSONAL CHARACTERISTICS (attitude, teamwork, punctuality), not directly the quality or quantity of work. 2 Job dimension scales: a rating scale for each job classification; rating factors come directly from the written JOB DESCRIPTION. 3 BARS (behaviorally anchored rating scales, also called behavioral expectation scales): specific, OBSERVABLE behaviors; a separate form per job classification; behaviors ranked typically 1 to 9 by importance; reduces subjectivity. 4 Checklists: weighted (weighted score per behavior; merit raises often tied to scores), forced (evaluator selects both desirable AND undesirable behaviors; each has a value; total score computed), simple (descriptors; the rater checks those that apply). 5 Essays: narrative description of strengths and areas for improvement. 6 Self-appraisals: employees reflect on and summarize their own accomplishments; reflective practice.
+
+I2 | Appraisal tool that focuses on personal characteristics like attitude, teamwork, or punctuality rather than the quality or quantity of work.
+= Trait rating scale | trait rating | trait scale
+:: The trait rating scale rates who you are, not directly how much or how well you work.
+! Source note: the module says "trade rating scale" once. It most likely means "trait rating scale". Please verify.
+
+I2 | Appraisal tool where a rating scale is made for each job classification, with rating factors taken directly from the written job description.
+= Job dimension scales | job dimension scale | job dimension
+:: Job dimension scales align the appraisal with the employee's actual duties.
+
+I2 | Appraisal tool that rates specific, observable behaviors ranked typically 1 to 9, with a separate form for each job classification. Give the abbreviation.
+= BARS | behaviorally anchored rating scales | behaviorally anchored rating scale | behavioral expectation scales
+:: BARS = behaviorally anchored rating scales, also called behavioral expectation scales.
+
+I2 | Another name for behaviorally anchored rating scales.
+= Behavioral expectation scales | behavioral expectation scale
+:: The module says BARS are also known as behavioral expectation scales.
+
+I3 | In BARS, behaviors are typically ranked on this numerical range to show their importance.
+= 1 to 9 | 1-9 | one to nine
+:: BARS ranks behaviors typically from 1 to 9.
+
+I2 | Type of checklist where each behavior has a weighted score, and merit raises are often tied to the overall score.
+= Weighted checklist | weighted
+:: Weighted = each behavior carries a weight. Scores often affect merit raises.
+
+I2 | Type of checklist where the evaluator selects both desirable and undesirable behaviors for the employee.
+= Forced checklist | forced
+:: Forced = the rater is forced to choose both good and bad behaviors.
+
+I2 | Type of checklist with descriptors of behavior, traits, or skills where the rater checks those that apply.
+= Simple checklist | simple
+:: Simple = just tick what applies.
+
+I2 | Appraisal method of writing a narrative description of the employee's performance, strengths, and areas for improvement.
+= Essays | essay | essay appraisal
+:: Essay appraisals are written narratives.
+
+I2 | Appraisal method where employees reflect on and summarize their own work accomplishments, encouraging reflective practice.
+= Self-appraisals | self-appraisal | self appraisal | self appraisals
+:: Self-appraisal builds reflective practice.
+
+MS2 | A rating form asks the manager to score a nurse's attitude, teamwork, and punctuality from 1 to 5. Which tool is this?
++ Trait rating scale :: It rates personal characteristics rather than work quality or quantity.
+- BARS :: BARS uses specific observable behaviors tied to job responsibilities.
+- Job dimension scale :: That uses factors from the job description.
+- Essay :: An essay is a narrative, not a rating form.
+
+MS3 | The hospital makes a separate rating form for staff nurses, listing observable behaviors such as "verifies two patient identifiers before every medication", each ranked from 1 to 9. Which tool reduces subjectivity this way?
++ Behaviorally anchored rating scale (BARS) :: Observable behaviors, a separate form per job classification, and ranking 1 to 9 describe BARS.
+- Trait rating scale :: Trait scales rate personal characteristics, which are more subjective.
+- Simple checklist :: A simple checklist only ticks descriptors that apply. It does not rank 1 to 9.
+- Self-appraisal :: The nurse does not rate herself here.
+
+MS2 | The appraisal form for clinical instructors lists rating factors copied straight from the clinical instructor's written job description. Which tool is this?
++ Job dimension scales :: Rating factors taken directly from the written job description define job dimension scales.
+- Trait rating scale :: Trait scales rate personal characteristics.
+- Essay :: An essay is a written narrative.
+- Forced checklist :: A forced checklist makes the evaluator choose desirable and undesirable behaviors.
+
+MS2 | The hospital uses an appraisal where each behavior statement has a score, and the total score decides the nurse's merit increase. Which tool is this?
++ Weighted checklist :: Weighted scores with merit raises tied to them describe a weighted checklist.
+- Forced checklist :: A forced checklist requires choosing both desirable and undesirable behaviors.
+- Simple checklist :: A simple checklist has no weights.
+- BARS :: BARS ranks observable behaviors 1 to 9 but the merit-raise link is described for weighted checklists.
+
+MS2 | The evaluator must pick both good and bad behaviors from a list for each nurse. Each has a value and a total is computed. Which tool is this?
++ Forced checklist :: The evaluator selects both desirable and undesirable behaviors. This is the forced checklist.
+- Weighted checklist :: Weighted checklists assign weights to behaviors but do not force both kinds.
+- Simple checklist :: The rater only checks what applies.
+- Trait rating scale :: That rates personal characteristics.
+
+MS1 | The supervisor ticks off descriptors like "punctual," "neat," and "skilled in IV insertion" that apply to the nurse. Which tool is this?
++ Simple checklist :: Checking descriptors that apply is a simple checklist.
+- Weighted checklist :: No weights or scores are mentioned.
+- Forced checklist :: She is not forced to pick both desirable and undesirable behaviors.
+- Essay :: She is not writing a narrative.
+
+MS1 | At year end, each nurse writes a reflection on her own accomplishments and areas to grow. Which tool is this?
++ Self-appraisal :: Employees reflecting on their own work is self-appraisal.
+- Essay :: In the essay method the evaluator writes about the employee.
+- Job dimension scales :: These are rating scales from the job description.
+- BARS :: BARS uses observable behaviors rated by an evaluator.
+
+MS2 | The head nurse writes three paragraphs about a nurse's strengths and the areas she needs to improve. Which appraisal tool is this?
++ Essay :: A written narrative of strengths and areas for improvement is the essay method.
+- Self-appraisal :: The head nurse, not the employee, wrote it.
+- Simple checklist :: There is no checklist.
+- Trait rating scale :: There is no rating scale.
+
+M3 | Which appraisal tool is described as specifically reducing subjectivity by focusing on physically observable behaviors?
++ BARS :: The module says BARS focuses on observable behaviors, which helps reduce subjectivity.
+- Trait rating scale :: Trait ratings are about personality characteristics, which can be subjective.
+- Essays :: Narratives depend on the writer.
+- Self-appraisals :: Self-ratings are subjective by nature.
+
+# u9-jc | The Joint Commission and JCI | Controlling › Creating a Patient's Safety Culture
+> The Joint Commission (JC), originally the Joint Commission for Accreditation of Healthcare Organizations (JCAHO), shapes quality control. It accredits over 21,000 healthcare organizations and programs in the U.S. Accreditation means the organization meets performance standards and provides quality care. The JC mandated that all hospitals establish a Quality Assurance (QA) program. The JC keeps one of the most comprehensive databases of sentinel events. Joint Commission International (JCI) = the international arm of the JC; offers accreditation, certification, education, consulting, software solutions, publications, and patient safety pathways; vision: all people always experience the safest, highest quality, best value healthcare worldwide. The JCI developed the IPSGs.
+
+I2 | Original name (abbreviation) of The Joint Commission.
+= JCAHO | Joint Commission for Accreditation of Healthcare Organizations | Joint Commission on Accreditation of Healthcare Organizations
+:: The JC was originally the Joint Commission for Accreditation of Healthcare Organizations (JCAHO).
+
+I2 | The international arm of The Joint Commission (abbreviation).
+= JCI | Joint Commission International
+:: JCI = Joint Commission International.
+! Source note: the module writes "GCI" once in this section. It most likely means "JCI". Please verify.
+
+M2 | How many healthcare organizations and programs does The Joint Commission accredit in the U.S., according to the module?
++ Over 21,000 :: The module says over 21,000.
+- Over 2,100 :: The module says over 21,000.
+- Over 210,000 :: The module says over 21,000.
+- Exactly 6 :: Six is the number of IPSGs.
+
+M2 | What program did The Joint Commission mandate all hospitals to establish?
++ A Quality Assurance (QA) program :: The module says the JC mandated that all hospitals establish a QA program.
+- A labor union :: Unions are formed by employees.
+- A collective bargaining agreement :: That is between unions and employers.
+- A nursing school :: Schools are regulated by CHED.
+
+MS2 | A Philippine hospital wants to be accredited internationally and also get consulting and education on patient safety. Which organization fits best?
++ Joint Commission International (JCI) :: JCI offers accreditation, certification, education, consulting, and more worldwide.
+- AHRQ :: AHRQ develops clinical guidelines in the US.
+- DOLE :: DOLE oversees labor laws.
+- Board of Nursing :: The BON regulates nursing standards, not international hospital accreditation.
+
+M2 | Which organization developed the International Patient Safety Goals (IPSGs)?
++ JCI :: The module says the IPSGs were developed by the JCI.
+- PRC :: The PRC regulates professionals in the Philippines.
+- WHO :: WHO is mentioned for the 5 moments of hand hygiene, not as the IPSG author.
+- PhilHealth :: PhilHealth is the national health insurer.
+
+# u9-sentinel | Sentinel events and root cause analysis | Controlling › Sentinel Events
+> Sentinel events = patient safety events (not primarily related to the natural course of the illness or underlying condition) that reach a patient and result in death, permanent harm, or severe temporary harm. Severe temporary harm = critical, potentially life-threatening harm of limited duration with no permanent residual, but requiring transfer to a higher level of care or monitoring for a prolonged period, transfer to a higher level of care for a life-threatening condition, or additional major surgery, procedure, or treatment. A sentinel event signals the need for IMMEDIATE investigation and response. The JC collects and shares sentinel event data with accredited organizations to prevent future errors. Root cause analysis (RCA) and corrective action plans are done when sentinel events occur; RCA = a systematic process to identify the root causes of an error and address them to prevent recurrence.
+
+I1 | Patient safety event, not primarily related to the natural course of the illness, that reaches a patient and results in death, permanent harm, or severe temporary harm.
+= Sentinel event | sentinel events
+:: A sentinel event "sends a signal" that immediate investigation is needed.
+
+I2 | A systematic process for identifying the root causes of an error and addressing them to prevent recurrence. Give the abbreviation.
+= RCA | root cause analysis | root causes analysis
+:: RCA digs past the surface error to the system causes.
+
+MS2 | A patient receives the wrong blood type, develops a severe reaction, and needs ICU transfer for a life-threatening condition. What is this and what is needed?
++ A sentinel event that needs immediate investigation and a root cause analysis :: It reached the patient and caused severe temporary harm needing a higher level of care.
+- A near miss that only needs a verbal reminder :: A near miss does not reach the patient. This one did.
+- The natural course of the illness, so no report is needed :: The harm came from a safety event, not the illness.
+- A process audit that can wait until next quarter :: Sentinel events need immediate investigation.
+
+MS3 | A terminally ill cancer patient dies peacefully from the expected progression of his disease. Is this a sentinel event?
++ No, because the death is related to the natural course of the illness :: Sentinel events are NOT primarily related to the natural course of the illness.
+- Yes, because every death is a sentinel event :: The definition excludes deaths from the natural course of illness.
+- Yes, because he was in a hospital :: Location does not make it a sentinel event.
+- No, because sentinel events only involve permanent harm :: Death is one of the sentinel event outcomes.
+
+M3 | Which situation meets the module's description of "severe temporary harm"?
++ Critical harm of limited duration that requires additional major surgery to resolve :: Severe temporary harm includes harm needing additional major surgery, procedure, or treatment.
+- A minor bruise that heals in two days :: This is not critical or potentially life-threatening.
+- Permanent loss of a limb :: That is permanent harm, a separate category.
+- A wrong drug caught before it was given :: It never reached the patient.
+
+M2 | Why does The Joint Commission collect and share sentinel event data with accredited organizations?
++ To help prevent future medical errors and reduce recurrence :: The module says sharing data helps organizations build better safety protocols.
+- To publicly shame the nurses involved :: A safety culture focuses on systems, not shaming.
+- To decide nurses' salaries :: Data is used for safety, not pay.
+- To revoke all licenses involved :: That is not the purpose stated.
+
+# u9-ipsg | International Patient Safety Goals (IPSGs) | Controlling › International Patient Safety Goals
+> Developed by JCI so accredited organizations focus on areas that greatly affect patient safety. 1 Identify patients correctly: why = avoid treating the wrong patient; how = two identifiers (name + birth date, name + hospital ID band), NEVER the room number, double-check before procedures, blood transfusion, or meds. 2 Improve effective communication: why = miscommunication is a major cause of errors; how = read-back for verbal orders, write down critical test results immediately and verify, standardized handoff with SBAR (Situation, Background, Assessment, Recommendation). 3 Improve the safety of high-alert medications: why = insulin, anticoagulants, chemotherapy cause severe harm if misused; how = store separately with warning labels, independent double-checks, tall-man lettering (hydrOXYzine vs hydrALAzine). 4 Ensure correct surgery at the correct site with the correct procedure: why = wrong-site or wrong-patient surgery is catastrophic; how = time out before surgery (verify patient, site, procedure), mark the site with patient involvement, standardized checklists. 5 Reduce the risk of healthcare-associated infections (HAIs): why = pneumonia, sepsis, UTIs increase harm; how = WHO's 5 moments of hand hygiene, correct PPE, sterile technique (e.g., catheter insertion). 6 Reduce the risk of patient harm from falls: why = serious injuries especially in elderly; how = assess fall risk on admission, bed alarms, side rails, non-slip footwear, educate patients and families.
+~ "I Can Have Safe Infection-free Falls-free care": Identify, Communicate, High-alert, Surgery, Infection, Falls
+
+I1 | IPSG 1: identify patients correctly. How many identifiers should be used?
+= Two | 2 | two identifiers
+:: Use two identifiers, such as name + date of birth or name + hospital ID band.
+
+M1 | Under IPSG 1, which should NEVER be used as a patient identifier?
++ The patient's room number :: The module says never use the room number. Patients change rooms and beds.
+- Full name :: Name is a valid identifier when paired with another.
+- Date of birth :: Date of birth is a valid second identifier.
+- Hospital ID band number :: The ID band is a valid identifier.
+
+MS2 | Before hanging a unit of blood, Nurse Ivy asks the patient to state his full name and birthday and checks them against the wristband and the blood tag. Which IPSG is she meeting?
++ IPSG 1: identify patients correctly :: Using two identifiers and double-checking before transfusion is IPSG 1.
+- IPSG 3: high-alert medications :: Blood checks here are about patient identity.
+- IPSG 5: reduce HAIs :: This is not about infection.
+- IPSG 4: correct surgery site :: No surgery is involved.
+
+I2 | Technique under IPSG 2 where the nurse repeats a verbal order back to confirm it.
+= Read-back | read back | readback
+:: Read-back catches mistakes before they reach the patient.
+
+I2 | Standardized handoff format under IPSG 2. Give the abbreviation.
+= SBAR
+:: SBAR = Situation, Background, Assessment, Recommendation.
+
+I2 | In SBAR, what does the "B" stand for?
+= Background
+:: SBAR = Situation, Background, Assessment, Recommendation.
+
+I2 | In SBAR, what does the "R" stand for?
+= Recommendation | recommendations
+:: SBAR = Situation, Background, Assessment, Recommendation.
+
+MS2 | A doctor gives a verbal order over the phone for furosemide 40 mg IV now. What should the nurse do according to IPSG 2?
++ Write it down and read it back to the doctor to confirm :: Read-back is the IPSG 2 method for verbal orders.
+- Give the drug right away and chart later :: The order must be confirmed first.
+- Ask another nurse to remember it :: That increases the risk of miscommunication.
+- Wait for the doctor to come and write it :: Read-back allows safe verbal orders.
+
+MS2 | The lab calls a critical potassium of 6.8 mEq/L. Under IPSG 2, what should the nurse do first?
++ Write down the critical result immediately and verify it :: IPSG 2 says write down critical test results immediately and verify.
+- Wait for the printed result :: Critical values need immediate action.
+- Report it at the end of the shift :: Delay could harm the patient.
+- Tell the relative first :: The result must be documented and verified, then reported to the physician.
+
+I2 | Under IPSG 3, lettering style used for look-alike drug names such as hydrOXYzine vs hydrALAzine.
+= Tall-man lettering | tall man lettering | tall-man | tall man
+:: Capital letters highlight the part of the name that differs.
+
+M2 | Which three drugs does the module give as examples of high-alert medications?
++ Insulin, anticoagulants, chemotherapy :: The module lists insulin, anticoagulants, and chemotherapy.
+- Paracetamol, vitamins, saline :: These are not the module's high-alert examples.
+- Antacids, laxatives, lotions :: These are not the module's high-alert examples.
+- Oxygen, blood, and IV fluids :: These are not the examples given.
+
+MS2 | The pharmacy stores heparin and insulin in a separate bin with red warning labels, and two nurses independently check every dose. Which IPSG is this?
++ IPSG 3: improve the safety of high-alert medications :: Separate storage with warning labels and independent double-checks are IPSG 3 methods.
+- IPSG 1: identify patients correctly :: The focus is the medicine, not patient identity.
+- IPSG 6: reduce falls :: This is not about falls.
+- IPSG 2: improve communication :: Read-back and SBAR are IPSG 2.
+
+I2 | Under IPSG 4, the pause done before surgery to verify the patient, site, and procedure.
+= Time out | time-out | timeout
+:: The time out is the last check before the incision.
+
+MS2 | Before a right knee arthroscopy, the surgeon marks the right knee while the awake patient confirms it. The team then stops to verify patient, site, and procedure. Which IPSG is this?
++ IPSG 4: ensure correct surgery at the correct site with the correct procedure :: Site marking with patient involvement and a time out are IPSG 4.
+- IPSG 1: identify patients correctly :: Identity is part of it, but site marking and time out belong to IPSG 4.
+- IPSG 5: reduce HAIs :: Infection control is not the focus.
+- IPSG 3: high-alert medications :: No medications are involved.
+
+I2 | IPSG 5 uses WHO's "5 ___ of hand hygiene."
+= Moments | 5 moments | five moments
+:: WHO's 5 moments of hand hygiene are the IPSG 5 standard.
+
+MS2 | A nurse performs hand hygiene before and after touching each patient, wears PPE correctly, and uses sterile technique for catheter insertion. Which IPSG is this?
++ IPSG 5: reduce the risk of healthcare-associated infections :: Hand hygiene, PPE, and sterile technique prevent HAIs.
+- IPSG 6: reduce harm from falls :: These actions prevent infection, not falls.
+- IPSG 4: correct surgery :: This is not about surgery site.
+- IPSG 2: improve communication :: This is not about communication.
+
+I2 | Abbreviation for infections like pneumonia, sepsis, and UTIs acquired during care (IPSG 5).
+= HAIs | HAI | healthcare-associated infections | healthcare associated infections | nosocomial infections
+:: HAIs = healthcare-associated infections.
+
+MS2 | An 82-year-old is admitted. The nurse assesses fall risk on admission, puts on a bed alarm, raises the side rails, gives non-slip socks, and teaches the family. Which IPSG is this?
++ IPSG 6: reduce the risk of patient harm from falls :: All these are IPSG 6 fall-prevention steps.
+- IPSG 1: identify patients correctly :: Nothing here is about identity.
+- IPSG 5: reduce HAIs :: Nothing here is about infection.
+- IPSG 3: high-alert medications :: No medications are involved.
+
+I2 | Under IPSG 6, fall risk should be assessed for every patient at this time.
+= On admission | admission | upon admission
+:: Fall risk assessment starts on admission for every patient.
+
+M2 | Which statement explains WHY IPSG 2 exists?
++ Miscommunication is a major cause of errors :: The module gives this as the reason for IPSG 2.
+- Wrong-site surgery is catastrophic :: That is the reason for IPSG 4.
+- High-risk medications cause severe harm :: That is the reason for IPSG 3.
+- Falls cause serious injury in the elderly :: That is the reason for IPSG 6.
+
+# u9-medrec | Medication reconciliation | Controlling › Medication Reconciliation
+> The JC stresses medication reconciliation to prevent medication errors, especially at patient TRANSITION POINTS. It systematically compares the patient's current medication regimen with newly prescribed medications to prevent: omissions (failing to prescribe a needed medication), duplications (two medications with the same purpose), dosing errors, and drug interactions.
+
+I2 | Process of systematically comparing a patient's current medication regimen with newly prescribed medications, especially at transition points.
+= Medication reconciliation | med reconciliation | med rec
+:: Medication reconciliation catches errors when the patient moves between settings.
+
+I2 | Medication reconciliation error type: failing to prescribe a necessary medication.
+= Omissions | omission
+:: An omission is a needed drug that was left out.
+
+I2 | Medication reconciliation error type: prescribing two medications with the same purpose.
+= Duplications | duplication
+:: Duplication is two drugs doing the same job.
+
+MS2 | A patient on home losartan is admitted, and the doctor also orders valsartan. During medication reconciliation the nurse notices two drugs with the same purpose. Which error was caught?
++ Duplication :: Two medications with the same purpose is a duplication.
+- Omission :: Nothing needed was left out.
+- Dosing error :: The issue is not the dose but two drugs with the same purpose.
+- Drug interaction :: The problem described is the same purpose, which is duplication.
+
+MS2 | On transfer from ICU to the ward, the nurse compares the ICU orders with the patient's home meds and finds his maintenance antiepileptic was never ordered. Which error was caught?
++ Omission :: A necessary medication was not prescribed.
+- Duplication :: Nothing is doubled.
+- Dosing error :: The drug is missing, not wrongly dosed.
+- Tall-man lettering error :: That is a look-alike name issue.
+
+M2 | When is medication reconciliation especially important, according to the module?
++ At patient transition points :: The module stresses transition points such as admission, transfer, and discharge.
+- Only during surgery :: The module says transition points.
+- Only once a year :: It happens at each transition.
+- Only after a sentinel event :: It is a preventive process.
+
+# u9-reporting | Reporting errors, blame-free reporting, and Just Culture | Controlling › Reporting and Analyzing Errors
+> Reducing errors requires increasing both MANDATORY and VOLUNTARY reporting. This is proactive and helps find causes and corrective actions, but it requires a just culture that balances accountability with a system-focused view. Blame-free reporting: shift away from blaming individuals toward fixing system failures; staff feel safe to report errors and NEAR MISSES. Just Culture: blame-free but still holds people accountable; separates three behaviors: Human error (unintentional; part of learning; e.g., wrong med from similar packaging, reported at once; fix = system improvements), At-risk behavior (decisions that raise risk but are not intentionally harmful; e.g., skipping the wristband check because "I know the patient"; fix = coaching), Reckless behavior (disregards safety protocols; e.g., a doctor skips sterile procedure in a rush knowingly risking infection; fix = immediate corrective action).
+~ Just Culture: Console (human error), Coach (at-risk), Correct/Punish (reckless)
+
+I2 | The two kinds of error reporting the module says must both increase: mandatory and ____.
+= Voluntary | voluntary reporting
+:: Both mandatory and voluntary reporting help organizations learn from errors.
+
+I2 | Culture at the unit level that shifts away from blaming individuals and focuses on finding and improving system failures.
+= Blame-free reporting | blame free reporting | blame-free | blame free culture | blame-free culture
+:: When people are not blamed, they report more errors and near misses.
+
+I2 | Culture that balances a blame-free environment with holding individuals accountable, separating human error, at-risk behavior, and reckless behavior.
+= Just culture | just
+:: Just culture = fair. It learns from errors but still holds reckless behavior accountable.
+
+I2 | In Just Culture, an unintentional error that is part of the learning process.
+= Human error | human
+:: Human error is unintentional. The fix is usually the system.
+
+I2 | In Just Culture, decisions that increase risk but are not intentionally harmful.
+= At-risk behavior | at risk behavior | at-risk | at risk
+:: At-risk behavior is a risky shortcut, not intentional harm. The fix is coaching.
+
+I2 | In Just Culture, actions that disregard safety protocols and need corrective action.
+= Reckless behavior | reckless
+:: Reckless behavior knowingly ignores safety. It needs corrective action.
+
+I2 | Errors caught before they reach the patient, which staff should feel safe to report in a blame-free culture.
+= Near misses | near miss
+:: Reporting near misses helps fix the system before harm happens.
+
+MS2 | A nurse gives the wrong medication because two drugs have very similar packaging. She reports it immediately. Under Just Culture, what is this and what is the right response?
++ Human error; improve the system (e.g., change storage or packaging) :: It was unintentional. The module says system improvements prevent recurrence.
+- Reckless behavior; immediate corrective action :: She did not knowingly ignore safety.
+- At-risk behavior; coaching :: She made no risky choice. The packaging caused the slip.
+- No action is needed because it was reported :: The system should still be improved.
+
+MS2 | A nurse skips checking the wristband because "I've cared for him for three days, I know him." Under Just Culture, what is this and the right response?
++ At-risk behavior; coaching to reinforce protocols :: Skipping a check by choice raises risk but is not meant to harm. This is the module's at-risk example.
+- Human error; system redesign :: This was a choice, not an accidental slip.
+- Reckless behavior; termination :: Reckless behavior knowingly disregards safety protocols with conscious risk. The module classifies this example as at-risk.
+- No action because no harm occurred :: At-risk behavior still needs coaching.
+
+MS2 | A doctor in a rush knowingly skips sterile procedure during a central line insertion, risking infection. Under Just Culture, what is this?
++ Reckless behavior that needs immediate corrective action :: Knowingly disregarding safety protocols is reckless. This is the module's example.
+- Human error that needs system improvement :: It was a conscious choice, not an accident.
+- At-risk behavior that needs coaching only :: Knowingly risking harm goes beyond at-risk behavior.
+- A near miss :: The risk was knowingly taken during an actual procedure.
+
+M3 | What is the goal of a just culture according to the module?
++ Staff feel safe to report errors and near misses without unjust punishment, while reckless behavior is still held accountable :: Just culture balances learning with accountability.
+- Nobody is ever held accountable for anything :: Reckless behavior is still held accountable.
+- Every error leads to suspension :: That is a blame culture.
+- Only mandatory reports are accepted :: Voluntary reporting is also needed.

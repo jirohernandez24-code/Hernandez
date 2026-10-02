@@ -1,0 +1,302 @@
+@unit 11 | Ethico-Moral Responsibility | The case of the right thing to do
+@note Bonus case file: you attached the Unit 11 PDF, so it is included here.
+
+# u11-ethics | Ethics | Ethico-Moral Responsibility (definition)
+> Ethics = the systematic study of what a person's conduct and action SHOULD be with regard to self, other human beings, and the environment; the justification of what is right or good, and the study of what a person's life and relationships should be, not necessarily what they are. Respect for people is the most basic and universal ethical principle.
+
+I1 | The systematic study of what a person's conduct and action should be with regard to self, other human beings, and the environment.
+= Ethics
+:: Ethics studies what conduct SHOULD be, not just what it is.
+
+I2 | According to the module, the most basic and universal ethical principle.
+= Respect for people | respect for persons | respect
+:: The module says respect for people is the most basic and universal ethical principle.
+
+M2 | Which statement matches the module's definition of ethics?
++ It studies what a person's life and relationships should be, not necessarily what they are :: Ethics is about what ought to be.
+- It describes only what people actually do :: Ethics looks at what people should do.
+- It is the same as the Labor Code :: The Labor Code is a law, not an ethical study.
+- It applies only to doctors :: Ethics applies to everyone.
+
+# u11-principles | Ethical principles | Ethico-Moral Responsibility › Ethical Principles
+> 1 Autonomy: self-determination and freedom of choice, accepting responsibility for one's decisions; supported by the legal right of self-determination (nurse supports the patient's informed choice even if he declines the recommended treatment). 2 Beneficence: actions to PROMOTE GOOD (advocating pain relief after surgery). 3 Nonmaleficence: actions to AVOID HARM (double-checking dose and history before giving meds). 4 Utility: the good of the many outweighs the wants or needs of the individual (prioritizing vaccination of high-risk groups in an outbreak). 5 Justice: fairness; treat equals equally and give fair treatment according to individual differences (equitable care regardless of status; advocating access for marginalized groups). 6 Veracity: obligation to tell the truth; honesty and transparency (telling the patient about side effects). 7 Fidelity: commitment to fulfilling promises (following protocols; keeping follow-up promises). 8 Confidentiality: keep privileged information private (secure records, share only with authorized personnel).
+~ "A Big Nurse Uses Just Very Fine Care": Autonomy, Beneficence, Nonmaleficence, Utility, Justice, Veracity, Fidelity, Confidentiality
+
+I1 | Ethical principle that promotes self-determination and freedom of choice.
+= Autonomy
+:: Autonomy = the patient decides for himself.
+
+I1 | Ethical principle: actions are taken in an effort to promote good.
+= Beneficence
+:: Beneficence = do good.
+
+I1 | Ethical principle: actions are taken in an effort to avoid harm.
+= Nonmaleficence | non-maleficence | non maleficence
+:: Nonmaleficence = do no harm.
+
+I2 | Ethical principle: the good of the many outweighs the wants or needs of the individual.
+= Utility
+:: Utility = the greatest good for the many.
+
+I2 | Ethical principle: seek fairness; treat equals equally and give fair treatment according to individual differences.
+= Justice
+:: Justice = fairness.
+
+I2 | Ethical principle: the obligation to tell the truth.
+= Veracity
+:: Veracity = truthfulness. Veritas means truth.
+
+I2 | Ethical principle: commitment to fulfilling promises.
+= Fidelity
+:: Fidelity = faithfulness to promises.
+
+I2 | Ethical principle: keep privileged information private.
+= Confidentiality | confidential
+:: Confidentiality = protect private information.
+! Source note: the module lists this principle as "Confidential". The standard term is "Confidentiality". Both are accepted here.
+
+MS2 | A patient with cancer understands the risks but refuses chemotherapy. The nurse respects his decision after making sure he is fully informed. Which principle is this?
++ Autonomy :: The nurse supports his right to make an informed choice, even against the recommendation. This is the module's autonomy example.
+- Beneficence :: Beneficence is promoting good. The key here is respecting his choice.
+- Utility :: Utility is about the good of the many.
+- Fidelity :: Fidelity is keeping promises.
+
+MS2 | A post-op patient is in pain. The nurse pushes for better pain management, reassesses often, and adjusts interventions for comfort. Which principle is this?
++ Beneficence :: The nurse acts to promote good (comfort and recovery). This is the module's beneficence example.
+- Nonmaleficence :: Nonmaleficence is avoiding harm, such as double-checking a dose.
+- Veracity :: Veracity is truth-telling.
+- Justice :: Justice is fair distribution of care.
+
+MS2 | Before giving a new medication, the nurse double-checks the dose and the patient's history to avoid an adverse reaction. Which principle is this?
++ Nonmaleficence :: The nurse is acting to avoid harm. This is the module's example.
+- Beneficence :: Beneficence actively promotes good. The focus here is preventing harm.
+- Autonomy :: Autonomy is about the patient's choice.
+- Fidelity :: Fidelity is keeping promises.
+
+MS2 | During a measles outbreak with limited vaccine, the public health nurse vaccinates the elderly and immunocompromised first to protect the whole community. Which principle is this?
++ Utility :: The good of the many is placed above individual wants. This is the module's utility example.
+- Justice :: Justice treats equals equally. The reasoning here is maximum benefit for the community.
+- Autonomy :: Individual choice is not the focus.
+- Veracity :: This is not about telling the truth.
+
+MS2 | A nurse makes sure a patient from an informal settlement gets the same quality of care as a paying private patient, and supports policies for health access of marginalized groups. Which principle is this?
++ Justice :: Fair, equitable care regardless of status is justice. This is the module's example.
+- Utility :: Utility is the good of the many over the individual.
+- Beneficence :: Beneficence promotes good. The focus here is fairness.
+- Confidentiality :: This is not about privacy.
+
+MS1 | A nurse honestly explains the possible side effects of a new medication so the patient can make an informed decision. Which principle is this?
++ Veracity :: Telling the truth clearly and honestly is veracity.
+- Fidelity :: Fidelity is keeping promises.
+- Autonomy :: The truth supports autonomy, but the act itself is truth-telling.
+- Nonmaleficence :: Nonmaleficence is avoiding harm.
+
+MS2 | A nurse promised a discharged patient she would call him in three days about his lab results. She calls him as promised. Which principle is this?
++ Fidelity :: Keeping promises made to patients is fidelity.
+- Veracity :: Veracity is telling the truth.
+- Justice :: Justice is fairness.
+- Utility :: Utility is the good of the many.
+
+MS2 | A nurse keeps medical records in a locked cabinet and only shares information with authorized personnel. Which principle is this?
++ Confidentiality :: Keeping privileged information private is confidentiality.
+- Fidelity :: Fidelity is keeping promises.
+- Veracity :: Veracity is truth-telling.
+- Justice :: Justice is fairness.
+
+# u11-code | Code of Ethics for Filipino Nurses (BON Res. 220, s. 2004) | Ethico-Moral Responsibility › Code of Ethics
+> BON Resolution No. 220, Series of 2004 promulgated the Code of Ethics for Registered Nurses. The 2004 Code guides Filipino nurses in competent, compassionate, ethical care and has 7 articles. I Preamble: health is a basic human right; nurses promote health and prevent illness, alleviate suffering, and support a peaceful death. II RNs and People: respect values, customs, and spiritual beliefs; confidentiality; empower informed decisions. III RNs and Practice: sanctity of human life; safe, effective, compassionate care; advocacy; accurate and truthful documentation. IV RNs and Co-workers: collaboration, respect, communication, integrity, honesty. V RNs, Society, and Environment: social justice, health equity, community health, environmental health and sustainability. VI RNs and the Profession: uphold integrity and standards; lifelong learning; credibility and public trust. VII Administrative Penalties, Repealing Clause, and Effectivity: violations may lead to suspension or revocation by the BON; the repealing clause annuls previous codes.
+
+I2 | BON Resolution that promulgated the Code of Ethics for Registered Nurses (give number and series).
+= BON Resolution No. 220 Series of 2004 | BON 220 s 2004 | Resolution 220 | 220 | BON Res 220
+:: BON Resolution No. 220, Series of 2004 promulgated the Code of Ethics for Registered Nurses.
+
+I1 | Number of articles in the Code of Ethics for Filipino Nurses.
+= 7 | seven
+:: The Code is structured around seven articles.
+
+I2 | Article of the Code of Ethics that says health is a basic human right (give the article name).
+= Preamble | Article I | Article 1
+:: Article I, the Preamble, recognizes health as a basic human right.
+
+I2 | Code of Ethics article about Registered Nurses and Co-workers (give the article number).
+= Article IV | Article 4 | IV | 4
+:: Article IV covers collaboration, respect, communication, and integrity with co-workers.
+
+M2 | Which Code of Ethics article covers violations leading to suspension or revocation of the license?
++ Article VII: Administrative Penalties, Repealing Clause, and Effectivity :: Article VII covers penalties determined by the Board of Nursing.
+- Article I: Preamble :: The Preamble states health as a basic right and the nurse's responsibilities.
+- Article IV: RNs and Co-workers :: That covers relationships with colleagues.
+- Article VI: RNs and the Profession :: That covers integrity and lifelong learning.
+
+MS2 | A nurse respects a Muslim patient's prayer schedule and dietary customs and keeps his diagnosis private. Which Code of Ethics article does this best match?
++ Article II: Registered Nurses and People :: Respecting values, customs, spiritual beliefs, and confidentiality is Article II.
+- Article V: RNs, Society, and Environment :: That is about social justice and environmental health.
+- Article VI: RNs and the Profession :: That is about integrity and lifelong learning.
+- Article VII: Administrative Penalties :: That is about penalties.
+
+MS2 | A nurse documents accurately and truthfully and defends her patient's right to respectful care. Which article fits best?
++ Article III: Registered Nurses and Practice :: Sanctity of life, quality care, advocacy, and accurate documentation are in Article III.
+- Article IV: RNs and Co-workers :: That covers relationships with colleagues.
+- Article I: Preamble :: The Preamble states the basic principles.
+- Article V: RNs, Society, and Environment :: That covers community and environment.
+
+MS2 | A nurse joins a barangay clean-up drive and promotes proper waste segregation in the clinic. Which article is she following?
++ Article V: Registered Nurses, Society, and Environment :: Community health and environmental health and sustainability are in Article V.
+- Article II: RNs and People :: That is about individual clients' values and privacy.
+- Article III: RNs and Practice :: That is about clinical practice.
+- Article VI: RNs and the Profession :: That is about the profession's integrity.
+
+MS2 | A nurse attends seminars every year to keep up with best practices and protect the profession's public trust. Which article is this?
++ Article VI: Registered Nurses and the Profession :: Lifelong learning and upholding the profession's credibility are Article VI.
+- Article III: RNs and Practice :: Practice covers direct care.
+- Article IV: RNs and Co-workers :: That is about colleagues.
+- Article VII: Administrative Penalties :: That is about penalties.
+
+M3 | What does the repealing clause in Article VII do?
++ It annuls previous codes so the current Code remains the governing standard :: The repealing clause annuls previous codes.
+- It allows nurses to choose which code to follow :: Only the current code governs.
+- It sets the salary of nurses :: Salaries are not part of the Code.
+- It lists patients' rights :: Patients' rights are in the Magna Carta of Patients' Rights.
+
+# u11-icn | ICN Code of Ethics | Ethico-Moral Responsibility › ICN Code of Ethics for Nurses
+> The International Council of Nursing (ICN) Code of Ethics for Nurses has four elements: 1 Nurses and patients or other people requiring care or services. 2 Nurses and practice. 3 Nurses and the profession. 4 Nurses and global health.
+
+I2 | Abbreviation of the International Council of Nursing.
+= ICN | International Council of Nursing | International Council of Nurses
+:: The ICN publishes the international Code of Ethics for Nurses.
+
+M2 | Which is one of the four elements of the ICN Code of Ethics?
++ Nurses and global health :: The four elements are nurses and patients, practice, the profession, and global health.
+- Nurses and labor unions :: Not one of the elements.
+- Nurses and medical tourism :: Not one of the elements.
+- Nurses and the Labor Code :: Not one of the elements.
+
+I2 | How many elements does the ICN Code of Ethics for Nurses have in the module?
+= 4 | four
+:: The module lists four elements.
+
+# u11-magna | Magna Carta of Patients' Rights (2008 Senate Bill 2371) | Ethico-Moral Responsibility › Magna Carta of Patient's Rights
+> 15 rights: 1 good quality health care and humane treatment; 2 dignity; 3 to be informed of rights and obligations; 4 choose physician or institution; 5 informed consent; 6 refuse diagnostic and medical treatment; 7 refuse participation in medical research; 8 religious belief and assistance; 9 privacy and confidentiality; 10 disclosure of and access to information; 11 correspondence and to receive visitors; 12 medical records; 13 health education; 14 leave against medical advice; 15 express grief.
+
+I2 | Senate Bill number of the 2008 Magna Carta of Patient's Rights and Obligations.
+= Senate Bill 2371 | SB 2371 | 2371
+:: The module cites the 2008 Senate Bill 2371.
+
+I2 | How many patient rights are listed in the module's Magna Carta of Patient's Rights?
+= 15 | fifteen
+:: The module lists 15 rights.
+
+MS2 | A patient insists on going home even though the doctor advises more days of treatment. Which patient right applies?
++ Right to leave against medical advice :: The Magna Carta lists the right to leave against medical advice.
+- Right to medical records :: That is access to his records.
+- Right to express grief :: That is about mourning.
+- Right to choose his physician :: He is not changing doctors.
+
+MS2 | A researcher asks a patient to join a drug trial. The patient says no, and his care continues normally. Which right is being respected?
++ Right to refuse participation in medical research :: The patient may refuse to join research.
+- Right to informed consent :: Consent is related, but the specific right is refusing research participation.
+- Right to correspondence :: That is about letters and visitors.
+- Right to health education :: That is about teaching.
+
+MS2 | A family wails loudly after their mother dies. The nurse gives them a private room and time instead of asking them to be quiet. Which right is being respected?
++ Right to express grief :: The Magna Carta includes the right to express grief.
+- Right to dignity :: Dignity is related, but grief has its own listed right.
+- Right to privacy and confidentiality :: The point is allowing grief.
+- Right to religious belief :: No religious request is mentioned.
+
+M2 | Which is NOT among the 15 rights in the module's Magna Carta of Patient's Rights?
++ Right to choose the nurse's work schedule :: Scheduling is a staffing matter, not a patient right.
+- Right to religious belief and assistance :: This is right 8.
+- Right to correspondence and to receive visitors :: This is right 11.
+- Right to health education :: This is right 13.
+
+I2 | Patient right that lets a patient decline a diagnostic test or medical treatment.
+= Right to refuse diagnostic and medical treatment | right to refuse treatment | right to refuse
+:: Right 6 is the right to refuse diagnostic and medical treatment.
+
+# u11-frameworks | Ethical frameworks | Ethico-Moral Responsibility › Ethical Frameworks
+> Frameworks do not give direct solutions; they help clarify the values and beliefs behind decisions. 1 Utilitarianism (teleological or consequentialist): focuses on OUTCOMES; the greatest good for the greatest number; the end justifies the means (fund local workshops for many staff instead of a national conference for a few). 2 Deontological theory (from Immanuel Kant): rightness or wrongness of actions regardless of consequences; some actions are inherently right or wrong; duty-based reasoning (actions obligatory because they fulfill a duty) and rights-based reasoning (people have rights or "just due" that must be respected) (administrator refuses a cost-cutting step that violates employee rights). 3 Intuitionism: individual judgment; intuition weighs goals, duties, and rights case by case; criticized as subjective and biased. 4 Ethical relativism: decisions align with the decision-maker's cultural values and personal beliefs. Ethical universalism: principles are absolute and apply regardless of personal or cultural differences.
+
+I2 | Ethical framework focusing on outcomes: the greatest good for the greatest number. Also called consequentialist theory.
+= Utilitarianism | utilitarian | teleological theory | consequentialist theory | consequentialism
+:: Utilitarianism judges actions by their results.
+
+I2 | Ethical framework that judges actions as right or wrong regardless of their consequences, rooted in Kant's philosophy.
+= Deontological theory | deontology | deontological
+:: Deontology is duty- and rights-based. Some acts are right or wrong in themselves.
+
+I2 | Philosopher whose ideas are the root of deontological theory.
+= Immanuel Kant | Kant | Emanuel Kant
+:: Deontological theory is rooted in Kant's philosophy.
+! Source note: the module spells the name "Emanuel Kant". The usual spelling is "Immanuel Kant". Both are accepted here.
+
+I2 | Ethical framework where the decision-maker uses intuition to weigh goals, duties, and rights in each unique case.
+= Intuitionism | intuition
+:: Intuitionism treats each case as unique. Critics say it can be subjective.
+
+I2 | Framework saying ethical decisions should align with the decision-maker's cultural values and personal beliefs.
+= Ethical relativism | relativism
+:: Relativism = right and wrong depend on culture and personal beliefs.
+
+I2 | Framework holding that ethical principles are absolute and apply regardless of personal or cultural differences.
+= Ethical universalism | universalism
+:: Universalism = the same rules apply to everyone, everywhere.
+
+MS2 | A manager uses the training budget to send 30 nurses to local workshops instead of sending 3 nurses to a national conference. Which framework is this?
++ Utilitarianism :: It aims for the greatest good for the greatest number. This is the module's example.
+- Deontological theory :: Deontology judges acts by duty and rights, not by the number who benefit.
+- Intuitionism :: The decision is based on maximizing benefit, not intuition.
+- Ethical relativism :: Culture is not the basis here.
+
+MS2 | An administrator refuses a cost-saving plan that would cut nurses' legally required rest breaks, even though it would save money. Which framework is this?
++ Deontological theory (rights-based reasoning) :: He respects employee rights regardless of the financial benefit. This is the module's example.
+- Utilitarianism :: Utilitarianism might accept the plan for the bigger financial good.
+- Ethical relativism :: Culture is not the basis here.
+- Intuitionism :: The decision rests on rights, not intuition.
+
+MS2 | In a unique situation with no clear rule, a manager relies on her sense of what feels ethically right to balance the needs of a patient and his family. Which framework is this?
++ Intuitionism :: Relying on intuition to weigh goals, duties, and rights in a unique case is intuitionism.
+- Utilitarianism :: She is not counting the greatest good for the most people.
+- Ethical universalism :: Universalism applies fixed rules to everyone.
+- Deontological theory :: She is not applying a fixed duty or right.
+
+M3 | What is the main criticism of intuitionism given in the module?
++ It risks subjectivity and bias :: Personal beliefs may cloud judgment.
+- It ignores outcomes completely :: That criticism fits deontology better.
+- It sidelines individual needs for the broader good :: That fits utilitarianism.
+- It is too rigid across cultures :: That fits universalism.
+
+M2 | In deontological theory, what are the two key components?
++ Duty-based reasoning and rights-based reasoning :: The module lists duty-based and rights-based reasoning.
+- Self-respect and respect from others :: These are self-esteem categories.
+- Outcome and process :: These are audit types.
+- Relativism and universalism :: These are a separate framework pair.
+
+MS3 | A nurse says, "Truth-telling is right in every culture, so I must tell this patient his diagnosis even if his family's custom is to hide it." Which framework is she using?
++ Ethical universalism :: She treats the principle as absolute regardless of cultural differences.
+- Ethical relativism :: Relativism would follow the family's cultural values.
+- Utilitarianism :: She is not weighing the greatest good for the most people.
+- Intuitionism :: She is applying a fixed principle, not case-by-case intuition.
+
+# u11-leadership | Ethical leadership in nursing | Ethico-Moral Responsibility › Ethical Leadership in Nursing
+> Human-centered focus: decision-making prioritizes the human aspect with sensitivity. Influence through values: leaders shape team actions by embodying strong values. Self-aware role models: leaders who know their ethical standards model integrity and confidence. Managing ambiguity: ethical leaders accept uncertainty and risk as part of complex decisions. Realistic approach: not all outcomes are predictable; keep a balanced, pragmatic view.
+
+I2 | Ethical leadership trait: leaders accept uncertainty and potential risks as natural parts of complex decision-making.
+= Managing ambiguity | ambiguity
+:: Ethical leaders can work with uncertainty.
+
+M2 | Which is one of the traits of ethical leadership in nursing listed in the module?
++ Self-aware role models :: The module lists human-centered focus, influence through values, self-aware role models, managing ambiguity, and realistic approach.
+- Competing for quick decisions :: That is a conflict strategy.
+- Avoiding uncertain situations :: Ethical leaders manage ambiguity.
+- Punishment without explanation :: That is not in the list.
+
+MS2 | A chief nurse admits that not every ethical decision will turn out well, so she stays balanced and practical when outcomes are uncertain. Which trait is this?
++ Realistic approach :: Recognizing that outcomes are not always predictable and staying pragmatic is the realistic approach.
+- Human-centered focus :: That is about prioritizing the human aspect.
+- Influence through values :: That is about shaping the team through values.
+- Self-aware role models :: That is about modeling integrity.
+
+I2 | Ethical leadership trait: decision-making prioritizes the human aspect, addressing complex moral issues with sensitivity.
+= Human-centered focus | human centered focus | human-centered | human centered
+:: Ethical leaders put people first.

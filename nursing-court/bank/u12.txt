@@ -1,0 +1,1159 @@
+@unit 12 | Legal Responsibilities | The case of the careless injection
+
+# u12-bonlaws | BON resolutions and CHED memo | Legal Responsibilities › Other Health-related Laws (BON and CHED)
+> BON 425 s.2003 = Implementing Rules and Regulations (IRR) of the Philippine Nursing Act of 2002 (RA 9173). BON 110 s.1998 = adoption of a guide to evaluate compliance with standards for safe nursing practice. BON 14 s.1999 = adoption of the Nursing Specialty Certification Program and creation of the Nurse Specialty Certification Council. BON 08 s.1994 = special training on IV injections for the RN. BON 38 s.2016 = new rules on the special training requirement in IV therapy for nurses, REPEALING BON 08 s.1994. CHED Memo 14 s.2009 = policies and standards for the BSN program.
+
+I2 | BON resolution that is the Implementing Rules and Regulations (IRR) of RA 9173.
+= BON 425 s. 2003 | BON 425 | 425 | BON Resolution 425
+:: BON 425, s. 2003 is the IRR of the Philippine Nursing Act of 2002.
+
+I2 | BON resolution (2016) that prescribes new rules for the special training requirement in IV therapy and repeals BON 08 s. 1994.
+= BON 38 s. 2016 | BON 38 | 38 | BON Resolution 38
+:: BON 38, s. 2016 replaced the old IV training rule (BON 08, s. 1994).
+
+I3 | BON resolution (1994) on special training on IV injections for the RN, later repealed.
+= BON 08 s. 1994 | BON 08 | BON 8 | 08 | 8
+:: BON 08, s. 1994 was repealed by BON 38, s. 2016.
+
+I3 | BON resolution (1999) that adopted the Nursing Specialty Certification Program and created the Nurse Specialty Certification Council.
+= BON 14 s. 1999 | BON 14 | 14
+:: BON 14, s. 1999 created the specialty certification program and council.
+
+I3 | BON resolution (1998) adopting a guide to evaluate compliance with standards for safe nursing practice.
+= BON 110 s. 1998 | BON 110 | 110
+:: BON 110, s. 1998 is the guide for evaluating compliance with safe nursing practice standards.
+
+I2 | CHED memorandum order (2009) on policies and standards for the BSN program.
+= CHED Memo 14 s. 2009 | CMO 14 | CHED Memo 14 | CHED Memorandum Order 14 | 14
+:: CHED Memo 14, s. 2009 sets the policies and standards for the BSN program.
+
+MS2 | A hospital's IV therapy training program for newly hired nurses must follow the current BON rules. Which issuance should it follow?
++ BON 38 s. 2016 :: BON 38, s. 2016 is the current rule. It repealed BON 08, s. 1994.
+- BON 08 s. 1994 :: This was repealed by BON 38, s. 2016.
+- BON 14 s. 1999 :: That is about specialty certification.
+- BON 110 s. 1998 :: That is a guide for evaluating safe practice compliance.
+
+M2 | Which issuance is the Implementing Rules and Regulations of the Philippine Nursing Act of 2002?
++ BON 425 s. 2003 :: BON 425, s. 2003 is the IRR of RA 9173.
+- BON 110 s. 1998 :: That is the compliance guide for safe nursing practice.
+- CHED Memo 14 s. 2009 :: That is for the BSN program.
+- RA 8981 :: That is the PRC Modernization Act.
+
+MS3 | A nurse wants to become a certified oncology nurse specialist through the national certification program. Which BON issuance created this program and its council?
++ BON 14 s. 1999 :: BON 14, s. 1999 adopted the Nursing Specialty Certification Program and created the Nurse Specialty Certification Council.
+- BON 425 s. 2003 :: That is the IRR of RA 9173.
+- BON 38 s. 2016 :: That is about IV therapy training.
+- CHED Memo 14 s. 2009 :: That is for the BSN program.
+
+M2 | A nursing school revises its BSN curriculum. Which issuance sets the policies and standards it must follow?
++ CHED Memo 14 s. 2009 :: CHED Memo 14, s. 2009 covers the BSN program's policies and standards.
+- BON 110 s. 1998 :: That is for evaluating safe nursing practice.
+- RA 7305 :: That is the Magna Carta of Public Health Workers.
+- RA 4226 :: That is the Hospital Licensure Act.
+
+# u12-ralaws | Republic Acts and other health laws | Legal Responsibilities › Other Health-related Laws (table)
+> RA 8981 PRC Modernization Act of 2000. RA 11036 Mental Health Act of 2018. RA 7305 Magna Carta of Public Health Workers. RA 6675 Generics Act of 1988. RA 9165 Comprehensive Dangerous Drugs Act of 2002. RA 8423 Traditional and Alternative Medicine Act of 1997. RA 10173 Data Privacy Act of 2012. RA 7877 Anti-Sexual Harassment Act of 1995. RA 7160 Local Government Code of 1991. RA 9288 Newborn Screening Act of 2004. RA 10028 Expanded Breastfeeding Promotion Act of 2009. RA 7600 Rooming-In and Breastfeeding Act of 1992. RA 8504 Philippine AIDS Prevention and Control Act of 1998. RA 11332 Mandatory Reporting of Notifiable Diseases and Health Events of Public Health Concern Act. RA 10918 Philippine Pharmacy Act. RA 8257 Expanded Senior Citizens Act of 2003 (as written). RA 9262 Anti-Violence Against Women and Their Children Act of 2004. RA 7610 Special Protection of Children Against Abuse, Exploitation and Discrimination Act. RA 10606 National Health Insurance Act of 2013. RA 4226 Hospital Licensure Act. RA 9003 Ecological Solid Waste Management Act of 2000. PD 996 s.1976 compulsory basic immunization for infants and children below 8 years of age. EO 51 s.1986 National Code of Marketing of Breastmilk Substitutes, Breastmilk Supplements and Related Products (Milk Code). RA 10354 Responsible Parenthood and Reproductive Health Act of 2012. RA 11223 Universal Health Care Act of 2019.
+
+I1 | Data Privacy Act of 2012.
+= RA 10173 | 10173 | republic act 10173
+:: RA 10173 protects personal information, including patient health data.
+
+I2 | PRC Modernization Act of 2000.
+= RA 8981 | 8981
+:: RA 8981 modernized the Professional Regulation Commission.
+
+I2 | Mental Health Act of 2018.
+= RA 11036 | 11036
+:: RA 11036 is the Mental Health Act of 2018.
+
+I2 | The Magna Carta of Public Health Workers.
+= RA 7305 | 7305
+:: RA 7305 covers the rights and benefits of public health workers.
+
+I2 | The Generics Act of 1988.
+= RA 6675 | 6675
+:: RA 6675 promotes the use of generic drug names.
+
+I2 | Comprehensive Dangerous Drugs Act of 2002.
+= RA 9165 | 9165
+:: RA 9165 regulates dangerous drugs.
+
+I3 | Traditional and Alternative Medicine Act of 1997.
+= RA 8423 | 8423
+:: RA 8423 covers traditional and alternative medicine.
+
+I2 | Anti-Sexual Harassment Act of 1995.
+= RA 7877 | 7877
+:: RA 7877 penalizes sexual harassment in work and education settings.
+
+I3 | Local Government Code of 1991.
+= RA 7160 | 7160
+:: RA 7160 is the Local Government Code, which devolved health services to LGUs.
+
+I2 | Newborn Screening Act of 2004.
+= RA 9288 | 9288
+:: RA 9288 requires newborn screening.
+
+I2 | Expanded Breastfeeding Promotion Act of 2009.
+= RA 10028 | 10028
+:: RA 10028 expanded breastfeeding promotion (2009).
+
+I2 | Rooming-In and Breastfeeding Act of 1992.
+= RA 7600 | 7600
+:: RA 7600 is the original Rooming-In and Breastfeeding Act (1992).
+
+I2 | Philippine AIDS Prevention and Control Act of 1998.
+= RA 8504 | 8504
+:: RA 8504 is the AIDS Prevention and Control Act of 1998.
+
+I3 | Mandatory Reporting of Notifiable Diseases and Health Events of Public Health Concern Act.
+= RA 11332 | 11332
+:: RA 11332 requires reporting of notifiable diseases.
+
+I3 | Philippine Pharmacy Act.
+= RA 10918 | 10918
+:: RA 10918 is the Philippine Pharmacy Act.
+
+I2 | Expanded Senior Citizens Act (as listed in the module, 2003).
+= RA 8257 | 8257
+:: The module lists RA 8257 as the Expanded Senior Citizens Act of 2003.
+! Source note: the module lists "RA 8257, Expanded Senior Citizens Act of 2003". The commonly cited Expanded Senior Citizens Act of 2003 is RA 9257. This item follows the module as written. Please verify the number with your professor.
+
+I2 | Anti-Violence Against Women and Their Children Act of 2004.
+= RA 9262 | 9262 | VAWC
+:: RA 9262 protects women and their children from violence.
+
+I2 | Special Protection of Children Against Abuse, Exploitation and Discrimination Act.
+= RA 7610 | 7610
+:: RA 7610 protects children from abuse.
+
+I2 | National Health Insurance Act of 2013.
+= RA 10606 | 10606
+:: RA 10606 is the National Health Insurance Act of 2013 (PhilHealth).
+
+I2 | Hospital Licensure Act.
+= RA 4226 | 4226
+:: RA 4226 requires hospitals to be licensed.
+
+I2 | Ecological Solid Waste Management Act of 2000.
+= RA 9003 | 9003
+:: RA 9003 covers solid waste management.
+
+I2 | Presidential Decree (1976) providing compulsory basic immunization for infants and children below 8 years of age.
+= PD 996 | 996 | PD 996 s. 1976
+:: PD 996, s. 1976 made basic immunization compulsory for children below 8.
+
+I2 | Executive Order (1986), the National Code of Marketing of Breastmilk Substitutes, Breastmilk Supplements and Related Products.
+= EO 51 | 51 | EO 51 s. 1986 | Milk Code
+:: EO 51, s. 1986 is the Milk Code.
+
+I2 | Responsible Parenthood and Reproductive Health Act of 2012.
+= RA 10354 | 10354 | RH Law
+:: RA 10354 is the RH Law.
+
+I2 | Universal Health Care Act of 2019.
+= RA 11223 | 11223 | UHC Act
+:: RA 11223 is the Universal Health Care Act.
+
+MS2 | A nurse posts a patient's lab results and full name in a group chat without consent. Which law is most directly violated?
++ RA 10173 (Data Privacy Act of 2012) :: RA 10173 penalizes unauthorized disclosure of personal and health information.
+- RA 7877 (Anti-Sexual Harassment Act) :: There is no harassment here.
+- RA 8981 (PRC Modernization Act) :: That modernized the PRC.
+- RA 9003 (Solid Waste Management Act) :: That covers waste.
+
+MS2 | A newborn is 48 hours old. The nurse collects a heel-prick blood sample before discharge to detect congenital metabolic disorders. Which law requires this?
++ RA 9288 (Newborn Screening Act of 2004) :: RA 9288 is the Newborn Screening Act.
+- RA 7600 (Rooming-In and Breastfeeding Act) :: That is about rooming-in and breastfeeding.
+- PD 996 (compulsory immunization) :: That is about vaccines.
+- RA 10354 (RH Law) :: That is about reproductive health and family planning.
+
+MS2 | A hospital keeps the newborn in the same room as the mother and supports exclusive breastfeeding right after delivery. Which 1992 law is the original basis?
++ RA 7600 (Rooming-In and Breastfeeding Act of 1992) :: RA 7600 is the 1992 rooming-in law.
+- RA 10028 (Expanded Breastfeeding Promotion Act of 2009) :: That is the 2009 expanded law, not the 1992 one.
+- EO 51 (Milk Code) :: That regulates marketing of breastmilk substitutes.
+- RA 9288 (Newborn Screening Act) :: That is about screening.
+
+MS2 | A milk formula sales agent gives free formula samples and posters to mothers in the postpartum ward. Which issuance regulates this?
++ EO 51 s. 1986 (Milk Code) :: The Milk Code regulates marketing of breastmilk substitutes and supplements.
+- RA 7600 :: That is about rooming-in.
+- RA 6675 :: That is the Generics Act.
+- RA 9165 :: That is about dangerous drugs.
+
+MS2 | A company sets up lactation stations and gives breaks to working mothers to express milk. Which 2009 law expanded breastfeeding promotion?
++ RA 10028 (Expanded Breastfeeding Promotion Act of 2009) :: RA 10028 is the 2009 expanded breastfeeding law.
+- RA 7600 :: That is the 1992 original law.
+- RA 10354 :: That is the RH Law.
+- RA 7305 :: That is the Magna Carta of Public Health Workers.
+
+MS2 | A doctor writes "paracetamol 500 mg" using the generic name on every prescription. Which law requires this?
++ RA 6675 (Generics Act of 1988) :: RA 6675 promotes the use of generic names.
+- RA 10918 (Pharmacy Act) :: That regulates pharmacy practice.
+- RA 9165 (Dangerous Drugs Act) :: That is about dangerous drugs.
+- RA 8423 (Traditional and Alternative Medicine Act) :: That is about traditional medicine.
+
+MS2 | A nurse keeps morphine in a double-locked cabinet and counts it at every shift. Which law regulates these controlled drugs?
++ RA 9165 (Comprehensive Dangerous Drugs Act of 2002) :: RA 9165 regulates dangerous drugs like opioids.
+- RA 6675 :: That is the Generics Act.
+- RA 11332 :: That is about notifiable diseases.
+- RA 4226 :: That is about hospital licensing.
+
+MS2 | A nurse in the RHU reports a confirmed dengue death to the epidemiology surveillance unit as required. Which law makes this reporting mandatory?
++ RA 11332 (Mandatory Reporting of Notifiable Diseases and Health Events of Public Health Concern Act) :: RA 11332 requires reporting of notifiable diseases.
+- RA 8504 :: That is the AIDS Prevention and Control Act.
+- RA 10173 :: The Data Privacy Act protects data. Disease reporting is required by RA 11332.
+- RA 7160 :: That is the Local Government Code.
+
+MS2 | An HIV counseling nurse keeps test results confidential and follows rules on HIV prevention education. Which 1998 law covers this?
++ RA 8504 (Philippine AIDS Prevention and Control Act of 1998) :: RA 8504 is the 1998 AIDS law in the module.
+- RA 11036 :: That is the Mental Health Act.
+- RA 11332 :: That is the notifiable disease reporting law.
+- RA 9262 :: That is the anti-VAWC law.
+
+MS2 | A psychiatric nurse explains to a patient his rights in mental health care. Which law sets these rights?
++ RA 11036 (Mental Health Act of 2018) :: RA 11036 is the Mental Health Act.
+- RA 7305 :: That is for public health workers.
+- RA 8504 :: That is the AIDS law.
+- RA 7610 :: That protects children from abuse.
+
+MS2 | A public health nurse in a rural health unit asks about her hazard pay and benefits as a government health worker. Which law covers this?
++ RA 7305 (Magna Carta of Public Health Workers) :: RA 7305 covers benefits of public health workers.
+- RA 10606 :: That is the National Health Insurance Act.
+- RA 11223 :: That is the UHC Act.
+- RA 8981 :: That is the PRC Modernization Act.
+
+MS2 | A woman comes to the ER with bruises and says her husband beats her and their child. Which law specifically protects her and her child?
++ RA 9262 (Anti-Violence Against Women and Their Children Act of 2004) :: RA 9262 protects women and their children from violence.
+- RA 7877 :: That is about sexual harassment.
+- RA 8257 :: That is about senior citizens (as listed in the module).
+- RA 7600 :: That is about rooming-in.
+
+MS2 | A school nurse discovers that a 10-year-old is being forced to work and is being abused. Which law gives special protection to children against abuse and exploitation?
++ RA 7610 :: RA 7610 is the Special Protection of Children Against Abuse, Exploitation and Discrimination Act.
+- RA 9262 :: That protects women and their children from violence by an intimate partner.
+- PD 996 :: That is about immunization.
+- RA 9288 :: That is about newborn screening.
+
+MS2 | A supervisor makes repeated sexual remarks to a nurse and asks for favors in exchange for a good evaluation. Which law covers this?
++ RA 7877 (Anti-Sexual Harassment Act of 1995) :: RA 7877 penalizes sexual harassment at work.
+- RA 9262 :: That is about violence against women by a partner.
+- RA 10173 :: That is the Data Privacy Act.
+- RA 7305 :: That is the Magna Carta of Public Health Workers.
+
+MS2 | A mother asks why her 6-year-old must complete his basic vaccines. Which issuance makes basic immunization compulsory for children below 8 years?
++ PD 996 s. 1976 :: PD 996 provides compulsory basic immunization for infants and children below 8.
+- RA 9288 :: That is about newborn screening.
+- EO 51 :: That is the Milk Code.
+- RA 11223 :: That is the UHC Act.
+
+MS2 | A hospital segregates infectious waste, recyclables, and biodegradables in color-coded bins. Which law on solid waste is the basis?
++ RA 9003 (Ecological Solid Waste Management Act of 2000) :: RA 9003 covers solid waste management.
+- RA 4226 :: That is about hospital licensing.
+- RA 7160 :: That is the Local Government Code.
+- RA 8423 :: That is about traditional and alternative medicine.
+
+MS2 | A new hospital cannot operate until it is licensed. Which law requires hospital licensure?
++ RA 4226 (Hospital Licensure Act) :: RA 4226 is the Hospital Licensure Act.
+- RA 10606 :: That is the National Health Insurance Act.
+- RA 8981 :: That is the PRC Modernization Act.
+- RA 9003 :: That is about waste.
+
+MS2 | Every Filipino is automatically enrolled in the national health insurance program and gets better access to care. Which 2019 law is this?
++ RA 11223 (Universal Health Care Act of 2019) :: RA 11223 is the UHC Act.
+- RA 10606 :: That is the National Health Insurance Act of 2013.
+- RA 10354 :: That is the RH Law.
+- RA 7305 :: That is for public health workers.
+
+M3 | Which pair is correctly matched?
++ RA 10606: National Health Insurance Act of 2013 :: RA 10606 is the National Health Insurance Act of 2013.
+- RA 10606: Universal Health Care Act of 2019 :: The UHC Act is RA 11223.
+- RA 11223: Data Privacy Act :: The Data Privacy Act is RA 10173.
+- RA 10173: Mental Health Act :: The Mental Health Act is RA 11036.
+
+MS2 | A couple in a barangay health center receives free family planning counseling and contraceptives. Which law supports this?
++ RA 10354 (Responsible Parenthood and Reproductive Health Act of 2012) :: RA 10354 is the RH Law.
+- RA 7600 :: That is about rooming-in.
+- RA 9288 :: That is about newborn screening.
+- PD 996 :: That is about immunization.
+
+MS2 | A patient uses herbal medicine and acupuncture from a licensed practitioner. Which law regulates traditional and alternative medicine?
++ RA 8423 (Traditional and Alternative Medicine Act of 1997) :: RA 8423 is the TAMA law.
+- RA 6675 :: That is the Generics Act.
+- RA 10918 :: That is the Pharmacy Act.
+- RA 9165 :: That is the Dangerous Drugs Act.
+
+MS3 | Health services such as rural health units were devolved to local governments. Which 1991 law made this happen?
++ RA 7160 (Local Government Code of 1991) :: RA 7160 is the Local Government Code.
+- RA 7305 :: That is the Magna Carta of Public Health Workers.
+- RA 11223 :: That is the UHC Act.
+- RA 4226 :: That is the Hospital Licensure Act.
+
+M2 | A pharmacist's practice and the dispensing of medicines are regulated by which law?
++ RA 10918 (Philippine Pharmacy Act) :: RA 10918 is the Philippine Pharmacy Act.
+- RA 6675 :: That is the Generics Act.
+- RA 9165 :: That is the Dangerous Drugs Act.
+- RA 8981 :: That is the PRC Modernization Act.
+
+M2 | Which law modernized the Professional Regulation Commission?
++ RA 8981 :: RA 8981 is the PRC Modernization Act of 2000.
+- RA 9173 :: That is the Philippine Nursing Act of 2002.
+- RA 7160 :: That is the Local Government Code.
+- RA 10918 :: That is the Pharmacy Act.
+
+MS2 | A 70-year-old patient asks for his discount on medicines. Which law in the module covers senior citizens' benefits?
++ RA 8257 (Expanded Senior Citizens Act of 2003, as listed) :: The module lists RA 8257 as the Expanded Senior Citizens Act of 2003.
+- RA 7610 :: That protects children.
+- RA 9262 :: That protects women and children from violence.
+- RA 7305 :: That is for public health workers.
+! Source note: the module lists RA 8257 for the Expanded Senior Citizens Act of 2003. The commonly cited number is RA 9257. Follow the number your professor uses.
+
+# u12-laborcode | PD 442 Labor Code: purposes and key concepts | Legal Responsibilities › Presidential Decree No. 442
+> Purposes: promote the rights of workers, ensure fair labor standards, encourage productive labor relations. Key concepts: recruitment and placement; prohibits discrimination based on race, color, sex, religion, political opinion; minimum wage, hours of work, overtime pay; health, safety, welfare standards; rest days, holidays, leaves; compensation for work-related injuries and illnesses; rights of employees and employers; collective bargaining and labor unions; labor disputes and strikes; establishes DOLE to oversee labor laws; powers and duties of labor officers; employment of women and minors; vocational training and skills development. For nurses, PD 442 supports fair working conditions, professional growth, and well-being, which improves healthcare quality.
+
+I1 | Presidential Decree known as the Labor Code of the Philippines.
+= PD 442 | 442 | Presidential Decree 442
+:: PD 442 is the Labor Code of the Philippines.
+
+I2 | Department established by the Labor Code to oversee labor laws (abbreviation).
+= DOLE | Department of Labor and Employment
+:: DOLE oversees labor laws.
+
+M2 | Which is one of the three purposes of PD 442?
++ To encourage productive labor relations :: The three purposes: promote workers' rights, ensure fair labor standards, encourage productive labor relations.
+- To license hospitals :: That is RA 4226.
+- To regulate dangerous drugs :: That is RA 9165.
+- To set nursing curricula :: That is CHED.
+
+M2 | Under the Labor Code, discrimination is prohibited on which grounds?
++ Race, color, sex, religion, political opinion :: The module lists these grounds.
+- Only age and height :: These are not the listed grounds.
+- Board rating and school :: These are not the listed grounds.
+- Number of children only :: This is not a listed ground.
+
+MS2 | A hospital refuses to hire a qualified nurse because of her religion. Which part of PD 442 is violated?
++ Prohibition of discrimination based on race, color, sex, religion, political opinion :: Religion is one of the listed grounds.
+- Night shift differential :: That is about pay for night work.
+- Undertime not offset by overtime :: That is about hours.
+- Service incentive leave :: That is about leave.
+
+M2 | Which is NOT among the key concepts of PD 442 in the module?
++ Licensing of nursing schools :: CHED handles nursing schools. This is not in the Labor Code list.
+- Compensation for work-related injuries and illnesses :: This is listed.
+- Employment of women and minors :: This is listed.
+- Vocational training and skills development :: This is listed.
+
+# u12-articles | Labor Code articles on hours, pay, holidays, leave | Legal Responsibilities › Articles 83 to 95
+> Art. 83 Normal hours of work: 8 hours/day; health personnel in cities/municipalities with 1 million+ population: 8 hours/day, 5 days/week OR 40 hours/week, with extra pay beyond; includes public health nurses, government hospital doctors, clinic personnel. Art. 84 Hours worked: time required on duty, time permitted or suffered to work, and short rest breaks controlled by the employer. Art. 86 Night shift differential: 10 PM to 6 AM, at least 10% additional pay per hour. Art. 87 Overtime: beyond 8 hours/day, at least 25% premium on the hourly rate; higher on rest day or holiday (usually 30%+). Art. 88 Undertime cannot be offset by overtime (leaving early today cannot be paid back by overtime tomorrow). Art. 94 Holiday pay: 100% of daily wage even if not working; worked on a regular holiday = 200%; holiday that falls on a rest day and worked = 260%. Art. 95 Service incentive leave: at least 1 year of service = 5 days with pay per year; vacation or sick; unused SIL converted to cash.
+~ 83 hours, 84 what counts, 86 night, 87 overtime, 88 no offset, 94 holiday, 95 leave
+
+I1 | Normal hours of work per day under Article 83.
+= 8 | eight | 8 hours | eight hours
+:: Article 83 sets 8 hours per day.
+
+I2 | Labor Code article on normal hours of work.
+= Article 83 | Art 83 | 83
+:: Article 83 = normal hours of work.
+
+I2 | Labor Code article on night shift differential.
+= Article 86 | Art 86 | 86
+:: Article 86 = night shift differential.
+
+I2 | Labor Code article on overtime work.
+= Article 87 | Art 87 | 87
+:: Article 87 = overtime work.
+
+I2 | Labor Code article saying undertime cannot be offset by overtime.
+= Article 88 | Art 88 | 88
+:: Article 88 = undertime not offset by overtime.
+
+I2 | Labor Code article on holiday pay.
+= Article 94 | Art 94 | 94
+:: Article 94 = holiday pay.
+
+I2 | Labor Code article on service incentive leave.
+= Article 95 | Art 95 | 95
+:: Article 95 = service incentive leave.
+
+I3 | Labor Code article that defines what counts as hours worked.
+= Article 84 | Art 84 | 84
+:: Article 84 = hours worked.
+
+I2 | Minimum additional pay for every hour of night work under Article 86 (percent).
+= 10% | 10 | ten percent | 10 percent
+:: Night shift differential is at least 10% more per hour.
+
+I2 | Minimum overtime premium on the hourly rate under Article 87 (percent).
+= 25% | 25 | twenty-five percent | 25 percent
+:: Overtime is at least 25% more than the hourly rate.
+
+I2 | Number of days of service incentive leave with pay per year under Article 95.
+= 5 | five | 5 days | five days
+:: After at least one year of service, the employee gets 5 days SIL with pay.
+
+M2 | Under Article 86, night shift differential covers work between which hours?
++ 10:00 PM and 6:00 AM :: Article 86 covers 10 PM to 6 AM.
+- 6:00 PM and 6:00 AM :: The module says 10 PM to 6 AM.
+- 11:00 PM and 7:00 AM :: The module says 10 PM to 6 AM.
+- 12:00 AM and 8:00 AM :: The module says 10 PM to 6 AM.
+
+MS2 | Public health nurses in a city of 1.5 million people ask about their work hours. Under Article 83, what applies?
++ 8 hours a day for 5 days a week, or 40 hours a week, with additional pay beyond that :: Article 83 sets this for health personnel in cities or municipalities with 1 million+ population.
+- 12 hours a day for 3 days a week only :: Not in Article 83.
+- 8 hours a day, 7 days a week :: Article 83 limits them to 5 days or 40 hours.
+- No fixed hours, because health work is an emergency service :: Article 83 sets fixed hours.
+
+M3 | Under Article 83, the 40-hour/5-day rule applies to health personnel in cities or municipalities with a population of at least:
++ 1 million :: The module says 1 million or more.
+- 100,000 :: The module says 1 million.
+- 500,000 :: The module says 1 million.
+- 10 million :: The module says 1 million.
+
+MS2 | During her 8-hour shift, a nurse takes a 10-minute coffee break, but the head nurse requires her to stay on the floor and answer call lights. Under Article 84, does the break count as hours worked?
++ Yes. Short rest breaks controlled by the employer count as hours worked. :: Article 84 includes short employer-controlled breaks.
+- No. Breaks never count as hours worked. :: Article 84 says short breaks controlled by the employer do count.
+- Only if she was eating. :: Eating is not the test. Employer control is.
+- Only if the break is longer than 1 hour. :: Article 84 talks about short breaks.
+
+MS2 | A nurse's hourly rate is ₱200. She works 2 hours of ordinary-day overtime. Under Article 87, what is the MINIMUM she should be paid for those 2 hours?
++ ₱500 (₱250 per hour, a 25% premium) :: At least 25% premium: ₱200 x 1.25 = ₱250 per hour, so ₱500 for 2 hours.
+- ₱400 (no premium) :: Overtime must have at least 25% premium.
+- ₱440 (10% premium) :: 10% is the night shift differential.
+- ₱800 (100% premium) :: The minimum ordinary-day premium is 25%.
+
+MS2 | A nurse left 2 hours early on Monday. On Tuesday, she worked 2 hours overtime. The hospital says the overtime "cancels out" Monday's undertime, so no overtime pay. What does the Labor Code say?
++ This is not allowed. Under Article 88, undertime cannot be offset by overtime. :: She must still get overtime pay for Tuesday.
+- This is allowed under Article 87. :: Article 87 sets the overtime premium. It does not allow offsetting.
+- This is allowed if the nurse agrees verbally. :: Article 88 does not allow offsetting.
+- This is allowed only for night shift. :: Article 88 applies to all shifts.
+
+MS2 | It is a regular holiday and the nurse is NOT scheduled to work. Under Article 94, how much does she get?
++ 100% of her daily wage :: On regular holidays, employees get 100% even if not working.
+- Nothing, because she did not work :: Article 94 gives 100% even without work.
+- 200% of her daily wage :: 200% is for working on the holiday.
+- 260% of her daily wage :: 260% is for working on a holiday that falls on a rest day.
+
+MS2 | A nurse works on Independence Day (June 12), a regular holiday that is NOT her rest day. Under Article 94, how much does she get for that day?
++ 200% of her daily wage :: Working on a regular holiday = 200%.
+- 100% of her daily wage :: 100% is for not working on the holiday.
+- 125% of her daily wage :: That is not the holiday rate in the module.
+- 260% of her daily wage :: 260% is when the holiday also falls on her rest day.
+
+MS3 | A nurse's rest day is Sunday. Rizal Day (December 30) falls on Sunday, and she is called in to work. Under Article 94, how much does she get?
++ 260% of her daily wage :: Working on a regular holiday that falls on the rest day = 260%.
+- 200% of her daily wage :: 200% is for a holiday that is not her rest day.
+- 130% of her daily wage :: Not the rate given in the module for this case.
+- 100% of her daily wage :: 100% is for not working.
+
+I2 | Under Article 94, pay rate if the employee works on a regular holiday that falls on her rest day (percent).
+= 260% | 260 | 260 percent
+:: Holiday + rest day + worked = 260%.
+
+M2 | Which of these is listed as a regular holiday in the module's Article 94?
++ The twelfth of June :: June 12 is in the list.
+- The fourteenth of February :: Not in the list.
+- The first of September :: Not in the list.
+- The twenty-fourth of December :: Not in the list. December 25, 30, and 31 are listed.
+! Source note: the module's holiday list reads: New Year's Day, Maundy Thursday, Good Friday, the ninth of April, the first of May, the twelfth of June, last Sunday of August, first of November, the thirtieth of November, the twenty-fifth and the thirtieth of December, thirty-first of December, and the day designated by law for a general election. Questions use this list as written.
+
+I3 | Under the module's Article 94 list, which day in August is a regular holiday?
+= Last Sunday of August | last Sunday | National Heroes Day
+:: The module lists the last Sunday of August.
+
+MS2 | A nurse has worked at a private hospital for 14 months. She has not used any leave this year. Under Article 95, what is she entitled to?
++ 5 days of service incentive leave with pay; unused leave is converted to cash :: After at least 1 year: 5 days SIL; unused SIL must be converted to cash.
+- 15 days of vacation leave by law :: The Labor Code SIL in the module is 5 days.
+- Nothing until she has worked 5 years :: The requirement is at least 1 year.
+- 5 days leave that are forfeited if unused :: Unused SIL must be converted to cash.
+
+M2 | Under Article 95, how may service incentive leave be used?
++ For vacation or sick leave :: The module says SIL may be used for vacation or sick leave.
+- Only for maternity leave :: Not stated.
+- Only for union activities :: Not stated.
+- Only after retirement :: Not stated.
+
+M2 | Under Article 87, if overtime is done on a rest day or holiday, what is the premium?
++ Higher, usually 30% or more depending on the day :: The module says the premium is higher, usually 30%+.
+- Lower than on an ordinary day :: It is higher.
+- Exactly 10% :: 10% is the night shift differential.
+- No premium at all :: Overtime always has a premium.
+
+# u12-contract | Employment contracts | Legal Responsibilities › Contract
+> Contracts define the rights, duties, and obligations of employer and employee. Work contracts are governed by the Civil Code of the Philippines (RA 386). Art. 1305: a contract is a meeting of the minds between two or more persons, where one agrees to perform an act in exchange for the other's promise or compensation. Art. 1318 key elements: consent (both agree voluntarily), object (lawful work or duties), cause (legal reason, like compensation). Art. 1306 freedom to contract: terms must not conflict with law, morals, or public policy; employers cannot impose illegal or exploitative terms (wages below minimum, hazardous conditions). Employer obligations: pay salary, safe working conditions, respect labor rights. Employee obligations: perform duties with diligence and integrity. Example: a nurse's contract requires 40 hours/week and care for assigned patients; the hospital provides fair pay and a safe environment. Breach: employer breach (fails to pay salary or provide a safe environment), employee breach (fails to fulfill duties without valid reason). Remedies: damages or reinstatement (a nurse terminated without valid cause may claim back pay or reinstatement). Termination: mutual consent, completion of employment period, or breach. Grounds: authorized causes (economic reasons, downsizing, redundancy) vs just causes (misconduct, neglect of duty, dishonesty).
+
+I2 | Law that governs work contracts in the Philippines (give the RA number of the Civil Code).
+= RA 386 | 386 | Civil Code | Civil Code of the Philippines
+:: The Civil Code of the Philippines is RA 386.
+
+I2 | Civil Code article defining a contract as a meeting of the minds between two or more persons.
+= Article 1305 | Art 1305 | 1305
+:: Article 1305 defines a contract.
+
+I2 | A contract is a "meeting of the ____" between two or more persons.
+= Minds | the minds
+:: A contract is a meeting of the minds.
+
+I2 | Civil Code article listing the key elements of a contract: consent, object, and cause.
+= Article 1318 | Art 1318 | 1318
+:: Article 1318 lists consent, object, and cause.
+
+I2 | Civil Code article on freedom to contract.
+= Article 1306 | Art 1306 | 1306
+:: Article 1306 = freedom to contract within law, morals, and public policy.
+
+I2 | Element of a contract: both parties must voluntarily agree to the terms.
+= Consent
+:: Consent = voluntary agreement.
+
+I2 | Element of a contract: it must have a legal reason, like employment compensation.
+= Cause
+:: Cause = the legal reason for the contract.
+
+M2 | Under Article 1318, which element means the contract must specify lawful work or duties?
++ Object :: Object = lawful work or duties.
+- Consent :: Consent = voluntary agreement.
+- Cause :: Cause = the legal reason, such as compensation.
+- Damages :: Damages are a remedy for breach.
+
+MS2 | A hospital's contract says nurses will be paid below the minimum wage, and the nurse signs it. Is this term valid?
++ No. Under Article 1306, terms cannot conflict with law, so wages below minimum are not allowed. :: Freedom to contract has limits: law, morals, and public policy.
+- Yes, because the nurse signed it :: Signing does not make an illegal term valid.
+- Yes, under Article 1318 :: Article 1318 lists elements. It does not allow illegal terms.
+- Yes, if the hospital is private :: Private hospitals must also follow the law.
+
+MS2 | A hospital stops paying a nurse's salary for two months. What is this?
++ Employer breach of contract :: Failure to pay salary is the module's example of employer breach.
+- Employee breach of contract :: The nurse did nothing wrong.
+- Force majeure :: Not paying salary is not an act of God.
+- An authorized cause for termination :: Authorized causes are economic reasons, downsizing, or redundancy.
+
+MS2 | A nurse stops coming to work without any valid reason and leaves her patients unattended. What is this?
++ Employee breach of contract :: Failing to fulfill duties without valid reason is employee breach.
+- Employer breach :: The hospital did nothing wrong.
+- Mutual consent termination :: There was no agreement.
+- Completion of employment period :: Her contract did not end.
+
+MS2 | A nurse is fired without valid cause. What remedy does the module mention?
++ She may claim back pay or reinstatement :: The module's example: back pay or reinstatement.
+- She must pay the hospital damages :: She is the injured party.
+- She has no remedy if the hospital is private :: The Civil Code and labor laws give remedies.
+- She can only file a complaint with the BON :: The remedy is through the Civil Code and labor laws.
+
+I2 | Grounds for termination such as economic reasons, downsizing, and redundancy.
+= Authorized causes | authorized cause | authorized
+:: Authorized causes are business reasons, not the employee's fault.
+
+I2 | Grounds for termination such as misconduct, neglect of duty, and dishonesty.
+= Just causes | just cause | just
+:: Just causes come from the employee's own wrongdoing.
+
+MS3 | A private hospital closes its pediatric ward due to financial losses and lays off the pedia nurses. What ground for termination is this?
++ Authorized cause :: Economic reasons and downsizing are authorized causes.
+- Just cause :: Just causes are the employee's misconduct, neglect, or dishonesty.
+- Employee breach :: The nurses did nothing wrong.
+- Mutual consent :: The nurses did not agree to leave.
+
+MS2 | A nurse is caught falsifying her time records repeatedly. The hospital terminates her. What ground is this?
++ Just cause (dishonesty) :: Dishonesty is a just cause.
+- Authorized cause :: Authorized causes are economic reasons, downsizing, redundancy.
+- Force majeure :: This is not an act of God.
+- Completion of contract :: Her contract did not end.
+
+M2 | Which is NOT one of the ways a contract may be terminated, according to the module?
++ Verbal order of a co-worker :: The module lists mutual consent, completion of the employment period, or breach.
+- Mutual consent :: Listed.
+- Completion of the employment period :: Listed.
+- Breach of contract :: Listed.
+
+M2 | According to the module, what are the employer's obligations in an employment contract?
++ Pay salary, ensure safe working conditions, respect employee rights under labor laws :: These are the employer's listed obligations.
+- Perform duties with diligence and integrity :: That is the employee's obligation.
+- Choose the employee's religion :: Discrimination is prohibited.
+- Train employees to become doctors :: Not an obligation.
+
+# u12-union | Collective bargaining and labor unions | Legal Responsibilities › Collective Bargaining / Labor Union
+> Collective bargaining = negotiation between employers and a group of employees (usually a union) to set conditions, wages, benefits, and other terms; protected and regulated under PD 442. Labor union = an organization of employees in an industry or sector that collectively negotiates with the employer; a unified voice with more leverage. Art. 243: right to self-organization (form, join, or assist unions). Art. 252: duty of employer and the recognized representative to bargain in good faith. Arts. 234 and 235: forming and registering unions with DOLE; registration gives legal standing to represent members. Art. 248 (employers) and Art. 249 (unions): unfair labor practices. Employers: interfering with union activities, discriminating for union involvement, refusing to bargain with the recognized union. Unions: coercion or discrimination against non-union members. For nurses: unions can advocate safer working conditions, staffing levels, fair wages, and job security.
+
+I2 | Process of negotiation between employers and a group of employees (usually a union) to set conditions, wages, benefits, and other terms.
+= Collective bargaining
+:: Collective bargaining gives employees a voice in their workplace.
+
+I2 | Organization formed by employees in an industry or sector to collectively negotiate with the employer.
+= Labor union | union | labor unions
+:: A labor union gives employees a unified voice.
+
+I2 | Labor Code article granting the right to self-organization.
+= Article 243 | Art 243 | 243
+:: Article 243 = right to form, join, or assist unions.
+
+I2 | Labor Code article on the duty to bargain in good faith.
+= Article 252 | Art 252 | 252
+:: Article 252 = duty to bargain in good faith.
+
+I3 | Labor Code articles on forming and registering labor unions with DOLE.
+= Articles 234 and 235 | 234 and 235 | Art 234 and 235 | 234-235
+:: Articles 234 and 235 cover forming and registering unions.
+
+I2 | Labor Code article listing unfair labor practices of EMPLOYERS.
+= Article 248 | Art 248 | 248
+:: Article 248 = employer unfair labor practices.
+
+I2 | Labor Code article listing unfair labor practices of UNIONS.
+= Article 249 | Art 249 | 249
+:: Article 249 = union unfair labor practices.
+
+MS2 | Hospital management threatens to fire nurses who join the new union and refuses to meet the recognized union. Which article lists these as unfair labor practices?
++ Article 248 (unfair labor practices of employers) :: Interfering with union activities, discrimination, and refusing to bargain are employer ULPs.
+- Article 249 :: That is for union ULPs.
+- Article 243 :: That grants the right to self-organize.
+- Article 95 :: That is service incentive leave.
+
+MS2 | A nurses' union pressures and insults nurses who refuse to join, and blocks them from shift swaps. What is this?
++ An unfair labor practice by the union (Article 249) :: Coercion or discrimination against non-union members is a union ULP.
+- An unfair labor practice by the employer (Article 248) :: The union, not the employer, did this.
+- The right to self-organization (Article 243) :: Self-organization does not allow coercion.
+- Mobbing only, with no labor law issue :: The module classifies this as a union unfair labor practice.
+
+MS2 | A group of staff nurses wants their union to be legally recognized so it can represent them in bargaining. What must they do?
++ Meet the requirements and register the union with DOLE (Articles 234 and 235) :: Registration with DOLE gives legal standing.
+- Register it with the PRC :: The PRC regulates professions, not unions.
+- Get approval from the hospital owner :: Recognition comes from DOLE registration.
+- Register it with PhilHealth :: PhilHealth is the national insurer.
+
+M2 | Under Article 252, what must both the employer and the recognized bargaining representative do?
++ Meet and negotiate in good faith to reach an agreement on wages, hours, and working conditions :: This is the duty to bargain in good faith.
+- Avoid meeting until a strike happens :: Good faith requires meeting.
+- Let the employer decide everything alone :: Bargaining is mutual.
+- Submit all disputes to the BON :: The BON regulates nursing practice.
+
+M2 | Under PD 442, collective bargaining in the Philippines is:
++ Protected and regulated under the Labor Code :: The module says collective bargaining is protected and regulated under PD 442.
+- Illegal for nurses :: Healthcare workers have the right to organize (Art. 243).
+- Regulated only by the Civil Code :: The module says the Labor Code.
+- Allowed only in government hospitals :: The module does not say this.
+
+# u12-negligence | Professional negligence | Legal Responsibilities › Professional Negligence
+> Negligence = the commission or omission of an act, pursuant to a duty, that a reasonably prudent person in the same or similar circumstance would or would not do, which is the proximate cause of injury to another person or property. Elements: (1) existence of a duty to use due care, (2) failure to meet the standard of due care, (3) foreseeability of harm from that failure, (4) the breach resulted in injury to the plaintiff. Professional negligence = failure to give the standard of care that a reasonably prudent professional would under similar circumstances. Common acts: burns (hot water bags, heat lamps, vaporizers, sitz bath); objects left inside the patient (sponges, suction tips, loose dentures in the trachea); falls of the elderly, confused, unconscious, sedated, or not-yet-recovered-from-anesthesia patients, and children whose side rails were not raised and locked; failure to observe and act; failure to report observations to physicians (cyanotic, cold toes in a leg cast not reported, leading to gangrene and below-knee amputation; the court found the nurse negligent).
+~ 4 Ds: Duty, Dereliction (breach), Direct cause/foreseeability, Damage
+
+I1 | Commission or omission of an act, pursuant to a duty, that a reasonably prudent person would or would not do, which is the proximate cause of injury to another.
+= Negligence | professional negligence
+:: Negligence = failing to act as a reasonable person would, causing injury.
+
+I2 | Element of negligence: harm resulting from failure to meet the standard could have been predicted.
+= Foreseeability | foreseeability of harm
+:: Foreseeability means a reasonable nurse could predict the harm.
+
+I2 | Element of negligence: the person charged had this, requiring due care under the circumstances.
+= Duty | existence of a duty
+:: Element 1 is the existence of a duty.
+
+M2 | Which list gives the four elements of professional negligence in the module?
++ Duty, failure to meet the standard of due care, foreseeability of harm, injury resulting from the breach :: These are the four elements.
+- Consent, object, cause, damages :: Consent, object, and cause are contract elements.
+- Criminal act, criminal intent, conspiracy, motive :: These relate to crime.
+- Forewarning, immediacy, consistency, impartiality :: These are Hot Stove rules.
+
+MS2 | A nurse applies a hot water bag to an unconscious patient without checking the temperature, and the patient gets a burn. What is this?
++ Professional negligence :: Burns from hot water bags are a common act of negligence listed in the module.
+- Force majeure :: The burn was preventable.
+- Battery :: Battery is intentional unconsented touching. This was a failure of due care.
+- Defamation :: Defamation is false statements.
+! Source note: the module says "hot water bugs". It most likely means "hot water bags".
+
+MS2 | A nurse notices that the toes of a patient in a leg cast are cyanotic and cold, but she does not report it. The leg becomes gangrenous and is amputated below the knee. What did the court find?
++ The nurse was negligent for failing to report to the physician and hospital authorities :: This is the module's example of failure to report observations.
+- No one was liable because gangrene is natural :: The court found the nurse negligent.
+- Only the physician was liable :: The nurse failed in her duty to report.
+- It was force majeure :: It was preventable.
+
+MS2 | After surgery, a sponge is found inside a patient's abdomen. Which common act of negligence is this?
++ Objects left inside the patient's body :: The module lists sponges, suction tips, and loose dentures in the trachea.
+- Burns from heat lamps :: No burn is involved.
+- Falls :: No fall happened.
+- Failure to report observations :: The issue is a retained object.
+
+MS2 | A sedated elderly patient falls from bed because the side rails were left down. Is the nurse liable?
++ Yes. Falls of sedated or elderly patients when side rails are not raised are a common act of negligence. :: The module lists falls of elderly, confused, unconscious, and sedated patients.
+- No. Falls are always accidents. :: Preventable falls are negligence.
+- No. Only the doctor is responsible for falls. :: Nurses are responsible for fall prevention.
+- No. It is force majeure. :: A fall from unrailed bed is not an act of God.
+
+M3 | Which element of negligence is the "proximate cause" link?
++ The breach of the standard resulted in injury to the plaintiff :: The fourth element links the breach to the injury.
+- The existence of a duty :: Duty is element 1.
+- Foreseeability of harm :: Foreseeability is about predicting harm.
+- Failure to meet the standard :: That is the breach itself.
+! Source note: the module's malpractice section says "The chorus showing a breach of professional duty". It most likely means "the element showing a breach". Please verify.
+
+# u12-doctrines | Legal doctrines: res ipsa loquitur, respondeat superior, force majeure | Legal Responsibilities › Legal Terminologies
+> Res ipsa loquitur = "the thing speaks for itself": the injury could not have happened without negligence, so no further proof is required (patient walks in for a buttock injection, then has extreme pain, leg weakness, and paralysis from sciatic nerve injury). Respondeat superior = "let the master answer": employers or superiors are legally responsible for the negligent acts of employees or subordinates done within the scope of employment. Force majeure = "an act of God": an unavoidable event (natural disasters, pandemics) that prevents a person from fulfilling a duty.
+
+I2 | Legal doctrine meaning "the thing speaks for itself."
+= Res ipsa loquitur
+:: The injury itself shows negligence, so no further proof is needed.
+
+I2 | Legal doctrine meaning "let the master answer."
+= Respondeat superior
+:: The employer answers for the employee's negligent acts within the scope of employment.
+
+I2 | Legal doctrine meaning "an act of God."
+= Force majeure
+:: Force majeure = an unavoidable event like a disaster or pandemic.
+
+MS2 | A patient walks into the OPD for an injection. After the nurse injects his buttock, he has extreme pain, his leg weakens, and he becomes paralyzed from sciatic nerve injury. Which doctrine lets the court presume negligence?
++ Res ipsa loquitur :: "The thing speaks for itself": this injury normally does not happen without negligence. This is the module's example.
+- Respondeat superior :: That makes the employer answer for the employee.
+- Force majeure :: That is an unavoidable act of God.
+- Privileged communication :: That is about confidentiality.
+
+MS2 | A staff nurse is sued for a medication error made during her shift. The patient also sues the hospital, as her employer. Which doctrine allows suing the hospital?
++ Respondeat superior :: The employer answers for negligent acts of employees within the scope of employment.
+- Res ipsa loquitur :: That is about the injury proving negligence.
+- Force majeure :: There is no act of God.
+- Moral turpitude :: That is about base, vile acts.
+
+MS2 | A strong typhoon floods the hospital and cuts power. The nurse cannot give scheduled nebulizations because all machines are down. Which doctrine may excuse her?
++ Force majeure :: An unavoidable event like a natural disaster prevented her from fulfilling the duty.
+- Res ipsa loquitur :: That presumes negligence.
+- Respondeat superior :: That puts liability on the employer.
+- Assault :: Assault is causing fear of harm.
+
+M3 | For respondeat superior to apply, the employee's negligent act must occur:
++ Within the scope of employment :: The module says the doctrine applies when acts occur within the scope of employment.
+- Outside working hours :: Acts outside employment are not covered.
+- Only during a natural disaster :: That relates to force majeure.
+- Only if the employee is a student :: Not a condition in the module.
+
+# u12-incompetence | Incompetence and malpractice | Legal Responsibilities › Incompetence / Malpractice
+> Incompetence = lack of ability or legal qualifications; unfit to discharge the required duty. A registered nurse who shows incompetence may have her certificate of registration revoked or suspended. Malpractice = a specific type of professional negligence where a licensed professional fails to meet the standard of care, causing harm; in addition, the professional knew or should have known the actions were likely to cause harm; it implies some recklessness or gross deviation (surgeon operating while under the influence of alcohol).
+
+I2 | Lack of ability or legal qualifications, being unfit to discharge the required duty.
+= Incompetence | incompetency
+:: Incompetence can lead to revocation or suspension of the certificate of registration.
+
+I2 | Specific type of professional negligence where a licensed professional knew or should have known their actions would likely harm the patient.
+= Malpractice
+:: Malpractice adds the "knew or should have known" element and often recklessness.
+
+MS2 | A surgeon operates while drunk, makes a surgical error, and harms the patient. What is this?
++ Malpractice :: This is the module's malpractice example: a licensed professional who knew or should have known the risk, with recklessness.
+- Force majeure :: It was not unavoidable.
+- Assault :: Assault is fear of harm without contact.
+- Simple incivility :: This is a legal wrong, not just rudeness.
+
+M2 | What can happen to a registered nurse who manifests incompetence in her duties?
++ Her certificate of registration may be revoked or suspended :: The module says incompetence is ground for revocation or suspension.
+- Nothing, because she is already registered :: Registration does not protect incompetence.
+- She automatically becomes a nurse educator :: Not a consequence.
+- Her employer must give her a promotion :: Not a consequence.
+
+M3 | How does malpractice differ from ordinary negligence in the module?
++ Malpractice involves a licensed professional who knew or should have known the action would likely harm, often with recklessness :: The added knowledge and recklessness separate malpractice.
+- Malpractice never causes harm :: Malpractice results in harm.
+- Negligence only applies to doctors :: Negligence applies to anyone with a duty.
+- They are identical terms :: The module treats malpractice as a specific type of negligence.
+
+# u12-torts | Torts and crimes related to nursing practice | Legal Responsibilities › Crimes Related to Nursing Practice
+> Tort = a legal wrong against a person or property, independent of a contract, making the wrongdoer liable for damages in a civil action. Intentional torts = deliberate acts violating a person's rights. Assault = conduct that creates fear or reasonable apprehension of harm WITHOUT physical contact (nurse raises a hand in anger). Battery = intentional, UNCONSENTED TOUCHING (procedure without consent; treatment despite refusal). False imprisonment / illegal detention = restricting freedom to move without legal justification (holding a patient against his will, unauthorized restraints, keeping an AMA patient); staff should explain risks to patients who insist on leaving; documentation and a signed release protect staff. Invasion of right to privacy and breach of confidentiality = intruding on private affairs or disclosing private information without consent (discussing a condition in public, sharing information without permission, publishing a picture of a patient or a malformed baby without parental consent); RA 10173 protects personal information. Defamation = false information told to a THIRD PARTY that damages reputation: libel (written, printed, broadcast) and slander (spoken); a two-person exchange is not defamation; a third person must hear or read it.
+~ Assault = Air (no touch); Battery = Body touched. Libel = Literature (written); Slander = Spoken.
+
+I1 | A legal wrong against a person or property, independent of a contract, making the wrongdoer liable for damages in a civil action.
+= Tort | torts
+:: A tort leads to civil liability for damages.
+
+I2 | Deliberate acts that violate an individual's rights, leading to civil liability.
+= Intentional torts | intentional tort
+:: Intentional torts are deliberate, unlike negligence.
+
+I1 | Conduct that creates fear or reasonable apprehension of harm without actual physical contact.
+= Assault
+:: Assault = threat, no touch.
+
+I1 | Intentional, unconsented touching of another person.
+= Battery
+:: Battery = actual touching without consent.
+
+I2 | Restricting a person's freedom to move without legal justification. Also called illegal detention.
+= False imprisonment | illegal detention
+:: Holding a patient against his will or using unauthorized restraints is false imprisonment.
+
+I2 | Communicating false information about someone to a third party, damaging their reputation.
+= Defamation
+:: Defamation needs a third person.
+
+I2 | Written, printed, or broadcast defamation.
+= Libel
+:: Libel = written or broadcast.
+
+I2 | Spoken defamation.
+= Slander
+:: Slander = spoken.
+
+MS2 | An irritated nurse raises her hand at a confused patient, and the patient believes he will be hit. No contact is made. What is this?
++ Assault :: Creating fear of harm without contact is assault. This is the module's example.
+- Battery :: Battery needs actual touching.
+- False imprisonment :: The patient was not restrained.
+- Slander :: Nothing false was said about him.
+
+MS2 | A patient clearly refuses an IM injection, but the nurse gives it anyway. What is this?
++ Battery :: Giving treatment despite refusal is battery.
+- Assault :: There was actual touching, so it goes beyond assault.
+- Defamation :: No false statement was made.
+- Force majeure :: There is no act of God.
+
+MS2 | A nurse inserts an indwelling catheter without explaining or getting the patient's consent. What legal wrong is this?
++ Battery :: Performing a procedure without consent makes one liable for battery.
+- Assault :: There was actual contact.
+- Libel :: Nothing was written.
+- Respondeat superior :: That is a doctrine about employer liability.
+
+MS2 | A patient wants to go home against medical advice. The nurse locks the door and says he cannot leave until the doctor arrives. What legal wrong is this?
++ False imprisonment :: Keeping a patient who wants to leave AMA restricts his movement without legal justification.
+- Battery :: No unconsented touching is described.
+- Assault :: The issue is restricting movement.
+- Invasion of privacy :: No private information was disclosed.
+
+M2 | A patient insists on leaving against medical advice. What protects the staff from legal liability, according to the module?
++ Explaining the risks, documenting, and having the patient sign a release form :: The module says to explain risks, document, and get a signed release.
+- Restraining the patient until he changes his mind :: That is false imprisonment.
+- Hiding his clothes :: That restricts movement unlawfully.
+- Calling the police to detain him :: That is not what the module advises.
+
+MS2 | A nurse posts a photo of a newborn with a congenital malformation on social media without the parents' consent. What legal wrong is this?
++ Invasion of the right to privacy :: Publishing a picture of a malformed baby without parental consent is a module example.
+- Slander :: Nothing was spoken.
+- Battery :: No touching is involved.
+- Malpractice :: The wrong is about privacy, not standard of care.
+
+MS2 | In the hospital elevator, two nurses loudly discuss a VIP patient's HIV status while visitors listen. What is this?
++ Breach of confidentiality / invasion of privacy :: Discussing a patient's condition in a public space is a module example.
+- Libel :: Nothing was written.
+- Assault :: No threat of harm.
+- Force majeure :: Not an act of God.
+
+MS2 | A nurse writes a false post on Facebook claiming a colleague steals hospital supplies. What is this?
++ Libel :: False, damaging statements that are written or published are libel.
+- Slander :: Slander is spoken.
+- Assault :: No threat of harm.
+- Battery :: No touching.
+
+MS2 | At the nurses' station, a nurse tells three co-workers that a patient "has syphilis" with no factual basis. What is this?
++ Slander :: False, damaging statements that are spoken to third persons are slander.
+- Libel :: Nothing was written.
+- Battery :: No touching.
+- False imprisonment :: No restriction of movement.
+
+MS3 | In a private conversation with ONLY Nurse Joy, Nurse Kim insults her with false accusations. No one else hears it. Is this defamation?
++ No. Defamation needs a third person who hears or reads the statement. :: The module says an exchange between two persons is not defamation.
+- Yes, it is slander. :: Slander needs a third person.
+- Yes, it is libel. :: Nothing was written, and there was no third person.
+- Yes, it is battery. :: No touching occurred.
+
+I2 | Law named in the module that penalizes unauthorized disclosure of sensitive patient data (give the RA number).
+= RA 10173 | 10173 | Data Privacy Act
+:: RA 10173, the Data Privacy Act of 2012.
+
+# u12-crime | Crime, persons liable, moral turpitude, murder, homicide, abortion | Legal Responsibilities › Crime / Moral Turpitude / Murder
+> Crime = an act committed or omitted in violation of the law; two elements: (1) criminal act and (2) evil or criminal intent. Conspiracy = two or more persons agree to commit a felony and decide to do it. Persons who commit felonies: principals (take a direct part, or directly force or induce others), accomplices (not principals, cooperate by previous or simultaneous acts), accessories (assist by concealing evidence, helping escape, or benefiting from the crime, often with abuse of authority). Moral turpitude = an act of baseness, vileness, or depravity, contrary to accepted rules of right and duty (falsification of a public document). Murder = unlawful killing with intent to kill; death from criminal abortion is murder; euthanasia is also considered murder. Homicide = unlawful killing without the qualifying circumstances of murder; may occur without intent. Abortion = expulsion of the product of conception before viability; anyone who intentionally and unlawfully does an act to end a pregnancy is guilty of procuring abortion. The Constitution protects unborn life from conception; abortion is illegal in the Philippines.
+
+I1 | An act committed or omitted in violation of the law.
+= Crime
+:: A crime violates the law.
+
+M2 | What are the two elements of a criminal offense?
++ Criminal act and evil or criminal intent :: The module lists these two elements.
+- Duty and breach :: These are negligence elements.
+- Consent and cause :: These are contract elements.
+- Assault and battery :: These are torts.
+
+I2 | Exists when two or more persons agree to commit a felony and decide to do it.
+= Conspiracy
+:: Conspiracy = agreement plus decision to commit a felony.
+
+I2 | Persons who take a direct part in the execution of a crime or directly force or induce others to commit it.
+= Principals | principal
+:: Principals are directly involved.
+
+I2 | Persons who, not being principals, cooperate in the execution of the offense by previous or simultaneous acts.
+= Accomplices | accomplice
+:: Accomplices help before or during.
+
+I2 | Persons who assist the crime by concealing evidence, helping the offender escape, or benefiting from it.
+= Accessories | accessory
+:: Accessories help after the crime.
+
+MS2 | After a patient dies from a wrong drug, Nurse Lyn helps her colleague hide the empty vial and change the chart. Under the law, what is Nurse Lyn?
++ Accessory :: Concealing evidence after the crime makes her an accessory.
+- Principal :: She did not take a direct part in the act itself.
+- Accomplice :: Accomplices cooperate by previous or simultaneous acts.
+- Plaintiff :: The plaintiff files the case.
+
+MS3 | Nurse Mae holds the patient still while Nurse Neri injects a lethal dose, knowing what Neri intends. Nurse Mae is not the one who injects. What is Nurse Mae?
++ Accomplice :: She cooperated with a simultaneous act but did not directly execute the act.
+- Accessory :: Accessories help after the crime.
+- Principal :: The principal took the direct part (the injection).
+- Expert witness :: That is a court role.
+
+I2 | An act of baseness, vileness, or depravity in social or private duties, contrary to accepted rules of right and duty.
+= Moral turpitude
+:: Falsification of a public document is the module's example.
+
+MS2 | A nurse is convicted of falsifying a public document. How does the module classify this crime?
++ A crime involving moral turpitude :: The module says falsification of a public document is contrary to justice, honesty, and good morals.
+- Force majeure :: Not an act of God.
+- An intentional tort only :: It is a crime of moral turpitude.
+- Simple negligence :: It was deliberate.
+
+I2 | The unlawful killing of a human being with intent to kill.
+= Murder
+:: Murder requires intent to kill.
+
+I2 | Unlawful killing without the qualifying circumstances of murder; may occur without intent.
+= Homicide
+:: Homicide lacks murder's qualifying circumstances.
+
+I2 | Expulsion of the product of conception before the age of viability.
+= Abortion
+:: Abortion is illegal in the Philippines.
+
+M2 | According to the module, how are euthanasia and death from criminal abortion classified?
++ Both are considered murder :: The module says death from criminal abortion is murder, and euthanasia is also considered murder.
+- Both are homicide :: The module says murder.
+- Both are force majeure :: They are not acts of God.
+- Both are legal with family consent :: Both are crimes.
+
+M2 | What does the Philippine Constitution protect, according to the module?
++ Unborn life from conception :: The Constitution protects unborn life from conception. Abortion remains illegal.
+- The right to euthanasia :: Euthanasia is considered murder.
+- Abortion in the first trimester :: Abortion is illegal.
+- Abortion with a doctor's order :: Abortion is illegal.
+
+# u12-will | Will, decedent, heir | Legal Responsibilities › Will
+> Will = a legal declaration of a person's intentions upon death; a testamentary document that takes effect only after death; following legal formalities, it determines how the estate will be distributed. Decedent = a person whose property is transmitted through succession, with or without a will. Heir = a person entitled to inherit, through a will or by law.
+
+I2 | Legal declaration of a person's intentions upon death, taking effect only after death.
+= Will | testament | last will
+:: A will is a testamentary document.
+
+I2 | Person whose property is transmitted through succession, whether or not a will exists.
+= Decedent
+:: The decedent is the person who died.
+
+I2 | Person entitled to inherit, either through a will or by law.
+= Heir
+:: An heir inherits.
+
+M2 | Why is a will called a testamentary document?
++ It takes effect only after death :: The module says a will is testamentary because it takes effect only after death.
+- It is signed in court :: Not the reason given.
+- It is the same as an advance directive :: An advance directive is about medical treatment while alive.
+- It is used as evidence in negligence cases :: Not the reason given.
+
+MS2 | A dying patient's son asks if he will receive his father's land even though there is no will. What term describes the father and the son?
++ The father is the decedent; the son is an heir :: A decedent's property passes by succession with or without a will. An heir inherits by will or by law.
+- The father is the plaintiff; the son is the defendant :: These are court terms.
+- The father is the principal; the son is the accessory :: These are crime terms.
+- The father is the heir; the son is the decedent :: This is reversed.
+
+# u12-privileged | Privileged communication | Legal Responsibilities › Privileged Communication
+> Privileged communication = information a patient shares with healthcare providers remains confidential; protects against unauthorized disclosure and preserves trust. Legal basis: Data Privacy Act of 2012 (RA 10173). Nurses protect information unless the law requires disclosure, such as abuse or infectious disease reporting. Talk about patients in private settings, not public areas.
+
+I2 | Legal and ethical principle that information shared by a patient with healthcare providers remains confidential.
+= Privileged communication
+:: Privileged communication preserves trust between patients and providers.
+
+MS2 | A nurse finds signs of child abuse during an assessment. The parents ask her to keep it secret. What should she do?
++ Report it, because abuse is an exception to privileged communication :: The module says nurses must disclose when required by law, such as abuse.
+- Keep it secret because of privileged communication :: Abuse is a legal exception.
+- Post it online to warn others :: That is a privacy breach.
+- Tell only the neighbors :: That is not a lawful disclosure.
+
+M2 | Which is given in the module as an exception where a nurse may disclose patient information?
++ Infectious disease reporting required by law :: The module names abuse and infectious disease reporting.
+- A relative's curiosity :: Not an exception.
+- A request from a reporter :: Not an exception.
+- A co-worker not involved in care :: Not an exception.
+
+# u12-witness | Nurses as witnesses | Legal Responsibilities › Nurses as Witnesses
+> The attorneys determine whose testimony is needed. Subpoena = a court summons ordering a witness to appear and testify on a set date and time. Subpoena duces tecum = bring records, papers, and the like. Subpoena ad testificandum = appear and give oral testimony about what one personally knows. Fact witness = testifies on direct observations and patient interactions; only factual, objective details; no personal opinions. Expert witness = gives informed opinions on nursing standards in malpractice or negligence cases; helps the court know if care met standards. A trial is a search for truth; the nurse should seek a lawyer's counsel; testimony is under oath, so lying is perjury (false swearing under oath); she may say she does not know, and need not answer questions that might incriminate her (privilege against self-incrimination).
+
+I2 | A court summons directing a witness to appear and give testimony on the date and time ordered.
+= Subpoena
+:: A subpoena orders a witness to appear.
+
+I2 | Subpoena requiring a witness to bring records, papers, and the like.
+= Subpoena duces tecum | duces tecum
+:: Duces tecum = "bring with you".
+
+I2 | Subpoena requiring a person to appear and testify in court as a witness.
+= Subpoena ad testificandum | ad testificandum
+:: Ad testificandum = "to testify".
+
+I2 | Witness who gives informed opinions on nursing standards in malpractice or negligence cases.
+= Expert witness
+:: Expert witnesses explain the standard of care to the court.
+
+I2 | Witness who testifies only on direct observations and patient interactions, without personal opinions.
+= Fact witness
+:: Fact witnesses state only what they saw and documented.
+
+I2 | Lying while testifying under oath.
+= Perjury | false swearing
+:: Testimony is under oath, so lying is perjury.
+
+I2 | The right of a witness not to answer questions that might incriminate her.
+= Privilege against self-incrimination | self-incrimination | right against self-incrimination
+:: A witness need not answer questions that incriminate her.
+
+MS2 | A nurse receives a court order to bring the patient's chart and medication records to court. Which subpoena is this?
++ Subpoena duces tecum :: It requires bringing records and papers.
+- Subpoena ad testificandum :: That requires appearing to testify orally.
+- Advance directive :: That is a patient's treatment preferences.
+- Informed consent :: That is the patient's agreement to treatment.
+
+MS2 | A nurse is ordered to appear in court and orally testify about what she personally saw during a code. Which subpoena is this?
++ Subpoena ad testificandum :: It compels oral testimony about what she personally knows.
+- Subpoena duces tecum :: That requires bringing records.
+- Respondeat superior :: That is an employer liability doctrine.
+- Force majeure :: That is an act of God.
+
+MS2 | In a malpractice case, a nurse with 20 years of ICU experience explains to the court what the standard of care for ventilator patients is. What is her role?
++ Expert witness :: She gives informed opinions on nursing standards.
+- Fact witness :: A fact witness only states what she observed in the case.
+- Defendant :: She is not being sued.
+- Plaintiff :: She did not file the case.
+
+MS2 | A nurse who cared for the patient testifies only about the vital signs she took and what she saw, without giving opinions. What is her role?
++ Fact witness :: She shares only factual, objective details from her care.
+- Expert witness :: Expert witnesses give opinions on standards.
+- Accessory :: That is a crime term.
+- Plaintiff :: She did not file the case.
+
+MS2 | On the witness stand, the nurse is asked about a detail she truly cannot remember. What should she do?
++ Say she does not know :: The module says she should not hesitate to say she does not know.
+- Guess an answer so she sounds competent :: A false answer under oath risks perjury.
+- Refuse to answer every question :: She should aid the search for truth.
+- Change her chart to match :: That is falsification.
+
+M2 | When invited to be a witness, what should the nurse also do according to the module?
++ Seek the aid or counsel of a lawyer :: The module says she should seek a lawyer's counsel so she is guided.
+- Talk to the media first :: Not advised.
+- Destroy her notes :: That is a crime.
+- Refuse to appear :: A subpoena must be obeyed.
+
+# u12-consent | Informed consent, advance directives, and court parties | Legal Responsibilities › Informed Consent / Plaintiff / Defendant / Burden of Proof
+> Informed consent = a process where a patient voluntarily confirms willingness to undergo an intervention after being told the risks, benefits, and alternatives. The consent signed on admission covers the initial diagnosis and treatment only; later treatments or operations need individual informed consent. Consent must come from the patient or a legal representative before any procedure. Physicians must give full information. Treatment without consent can be assault or battery. Advance directives = legal documents stating treatment preferences in case the patient cannot communicate. Plaintiff = the party who files the lawsuit. Defendant = the party accused or sued. Burden of proof = the obligation to prove one's claim.
+
+I2 | Process through which a patient voluntarily confirms willingness to undergo an intervention after being told the risks, benefits, and alternatives.
+= Informed consent | consent
+:: Informed consent needs full information and a voluntary decision.
+
+I2 | Legal documents that let patients state their treatment preferences in case they cannot communicate their wishes.
+= Advance directives | advance directive | advanced directives | advanced directive
+:: Advance directives guide care when the patient cannot speak for himself.
+
+I2 | The individual or party who initiates a lawsuit by filing a complaint.
+= Plaintiff
+:: The plaintiff files the case.
+
+I2 | The individual or party being accused or sued in court.
+= Defendant
+:: The defendant answers the case.
+
+I2 | The obligation to prove one's claim in a legal proceeding.
+= Burden of proof
+:: The one who claims must prove it.
+
+MS2 | A patient signed a general consent on admission. On day 3, the doctor plans a cholecystectomy. What is needed?
++ A separate, individual informed consent for the operation :: The admission consent covers only initial diagnosis and treatment.
+- Nothing, the admission consent covers all operations :: Subsequent operations need individual consent.
+- Only the nurse's signature :: The patient or legal representative consents.
+- Only a verbal agreement from a roommate :: A roommate is not a legal representative.
+
+M2 | Who must provide full information so the patient can make an informed decision, according to the module?
++ The physician :: The module says physicians must provide full information.
+- The hospital cashier :: Not responsible.
+- The patient's neighbor :: Not responsible.
+- The nursing student :: Not responsible.
+
+MS2 | A patient with terminal cancer signs a document stating he does not want intubation if he can no longer speak for himself. What is this document?
++ Advance directive :: It states treatment preferences for when he cannot communicate.
+- Will :: A will is about distributing property after death.
+- Subpoena :: A subpoena orders a witness to court.
+- Informed consent for surgery :: It is a future treatment preference, not consent for a procedure now.
+
+MS2 | A patient files a negligence case against a nurse. Who is the plaintiff, and who has the burden of proof?
++ The patient is the plaintiff and must prove the claim :: The plaintiff files the case and has the obligation to prove it.
+- The nurse is the plaintiff and must prove her innocence :: The nurse is the defendant.
+- The judge is the plaintiff :: The judge decides the case.
+- The hospital is the plaintiff :: The patient filed the case.
+
+# u12-pointers | 12 pointers to avoid legal liability | Legal Responsibilities › Pointers
+> 1 Know the Philippine Nursing Law well. 2 Be aware of laws that affect nursing practice. 3 At the start of employment, get a copy of your job description and the agency's rules, regulations, and policies. 4 Upgrade your skills and competence. 5 Accept only responsibility within the scope of your employment and job description. 6 Delegate properly. 7 Determine whether subordinates are competent in the work you assign. 8 Develop good interpersonal relationships with co-workers, supervisors, peers, and subordinates. 9 Consult superiors for problems too big to handle. 10 Verify orders that are unclear or seem erroneous. 11 Inform the doctor about the patient's condition, effects of medications and treatments, or lack of progress. 12 Keep accurate and adequate records.
+
+I1 | Pointer: on the first day of employment, the nurse should get a copy of this document, plus the agency's rules, regulations, and policies.
+= Job description | her job description
+:: Knowing your job description protects you from acting outside your role.
+
+I2 | Pointer: what should the nurse do with orders that are not clear or seem erroneous?
+= Verify them | verify | verify the order | clarify
+:: Pointer 10: verify unclear or erroneous orders.
+
+MS2 | A doctor writes "digoxin 2.5 mg IV now" for an adult. The usual dose is much lower. What should the nurse do?
++ Verify the order with the doctor before giving it :: Pointer 10: verify orders that are unclear or seem erroneous.
+- Give it because the doctor wrote it :: Giving an erroneous order makes the nurse liable too.
+- Give half and chart the full dose :: That is falsification and unsafe.
+- Ignore it without telling anyone :: She must verify and communicate.
+
+MS2 | A head nurse asks a new nursing attendant to insert an NGT. She has not checked if he is trained. Which pointer is she ignoring?
++ Determine whether your subordinates are competent in the work you assign them :: Pointer 7 requires checking competence before assigning.
+- Keep accurate records :: Records are not the issue.
+- Inform the doctor of the patient's condition :: Not the issue.
+- Upgrade your skills :: The issue is the subordinate's competence.
+
+MS2 | A staff nurse is asked by a doctor to adjust a ventilator setting, which is outside her job description and training. What should she do?
++ Decline, because she should accept only responsibility within the scope of her employment and job description :: Pointer 5.
+- Do it because a doctor asked :: Acting outside her scope makes her liable.
+- Ask a nursing student to do it :: That is improper delegation.
+- Do it and not chart it :: That adds a documentation problem.
+
+MS2 | A patient's blood pressure has stayed high for two days despite medication. What should the nurse do according to the pointers?
++ Inform the doctor about the patient's lack of progress :: Pointer 11: inform the doctor of the condition, effects of medications, or lack of progress.
+- Wait until the patient complains :: Delay risks harm.
+- Double the dose on her own :: That is outside her scope.
+- Record it only in her personal notebook :: Records must be accurate and in the chart.
+
+MS2 | A nurse faces a family threatening to sue over a complex billing and care dispute that she cannot resolve. What does the pointer advise?
++ Consult your superiors for problems that may be too big for you to handle :: Pointer 9.
+- Handle it alone to avoid looking weak :: The pointer says consult superiors.
+- Ignore the family :: Avoiding can make it worse.
+- Post about it online :: That risks a privacy breach.
+
+MS1 | Which pointer protects the nurse most in a court case years later, because the chart shows exactly what was done?
++ Keep accurate and adequate records :: Pointer 12: records are the nurse's best legal evidence.
+- Develop good interpersonal relationships :: Helpful, but records are the evidence.
+- Upgrade skills :: Helpful, but not evidence.
+- Delegate properly :: Helpful, but not evidence.
+
+MS2 | A new graduate attends an IV therapy and ECG reading seminar to stay competent. Which pointer is she following?
++ Upgrade your skills and competence :: Pointer 4.
+- Know the Philippine Nursing Law :: That is about knowing RA 9173.
+- Verify unclear orders :: Not related.
+- Delegate properly :: Not related.
+
+MS2 | A nurse reviews RA 9173 and also studies RA 10173 and the Labor Code to protect her practice. Which pointers is she following?
++ Be familiar with the Philippine Nursing Law and be aware of laws that affect nursing practice :: Pointers 1 and 2.
+- Delegate properly and check subordinates' competence :: Pointers 6 and 7.
+- Consult superiors and verify orders :: Pointers 9 and 10.
+- Keep records and inform the doctor :: Pointers 11 and 12.
+
+MS2 | A charge nurse gives a nursing assistant only tasks that fit his role, like bed baths and vital signs, and keeps IV meds for RNs. Which pointer is this?
++ Delegate properly :: Pointer 6.
+- Accept only responsibility within your scope :: That is about the nurse's own tasks.
+- Keep accurate records :: Not the focus.
+- Inform the doctor :: Not the focus.
+
+MS1 | A nurse works on being respectful and cooperative with her supervisors, peers, and subordinates so the team communicates well. Which pointer is this?
++ Develop good interpersonal relationships :: Pointer 8.
+- Consult superiors :: That is for problems too big to handle.
+- Upgrade skills :: That is about competence.
+- Verify orders :: That is about unclear orders.

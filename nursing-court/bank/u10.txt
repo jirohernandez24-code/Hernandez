@@ -1,0 +1,278 @@
+@unit 10 | Standards of Nursing | The case of the unmet standard
+@note The Unit 10 PDF was not attached. This case file was built from the detailed Unit 10 outline in your plan, not from the module itself. Check these items against your Unit 10 module.
+
+# u10-standard | Standard; QA vs QI | Standards of Nursing (definition, QA vs QI)
+> A standard is a predetermined level of excellence that guides practice. Quality Assurance (QA) = monitoring and evaluating COMPLIANCE with standards (example: a monthly audit of the MAR to check the five rights). Quality Improvement (QI) = PROACTIVE, CONTINUOUS, DATA-DRIVEN change to improve processes (example: introducing an eMAR with staff training and a protocol review).
+~ QA = "Are we following the rule?" QI = "How can we make it better?"
+
+I1 | A predetermined level of excellence that guides practice.
+= Standard | standards
+:: A standard is set in advance and guides practice.
+! Source note: the Unit 10 PDF was not attached. This wording comes from the standard definition in Unit 9. Verify with the Unit 10 module.
+
+I2 | Quality approach that monitors and evaluates compliance with standards. Give the abbreviation.
+= QA | quality assurance
+:: QA checks if care complies with existing standards.
+
+I2 | Quality approach that is proactive, continuous, and data-driven, aiming to change and improve processes. Give the abbreviation.
+= QI | quality improvement | CQI | continuous quality improvement
+:: QI improves the system itself, not only checks compliance.
+
+MS2 | Every month the QA nurse audits the Medication Administration Records to check if the five rights were followed. Is this QA or QI?
++ Quality assurance (QA) :: It monitors and evaluates compliance with an existing standard (the five rights). This is the outline's QA example.
+- Quality improvement (QI) :: QI would change the process, for example by introducing an eMAR.
+- Structure audit :: A structure audit checks resources, not records of medication rights.
+- Benchmarking :: Benchmarking compares with best practices of others.
+
+MS2 | After repeated medication errors, the hospital introduces an electronic MAR (eMAR), trains the staff on it, and reviews the medication protocol. Is this QA or QI?
++ Quality improvement (QI) :: It is a proactive, data-driven change to the process. This is the outline's QI example.
+- Quality assurance (QA) :: QA only monitors compliance. Here the process itself was changed.
+- Retrospective audit :: An audit checks past care. Here a new system was introduced.
+- Constructive discipline :: Discipline addresses employee behavior, not system redesign.
+
+M2 | Which statement correctly compares QA and QI?
++ QA monitors compliance with standards; QI makes proactive, continuous, data-driven changes :: QA checks, QI improves.
+- QA and QI are exactly the same :: They have different focus.
+- QI only punishes employees who fail standards :: QI changes processes.
+- QA is always done by the patient :: QA is done by the organization.
+
+# u10-char | Characteristics of a standard | Standards of Nursing › Characteristics
+> A standard is (1) predetermined, (2) established by an authority, and (3) communicated to and accepted by those affected.
+~ P-E-C: Predetermined, Established by authority, Communicated and accepted
+
+I2 | Characteristic of a standard: it must be set by a recognized body or institution.
+= Established by an authority | established by authority | authority
+:: Standards come from a recognized body, such as the Board of Nursing.
+
+M2 | Which list gives the three characteristics of a standard?
++ Predetermined, established by an authority, communicated and accepted :: These are the three characteristics.
+- Optional, secret, and flexible :: Standards must be known and accepted.
+- Forewarning, consistency, impartiality :: These are Hot Stove rules.
+- Self-determination, meaning, impact :: These are empowerment components.
+
+# u10-practice | Standards for practice | Standards of Nursing › Standards for Practice
+> The standards for nursing practice in the Philippines are RA 9173 (Philippine Nursing Act of 2002) and the National Nursing Core Competency Standards (NNCCS).
+
+I1 | Republic Act known as the Philippine Nursing Act of 2002.
+= RA 9173 | 9173 | republic act 9173
+:: RA 9173 is the Philippine Nursing Act of 2002.
+
+M2 | Which two serve as standards for nursing practice in the Philippines?
++ RA 9173 and the National Nursing Core Competency Standards :: The outline names RA 9173 and the NNCCS.
+- RA 9288 and RA 7600 :: These are the Newborn Screening Act and the Rooming-In Act.
+- The Labor Code and the Civil Code :: These govern employment and contracts.
+- The IPSGs and BARS :: IPSGs are safety goals. BARS is an appraisal tool.
+
+# u10-scope | Scope of nursing (RA 9173, Art. IV, Sec. 28) | Standards of Nursing › RA 9173 Article IV Section 28
+> A person practices nursing when, singly or in collaboration with another, they initiate and perform nursing services to individuals, families, and communities in any health care setting, across life stages from conception to old age (outline wording). As independent practitioners, nurses are primarily responsible for health promotion and illness prevention. As members of the health team, nurses collaborate with other professionals for curative, preventive, and rehabilitative aspects of care, restoration of health, alleviation of suffering, and, when recovery is not possible, toward a peaceful death.
+
+I1 | Article and section of RA 9173 that defines the scope of nursing.
+= Article IV Section 28 | Section 28 | Art IV Sec 28 | Sec 28 | Art. IV, Sec. 28
+:: The scope of nursing is in Article IV, Section 28 of RA 9173.
+
+I2 | Under Section 28, as INDEPENDENT practitioners, nurses are primarily responsible for promotion of health and prevention of ____.
+= Illness | illness prevention | disease
+:: Independent role: health promotion and illness prevention.
+
+M2 | According to Section 28, nurses render services to whom?
++ Individuals, families, and communities, in any health care setting :: The scope covers individuals, families, and communities in any setting.
+- Only hospitalized adults :: The scope covers all life stages and settings.
+- Only patients with a doctor's order :: Nurses also act independently in health promotion.
+- Only private-sector clients :: Any health care setting is included.
+
+MS2 | A community nurse in a barangay runs a nutrition class for mothers on her own initiative. Under Section 28, which role is she performing?
++ Independent practitioner role: health promotion and illness prevention :: As an independent practitioner, the nurse is primarily responsible for promoting health and preventing illness.
+- Health team member role: curative care only :: Curative care is done in collaboration. This is health promotion.
+- Expert witness role :: That is a legal role in court.
+- Medical coding role :: That is a BPO-related field.
+
+MS2 | A terminally ill patient will not recover. The nurse works with the team to relieve pain and support the family toward a peaceful death. Is this within the scope of nursing?
++ Yes. Section 28 includes relief of suffering and a peaceful death when recovery is not possible. :: The scope includes alleviation of suffering and, when recovery is not possible, toward a peaceful death.
+- No. Nursing only covers patients who can recover. :: Section 28 includes end-of-life care.
+- No. End-of-life care belongs only to doctors. :: Nurses collaborate in this care.
+- Only if the family files a court order :: No court order is needed for nursing care.
+
+I2 | As members of the health team, nurses collaborate for curative, preventive, and ____ aspects of care.
+= Rehabilitative | rehabilitation
+:: Health team role: curative, preventive, and rehabilitative care.
+
+# u10-duties | Duties of nurses, Section 28 (a) to (e) | Standards of Nursing › Section 28 Duties
+> (a) Provide nursing care through the nursing process (assessment, diagnosis, planning, implementation, evaluation) using traditional and innovative approaches, therapeutic use of self, techniques and procedures (wound care, catheterization, vital signs), essential primary health care (vaccination, screening, maternal and child care), administer written prescriptions (oral, topical, parenteral meds), internal examination during labor in the absence of antenatal bleeding, and suturing of perineal laceration with special training. (b) Establish linkages with community resources and coordinate with the health team. (c) Provide health education. (d) Teach, guide, and supervise students in nursing education programs; administer nursing services; undertake consultation and decision-making. (e) Undertake human resource development training and research, and engage in advanced nursing practice.
+
+I2 | Under duty (a), the nurse's use of her own personality and relationship as a tool for healing.
+= Therapeutic use of self | therapeutic self
+:: Therapeutic use of self is listed in duty (a) as part of nursing care.
+
+I2 | Duty (a) lets nurses do internal examination during labor only in the absence of this condition.
+= Antenatal bleeding | bleeding
+:: Internal examination during labor is allowed when there is no antenatal bleeding.
+
+I3 | Under duty (a), what does the nurse need before suturing a perineal laceration?
+= Special training | training
+:: Suturing perineal laceration requires special training.
+
+M2 | Which is part of duty (a) of Section 28?
++ Providing nursing care through the nursing process, including written prescriptions (oral, topical, parenteral) :: Duty (a) covers nursing care via the nursing process, including administering written prescriptions.
+- Establishing linkages with community resources :: That is duty (b).
+- Providing health education :: That is duty (c).
+- Undertaking human resource development training and research :: That is duty (e).
+
+MS3 | A nurse in a lying-in clinic wants to do an internal exam on a laboring mother who has vaginal bleeding before delivery. Under duty (a), what should she do?
++ Not perform it, because internal examination is allowed only in the absence of antenatal bleeding :: The scope allows internal examination during labor only when there is no antenatal bleeding.
+- Perform it, because nurses can always do internal exams :: The condition (no antenatal bleeding) must be met.
+- Perform it only with a relative's permission :: Permission does not change the scope limit.
+- Suture the cervix first :: Suturing is for perineal laceration with special training.
+
+MS2 | A public health nurse connects a TB patient with the barangay health center and a local NGO that provides free transport for check-ups. Which duty is this?
++ Duty (b): establish linkages with community resources and coordinate with the health team :: Linking with community resources is duty (b).
+- Duty (a): nursing care :: The main action is linking to resources, not direct care.
+- Duty (d): teaching students :: No students are involved.
+- Duty (e): research :: This is not research.
+
+MS1 | A nurse teaches a newly diagnosed diabetic how to check his blood sugar and plan meals. Which duty is this?
++ Duty (c): provide health education :: Teaching patients about their health is duty (c).
+- Duty (b): linkages with community resources :: No referral is made.
+- Duty (d): teach and supervise students :: The learner is a patient, not a nursing student.
+- Duty (e): human resource development :: That is staff training and research.
+
+MS2 | A staff nurse serves as clinical instructor for BSN students and also sits on the hospital's nursing service decision-making committee. Which duty is this?
++ Duty (d): teach, guide, and supervise students; administer nursing services; consultation and decision-making :: Teaching students and decision-making fall under duty (d).
+- Duty (c): health education :: Health education is for clients.
+- Duty (a): nursing care :: She is not giving direct care here.
+- Duty (b): community linkages :: There is no community referral.
+
+MS2 | A nurse researcher leads a staff training program and conducts a study on pressure injury prevention. She also works as an advanced practice nurse. Which duty fits?
++ Duty (e): human resource development training and research, and advanced nursing practice :: Training, research, and advanced practice are duty (e).
+- Duty (c): health education :: That is teaching clients.
+- Duty (b): community linkages :: There is no community referral.
+- Duty (d): teaching students :: Her learners are staff, and the research and advanced practice point to duty (e).
+
+I2 | Under duty (a), give one example of essential primary health care the nurse may provide.
+= Vaccination | immunization | screening | maternal and child care | maternal-child care
+:: The outline lists vaccination, screening, and maternal and child care.
+
+M2 | Which list gives the steps of the nursing process named in duty (a)?
++ Assessment, diagnosis, planning, implementation, evaluation :: These are the five steps of the nursing process.
+- Latent, perceived, felt, manifest, aftermath :: These are the conflict process stages.
+- Determine criterion, collect information, take action :: These are quality control steps.
+- Forewarning, immediate consequences, consistency, impartiality :: These are Hot Stove rules.
+
+# u10-students | Exception for students, Code of Ethics duty, and continuing education | Standards of Nursing › Section 28 (exception and duties)
+> Exception: nursing students may perform nursing services under the direct supervision of a qualified faculty. Nurses have the duty to observe the Code of Ethics for nurses and uphold the standards of safe nursing practice. Continuing professional education: nurses must keep up with it, through programs from accredited or recognized organizations, submitted to and approved by the PRC Board of Nursing.
+
+I2 | Nursing students may perform nursing services only under the direct supervision of this person.
+= Qualified faculty | faculty | clinical instructor | qualified clinical instructor
+:: Students are an exception to the license requirement only under direct supervision of a qualified faculty.
+
+MS2 | A BSN student in the ward is asked by a staff nurse to give an IM injection alone while the clinical instructor is at the canteen. What does the scope of nursing say?
++ The student may perform nursing services only under the direct supervision of a qualified faculty :: The exception for students requires direct supervision by a qualified faculty.
+- The student may do it because she has a school ID :: A school ID does not replace faculty supervision.
+- Any staff nurse can replace the faculty without limits :: The outline names a qualified faculty.
+- The student can do any procedure once she passes the board exam review :: She is not yet licensed.
+
+M2 | Who must approve continuing professional education programs for nurses?
++ The PRC Board of Nursing :: Programs from accredited or recognized organizations are submitted to and approved by the PRC Board of Nursing.
+- DOLE :: DOLE oversees labor laws.
+- PhilHealth :: PhilHealth is the national health insurer.
+- The hospital's labor union :: Unions negotiate work terms.
+
+I2 | Nurses are duty-bound to observe this document, which sets the ethical standards of the profession.
+= Code of Ethics | code of ethics for nurses | Code of Ethics for Registered Nurses
+:: Section 28 says nurses must observe the Code of Ethics and safe practice standards.
+
+# u10-ethics | Observance of ethical standards and what the scope covers | Standards of Nursing › Observance of Ethical Standards / Conclusion
+> Observing ethical standards means safe practice, compassionate care for every client regardless of background, and advocacy that protects clients from harm. The scope of nursing covers independent and collaborative care for individuals, families, and communities in all settings and life stages, health promotion, illness prevention, curative and rehabilitative care, health education, community linkages, teaching and supervision, research, and continuing professional education.
+
+M2 | A nurse in a public hospital gives the same respectful, safe care to a homeless patient as to a mayor's relative. Which element of observing ethical standards is shown?
++ Compassionate care regardless of background :: Ethical standards require compassionate care for all, regardless of background.
+- Advanced nursing practice :: That is part of duty (e).
+- Benchmarking :: That compares performance with best practices.
+- Competing :: That is a conflict strategy.
+
+I2 | Under observance of ethical standards, the nurse speaks up for the patient and protects him from harm. What is this role called?
+= Advocacy | advocate | patient advocacy
+:: Advocacy means protecting the patient from harm and speaking up for his rights.
+
+# u10-nnccs | 2012 National Nursing Core Competency Standards | Standards of Nursing › 2012 NNCCS
+> The 2012 NNCCS framework places core competencies and performance indicators around care of individuals, families, population groups, and communities in varied settings. It describes the beginning nurse's roles in three areas: client care, leadership and management, and research. (The figure shows how many responsibilities each role has; those counts are not in the outline. The responsibilities are detailed in Unit 1.)
+
+I2 | Year of the National Nursing Core Competency Standards used in this unit.
+= 2012
+:: The outline refers to the 2012 NNCCS.
+
+I2 | Abbreviation for the National Nursing Core Competency Standards.
+= NNCCS
+:: NNCCS = National Nursing Core Competency Standards.
+
+M2 | Under the 2012 NNCCS, the beginning nurse's roles fall into which three areas?
++ Client care, leadership and management, research :: The outline lists these three roles of the beginning nurse.
+- Planning, organizing, controlling :: These are management functions.
+- Promise, momentum, harvest :: These are career stages from Unit 14.
+- Novice, competent, expert :: These are Benner's levels from Unit 14.
+! Source note: the number of responsibilities under each role is shown in a figure in the module and is not in your outline. I don't know the counts. Check Unit 10 (2012 NNCCS figure) and Unit 1.
+
+MS2 | A new staff nurse leads a small quality project and joins a unit study on fall rates. Under the NNCCS, which role areas is she using besides client care?
++ Leadership and management, and research :: Leading a project is leadership and management. Joining a study is research.
+- Promise and momentum :: These are career stages.
+- Outcome and process :: These are audit types.
+- Self-respect and respect from others :: These are self-esteem categories.
+
+# u10-accred | Accreditation in healthcare | Standards of Nursing › Accreditation in Healthcare
+> Accreditation = an external review that checks whether an organization meets set standards, to show and improve quality and safety. 1 Joint Commission (JCI): improves safety and quality; supports medical tourism; Philippine examples: St. Luke's Medical Center and The Medical City. 2 PhilHealth: the national health insurance program; accredited facilities meet national standards and can get reimbursement; gives patients access to affordable care (e.g., the NSD (normal spontaneous delivery) maternity package). 3 DOH licensure: a license to operate; a LEGAL REQUIREMENT, separate from accreditation; checks infrastructure, staffing, and operations; protects the public. 4 CHED: accredits academic programs (nursing, medicine, allied health), checking facilities, faculty, and curricula. Accreditation matters because it assures quality, safety, and public trust.
+
+I1 | External review process showing that a healthcare organization meets set standards of quality and safety.
+= Accreditation | accredited
+:: Accreditation shows an organization meets set standards.
+
+I2 | Philippine national health insurance program; accredited facilities can claim reimbursement.
+= PhilHealth | Philippine Health Insurance Corporation
+:: PhilHealth accreditation lets a facility be reimbursed and gives patients affordable care.
+
+I2 | Government agency that issues a license to operate to hospitals as a legal requirement.
+= DOH | Department of Health
+:: DOH licensure is a legal requirement, separate from accreditation.
+
+I2 | Agency that accredits academic programs such as nursing, medicine, and allied health.
+= CHED | Commission on Higher Education
+:: CHED checks facilities, faculty, and curricula of academic programs.
+
+MS2 | A mother delivers by normal spontaneous delivery at an accredited lying-in clinic. Most of her bill is covered through a maternity package. Which accreditation made this possible?
++ PhilHealth :: PhilHealth accreditation allows reimbursement, such as the NSD maternity package.
+- CHED :: CHED accredits schools.
+- Joint Commission International :: JCI accreditation is about international quality, not insurance coverage.
+- DOLE :: DOLE oversees labor.
+
+MS2 | A new private hospital in Malolos cannot legally open until it gets this, which checks its infrastructure, staffing, and operations.
++ DOH license to operate :: DOH licensure is the legal requirement to operate.
+- PhilHealth accreditation :: PhilHealth accreditation is for reimbursement. It is not the legal license.
+- CHED accreditation :: CHED accredits schools.
+- JCI accreditation :: JCI is voluntary international accreditation.
+
+M3 | How does DOH licensure differ from accreditation?
++ Licensure is a legal requirement to operate; accreditation is a separate review of meeting quality standards :: The outline says DOH licensure is a legal requirement and separate from accreditation.
+- They are the same process :: The outline separates them.
+- Licensure is optional; accreditation is required by law :: This is reversed.
+- Licensure is only for schools :: CHED handles schools.
+
+MS2 | A hospital wants to attract foreign patients for medical tourism. Which accreditation does the outline link to this, with St. Luke's and The Medical City as examples?
++ Joint Commission (International) accreditation :: The outline links JC/JCI accreditation to medical tourism, with St. Luke's and The Medical City as examples.
+- PhilHealth accreditation :: That is for national insurance reimbursement.
+- DOH license :: That is a legal requirement to operate, not for medical tourism.
+- CHED accreditation :: CHED is for academic programs.
+! Source note: the outline writes "JCIA" and "Join Commission" in this part. These most likely mean JCI and Joint Commission. Please verify with Unit 10.
+
+I2 | Name one Philippine hospital given as an example of Joint Commission accreditation.
+= St. Luke's Medical Center | St Luke's | St. Luke's | The Medical City | Medical City | St Lukes
+:: The outline names St. Luke's Medical Center and The Medical City.
+
+MS2 | A nursing school's program is reviewed for its facilities, faculty, and curriculum. Which body does this?
++ CHED :: CHED accredits academic programs by checking facilities, faculty, and curricula.
+- DOH :: DOH licenses hospitals.
+- PhilHealth :: PhilHealth accredits facilities for insurance.
+- Joint Commission :: JC accredits healthcare organizations.
+
+M2 | Why does accreditation matter, according to the closing statement?
++ It assures quality, safety, and public trust in healthcare :: Accreditation shows an organization meets standards of quality and safety.
+- It replaces the need for a nursing license :: Individual nurses still need a PRC license.
+- It guarantees higher salaries :: Pay is not the purpose of accreditation.
+- It removes the need for audits :: Accredited organizations still audit care.
